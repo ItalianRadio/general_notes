@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T12:25:38-06:00
+
+====== Arbiter ======
+Created Wednesday 29 May 2019
+
+Ingredients:
+[ ] Ancient Heart (2)
+[ ] [[Serenity:Meditation:Sanctuary|Sanctuary]] (1)
+[ ] [[+Bladesworn Talisman|Bladesworn Talisman]] (1)
+[ ] [[Serenity:Meditation:Endurance:Equilibrium|Equilibrium]] (1)
+[ ] Hallowed Ground (1)
+[ ] Ballistic Plating (1)
+[ ] Leathery Hide (1)
+Crafts:
+Arbiter (1)
+
+Can be sold by:
+Agarrad (Port Valbury: High Town) [Map]
+Vinelton (Feral Thicket) [Map]
+Hyram (Steelcap District) [Map]

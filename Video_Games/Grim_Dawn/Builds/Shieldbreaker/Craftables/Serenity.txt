@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T12:11:14-06:00
+
+====== Serenity ======
+Created Wednesday 29 May 2019
+
+Ingredients:
+[ ] Wendigo Spirit (4) - Farmable/Craftable
+[ ] [[+Meditation|Meditation]] (1)
+[ ] [[+Arbiter|Arbiter]] (1)
+[ ] [[+Mistborn Talisman|Mistborn Talisman]] (1)
+[ ] [[+Squall|Squall]] (1)
+Crafts:
+* Serenity (1)

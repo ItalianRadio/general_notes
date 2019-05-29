@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T11:34:12-06:00
+
+====== Shieldbreaker ======
+Created Wednesday 29 May 2019
+
+Gear:
+[ ] Blazeheart [L] {1H Sword}
+	[ ] Seal of Might {Comp}
+	[ ] Ravager's Eye [R] {Aug}
+[ ] Virtue's Defender [L][Set] {Shield}
+	[ ] Enchanted Flint {Comp}
+	[ ] Ravager's Eye [R] {Aug}
+[ ] [[+Craftables:Virtue's Gaze|Virtue's Gaze]] [L][Set] {Heavy Helm} (Blueprint Available)
+	[ ] Prismatic Diamond [R] {Comp}
+	[ ] Mankind's Vigil [E] {Aug}
+[ ] Virtue's Ward [L][Set] {Amulet}
+	[ ] Seal of Ancestry [R] {Comp}
+	[ ] Survivor's Ingenuity [R] {Aug}
+[ ] Mythical Combustion Band [L] {Ring}
+	[ ] Mark of Illusions {Comp}
+	[ ] Osyr's Temper [R] {Aug}
+[ ] Mythical Reign of Ice and Fire [L] {Ring}
+	[ ] Bloodied Crystal [M] {Comp}
+	[ ] Osyr's Temper [R] {Aug}
+[ ] Virtue's Armor [L][Set] {Heavy Chest Armor}
+	[ ] Sacred Plating [R] {Comp}
+	[ ] Mankind's Vigil [E] {Aug}
+[ ] Virtue's Guard [L][Set] {Heavy Shoulders}
+	[ ] Sacred Plating [R] {Comp}
+	[ ] Dreeg's Omen [E] {Aug}
+[ ] Mythical Handguards of Justice [L][Set] {Heavy Gloves}
+	[ ] Restless Remains {Comp}
+	[ ] Demonbane Powder [E] {Aug}
+[ ] Mythical Infernal Knight's Girdle [L][Set] {Belt}
+	[ ] Spellscorched Plating {Comp}
+	[ ] Demonbane Powder [E] {Aug}
+[ ] Rare Heavy Pants [R] {Heavy Pants}
+	[ ] Scaled Hide {Comp}
+	[ ] Mankind's Vigil [E] {Aug}
+[ ] Magic Heavy Boots [M] {Heavy Boots}
+	[ ] Ugdenbog Leather {Comp}
+	[ ] Demonbane Powder [E] {Aug}
+[ ] Rare Medal [R] {Medal}
+	[ ] Tainted Heart [M] {Comp}
+	[ ] Rune of Displacement [L] {Aug}
+[ ] [[+Craftables:Serenity|Serenity]] [Mythical] {Relic}

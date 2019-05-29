@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T12:07:21-06:00
+
+====== Seal of Might ======
+Created Wednesday 29 May 2019
+
+* Ugdenbloom (2)
+* Roiling Blood (1)
+* Polished Emerald (1)
+* Molten Skin (1)
+* Chipped Claw (1)
+Crafts:
+* Seal of Might (1/4)

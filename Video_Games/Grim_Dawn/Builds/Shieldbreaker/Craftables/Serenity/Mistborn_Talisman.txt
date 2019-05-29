@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T12:28:23-06:00
+
+====== Mistborn Talisman ======
+Created Wednesday 29 May 2019
+
+Ingredients:
+[ ] Troll Bonecrusher (1) - Only drops from trolls, sold by Benevald in blood grove
+[ ] Chipped Claw (1)
+[ ] Scavenged Plating (1)
+[ ] Roiling Blood (1)
+Crafts:
+Mistborn Talisman (1)
+
+Dropped from:
+Voldrak, the Destroyer [Map]
+Balegor, the Swamp King [Map]

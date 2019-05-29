@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T12:27:33-06:00
+
+====== Bladesworn Talisman ======
+Created Wednesday 29 May 2019
+
+Ingredients:
+[ ] Tainted Brain Matter (1)
+[ ] Chipped Claw (1)
+[ ] Polished Emerald (1)
+[ ] Resilient Plating (1)
+Crafts:
+Bladesworn Talisman (1)
+
+Faction: Devil's Crossing
