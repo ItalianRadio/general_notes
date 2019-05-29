@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T11:06:54-06:00
+
+====== General ======
+Created Wednesday 29 May 2019
+
+General Notepad for everything
