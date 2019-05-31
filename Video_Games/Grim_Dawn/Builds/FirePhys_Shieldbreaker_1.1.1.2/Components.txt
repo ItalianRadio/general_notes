@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T12:06:13-06:00
+
+====== Components ======
+Created Wednesday 29 May 2019
+
+[ ] 1 [[+Bloodied Crystal|Bloodied Crystal]]
+[ ] 1 [[+Enchanted Flint|Enchanted Flint]]
+[ ] 1 [[+Mark of Illusions|Mark of Illusions]]
+[ ] 1 [[+Prismatic Diamond|Prismatic Diamond]]
+[ ] 1 [[+Restless Remains|Restless Remains]]
+[ ] 2 [[+Sacred Plating|Sacred Plating]]
+[ ] 1 [[+Scaled Hide|Scaled Hide]]
+[ ] 1 [[+Seal of Ancestry|Seal of Ancestry]]
+[ ] 1 [[+Seal of Might|Seal of Might]]
+[ ] 1 [[+Spellscorched Plating|Spellscorched Plating]]
+[ ] 1 [[+Tainted Heart|Tainted Heart]]
+[ ] 1 [[+Ugdenbog Leather|Ugdenbog Leather]]
