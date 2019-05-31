@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-31T15:43:46-06:00
+
+====== Cold Reaper 1.1.2.2 ======
+Created Friday 31 May 2019
+
+https://www.grimtools.com/calc/L2Ja3akN
+
+Gear:
+[ ] Rare One-Handed Dagger [R] {1H Dagger}
+	[ ] Coldstone {Comp}
+	[ ] Malmouth's Redemption [R] {Aug}
+[ ] Rare One-Handed Dagger [R] {1H Dagger}
+	[ ] Shard of Beronath [R] {Comp}
+	[ ] Malmouth's Redemption [R] {Aug}
+[ ] Ravager's Dreadgaze [L] {Helm}
+	[ ] Sanctified Bone {Comp}
+	[ ] Wendigo Soulscent Powder [E] {Aug}
