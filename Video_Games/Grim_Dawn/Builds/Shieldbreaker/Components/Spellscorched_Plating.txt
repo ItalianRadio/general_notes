@@ -5,3 +5,10 @@ Creation-Date: 2019-05-29T12:10:21-06:00
 ====== Spellscorched Plating ======
 Created Wednesday 29 May 2019
 
+Ingredients:
+Ugdenbloom (2)
+Resilient Plating (1)
+Runestone (1)
+
+Crafts:
+Spellscorched Plating (1/4)

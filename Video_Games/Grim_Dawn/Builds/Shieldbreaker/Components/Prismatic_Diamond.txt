@@ -5,3 +5,15 @@ Creation-Date: 2019-05-29T12:08:51-06:00
 ====== Prismatic Diamond ======
 Created Wednesday 29 May 2019
 
+Ingredients:
+Aether Shard (9)
+Arcane Spark (1)
+Arcane Lens (1)
+Radiant Gem (1)
+Wrathstone (1)
+
+Crafts:
+Prismatic Diamond (1)
+
+Can be sold by:
+Vinelton (Feral Thicket) [Map] Req. Level 60
