@@ -8,8 +8,8 @@ Created Wednesday 29 May 2019
 Ingredients:
 [ ] Wendigo Spirit (4) - Farmable/Craftable
 [ ] [[+Meditation|Meditation]] (1)
-[ ] [[+Arbiter|Arbiter]] (1)
+[*] [[+Arbiter|Arbiter]] (1)
 [ ] [[+Mistborn Talisman|Mistborn Talisman]] (1)
-[ ] [[+Squall|Squall]] (1)
+[*] [[+Squall|Squall]] (1)
 Crafts:
 * Serenity (1)

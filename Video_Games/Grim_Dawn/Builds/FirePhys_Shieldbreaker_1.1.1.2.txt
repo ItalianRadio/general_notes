@@ -20,8 +20,8 @@ Gear:
 [ ] Virtue's Ward [L][Set] {Amulet}
 	[ ] [[+Components:Seal of Ancestry|Seal of Ancestry]] [R] {Comp}
 	[ ] [[+Augments:Survivor's Ingenuity|Survivor's Ingenuity]] [R] {Aug}
-[ ] Mythical Combustion Band [L] {Ring}
-	[ ] [[+Components:Mark of Illusions|Mark of Illusions]] {Comp}
+[*] Mythical Combustion Band [L] {Ring}
+	[*] [[+Components:Mark of Illusions|Mark of Illusions]] {Comp}
 	[ ] [[+Augments:Osyr's Temper|Osyr's Temper]] [R] {Aug}
 [ ] Mythical Reign of Ice and Fire [L] {Ring}
 	[ ] [[+Components:Bloodied Crystal|Bloodied Crystal]] [M] {Comp}
