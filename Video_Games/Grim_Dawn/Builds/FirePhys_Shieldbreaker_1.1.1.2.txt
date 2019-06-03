@@ -7,6 +7,19 @@ Created Wednesday 29 May 2019
 
 https://www.grimtools.com/calc/JVlJLllN
 
+Attributes:
+* Physique	[762]
+* Cunning 	[186]
+* Spirit		[58]
+
+Build:
+* Oathkeeper
+[ ] Reprisal (10)
+* Demolistionist
+[ ] Agonizing Flames (11)
+[ ] Vintictive Flame (5)
+[ ] Thermite Mine (5)
+
 Gear:
 [ ] Blazeheart [L] {1H Sword}
 	[ ] [[+Components:Seal of Might|Seal of Might]] {Comp}
