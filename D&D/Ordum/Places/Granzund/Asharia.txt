@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-28T16:15:18-06:00
+
+====== Asharia ======
+Created Tuesday 28 May 2019 - [[Ordum:Places:Granzund|back]]
+
+Human/Dragonborn/Elf/Orc/Halfling/Gnome/Tiefling
+
+A country created out of necessity, not want, the people of Asharia came together to defend against the invasion coming in from the north. By the time Asharia was created more than half of what now constitutes Asharia was taken by the Dwargon. The people came together and fought back, with the orcs and aarakocra attacking in way that the Dwargon had never seen before. After pushing back their foes and erecting a massive wall, the Asharians created something of a republic. While the south had had an emperor for a while, it was mostly just a title to respect. Ord gave the title to a wiseman, not originally of this plane and he chose to simply wait. After the war was over, the wiseman gave titles to all the peoples of Asharia. The wiseman realized there was a limitation on his blood magic and that he was only capable of dispensing eight titles when he had but two remaining, running out when it came to the orcs, lizardfolk, dragonborn, and goliaths. The goliaths and dragonborn came together saying that they would share a title that only the strongest amongst them would take and the lizardfolk saying the same with the orcs. Then the wiseman gave up the title of emperor to a young dragonborn named Zamghund. Zamghund declared that the kingdom would be a Republic and that he merely existed to arbitrate its function. Since then the emperors of Asharia have acted as such, intervening only to break ties and occasionally to eliminate corruption in Asharia's ranks.
+
+
+{{.\Asharia.png?width=700}}
