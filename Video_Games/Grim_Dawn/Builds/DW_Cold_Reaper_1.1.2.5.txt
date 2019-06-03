@@ -5,63 +5,9 @@ Creation-Date: 2019-06-03T11:45:36-06:00
 ====== DW Cold Reaper 1.1.2.5 ======
 Created Monday 03 June 2019
 
-
 https://www.grimtools.com/calc/L2Ja3akN
 
-Attributes:
-* Physique	[650]
-* Cunning 	[266]
-* Spirit		[90]
-
-Build:
-* Nightblade
-* Mastery 1
-		[ ] Dual Blades 				[16]
-		[ ] Amarasta's Blade Burst 		[3]
-		[ ] Veil of Shadow			[7]
-	* Mastery 5
-		[ ] Belgothian's Shears 		[1]
-		[ ] Pneumatic Burst			[9]
-	* Mastery 10
-		[ ] Shadow Strike				[1]
-		[ ] Breath of Belgothian		[1]
-		[ ] Phantasmal Armor			[6]
-	* Mastery 15
-		[ ] Lethal Assault				[12]
-		[ ] Shadow Dance			[11]
-		[ ] Night's Chill				[10]
-	* Mastery 20
-		[ ] Anatomy of Murder		[3]
-	* Mastery 25
-		[ ] Whirling Death			[1]
-		[ ] Nidalla's Justifiable Ends	[1]
-	* Mastery 32
-		[ ] Elemental Awakening		[6]
-		[ ] Merciless Repertoire		[1]
-	* Mastery 40
-	* Mastery 50
-		[ ] Execution					[8]
-		[ ] Blade Spirit				[1]
-		[ ] Nightfall					[1]
-* Necromancer
-	* Mastery 1
-		[ ] Reaping Strike 			[2]
-	* Mastery 5
-		[ ] Bone Harvest				[1]
-		[ ] Spectral Binding			[12]
-	* Mastery 10
-	* Mastery 15
-		[ ] Necrotic Edge				[5]
-		[ ] Spectral Wratch			[1]
-	* Mastery 20
-		[ ] Dread					[1]
-	* Mastery 25
-	* Mastery 32
-		[ ] Soul Harvest				[12]
-		[ ] Mark of Torment			[6]
-	* Mastery 40
-	* Mastery 50
-		* Harbinger of Souls			[9]
+[[+Attribute Points|Attribute Points]] | [[+Mastery Points|Mastery Points]] | [[+Devotion Points|Devotion Points]] | [[+End-Game Gear|End-Game Gear]]
 
 Leveling Gear wants:
 * Cold Damage %
@@ -74,4 +20,3 @@ Leveling Gear wants:
 	* Spectral Binding
 	* Soul Harvest
 
-End-Game Gear:
