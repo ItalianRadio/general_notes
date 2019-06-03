@@ -20,7 +20,23 @@ Build:
 [ ] Vintictive Flame (5)
 [ ] Thermite Mine (5)
 
-Gear:
+Leveling Gear wants:
+* Fire Damage %
+* Burn Damage %
+* Physical Damage %
+* Internal Trauma %
+* Resistances
+* Oathkeeper points
+	* Aegis of Menhir
+	* Avenging Shield
+	* Celestial Presence
+	* Divine Mandate
+* Demolitionist points
+	* Blast Shield
+	* Flame Touched
+	* Agonizing Flames
+
+End-Game Gear:
 [ ] Blazeheart [L] {1H Sword}
 	[ ] [[+Components:Seal of Might|Seal of Might]] {Comp}
 	[ ] [[+Augments:Ravager's Eye|Ravager's Eye]] [R] {Aug}
