@@ -7,3 +7,4 @@ Created Wednesday 29 May 2019
 
 * [[+FirePhys Shieldbreaker 1.1.1.2|FirePhys Shieldbreaker 1.1.1.2]]
 * [[+DW Cold Reaper 1.1.2.5|DW Cold Reaper 1.1.2.5]]
+* [[+Phys Tank Witchblade 1.1.2.2|Phys Tank Witchblade 1.1.2.2]]
