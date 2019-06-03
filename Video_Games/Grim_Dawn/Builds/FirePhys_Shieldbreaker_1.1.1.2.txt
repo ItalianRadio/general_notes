@@ -7,6 +7,19 @@ Created Wednesday 29 May 2019
 
 https://www.grimtools.com/calc/JVlJLllN
 
+Attributes:
+* Physique	[762]
+* Cunning 	[186]
+* Spirit		[58]
+
+Build:
+* Oathkeeper
+[ ] Reprisal (10) 3 left
+* Demolistionist
+[ ] Agonizing Flames (11)
+[ ] Vintictive Flame (5)
+[ ] Thermite Mine (5)
+
 Gear:
 [ ] Blazeheart [L] {1H Sword}
 	[ ] [[+Components:Seal of Might|Seal of Might]] {Comp}
@@ -20,8 +33,8 @@ Gear:
 [ ] Virtue's Ward [L][Set] {Amulet}
 	[ ] [[+Components:Seal of Ancestry|Seal of Ancestry]] [R] {Comp}
 	[ ] [[+Augments:Survivor's Ingenuity|Survivor's Ingenuity]] [R] {Aug}
-[ ] Mythical Combustion Band [L] {Ring}
-	[ ] [[+Components:Mark of Illusions|Mark of Illusions]] {Comp}
+[*] Mythical Combustion Band [L] {Ring}
+	[*] [[+Components:Mark of Illusions|Mark of Illusions]] {Comp}
 	[ ] [[+Augments:Osyr's Temper|Osyr's Temper]] [R] {Aug}
 [ ] Mythical Reign of Ice and Fire [L] {Ring}
 	[ ] [[+Components:Bloodied Crystal|Bloodied Crystal]] [M] {Comp}

@@ -9,7 +9,7 @@ Ingredients:
 [ ] Tainted Brain Matter (3)
 [ ] [[+Endurance|Endurance]] (1)
 [ ] [[+Vendetta|Vendetta]] (1)
-[ ] Sanctuary (1)
+[*] Sanctuary (1)
 [ ] Antivenom Salve (1)
 [ ] Spined Carapace (1)
 Crafts:

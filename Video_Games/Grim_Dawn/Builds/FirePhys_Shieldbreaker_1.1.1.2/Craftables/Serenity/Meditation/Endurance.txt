@@ -6,9 +6,9 @@ Creation-Date: 2019-05-29T12:14:05-06:00
 Created Wednesday 29 May 2019
 
 [ ] Blood of Ch'thon (2)
-[ ] [[+Fervor|Fervor]] (1)
-[ ] [[+Fortitude|Fortitude]] (1)
-[ ] [[+Equilibrium|Equilibrium]] (1)
+[*] [[+Fervor|Fervor]] (1)
+[*] [[+Fortitude|Fortitude]] (1)
+[*] [[+Equilibrium|Equilibrium]] (1)
 [ ] Ancient Armor Plate (1)
 [ ] Serrated Shell (1)
 [ ] Purified Salt (1)
