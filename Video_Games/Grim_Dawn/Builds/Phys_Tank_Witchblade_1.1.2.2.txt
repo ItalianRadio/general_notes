@@ -13,3 +13,5 @@ Leveling Wants:
 * Physical Damage %
 * Internal Trauma %
 * Soldier Points... Lots of them!
+* Occultist Points give regen?
+	* Blood of Dreeg
