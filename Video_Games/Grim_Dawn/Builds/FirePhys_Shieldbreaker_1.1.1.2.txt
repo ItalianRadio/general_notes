@@ -14,7 +14,7 @@ Attributes:
 
 Build:
 * Oathkeeper
-[ ] Reprisal (10) 3 left
+[ ] Reprisal (10) 1 left
 * Demolistionist
 [ ] Agonizing Flames (11)
 [ ] Vintictive Flame (5)
