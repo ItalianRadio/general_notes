@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T12:10:40-06:00
+
+====== Ugdenbog Leather ======
+Created Wednesday 29 May 2019
+
+Ingredients:
+Ugdenbloom (2)
+Antivenom Salve (1)
+Mutated Scales (1)
+
+Crafts:
+Ugdenbog Leather (1/4)

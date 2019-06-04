@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-03T15:31:55-06:00
+
+====== End-Game Gear ======
+Created Monday 03 June 2019
+
+[ ] Blazeheart [L] {1H Sword}
+	[ ] [[+Components:Seal of Might|Seal of Might]] {Comp}
+	[ ] [[+Augments:Ravager's Eye|Ravager's Eye]] [R] {Aug}
+[ ] Virtue's Defender [L][Set] {Shield}
+	[ ] [[+Components:Enchanted Flint|Enchanted Flint]] {Comp}
+	[ ] [[+Augments:Ravager's Eye|Ravager's Eye]] [R] {Aug}
+[ ] [[+Craftables:Virtue's Gaze|Virtue's Gaze]] [L][Set] {Heavy Helm} (Blueprint Available)
+	[ ] [[+Components:Prismatic Diamond|Prismatic Diamond]] [R] {Comp}
+	[ ] [[+Augments:Mankind's Vigil|Mankind's Vigil]] [E] {Aug}
+[ ] Virtue's Ward [L][Set] {Amulet}
+	[ ] [[+Components:Seal of Ancestry|Seal of Ancestry]] [R] {Comp}
+	[ ] [[+Augments:Survivor's Ingenuity|Survivor's Ingenuity]] [R] {Aug}
+[*] Mythical Combustion Band [L] {Ring}
+	[*] [[+Components:Mark of Illusions|Mark of Illusions]] {Comp}
+	[ ] [[+Augments:Osyr's Temper|Osyr's Temper]] [R] {Aug}
+[ ] Mythical Reign of Ice and Fire [L] {Ring}
+	[ ] [[+Components:Bloodied Crystal|Bloodied Crystal]] [M] {Comp}
+	[ ] [[+Augments:Osyr's Temper|Osyr's Temper]] [R] {Aug}
+[ ] Virtue's Armor [L][Set] {Heavy Chest Armor}
+	[ ] [[+Components:Sacred Plating|Sacred Plating]] [R] {Comp}
+	[ ] [[+Augments:Mankind's Vigil|Mankind's Vigil]] [E] {Aug}
+[ ] Virtue's Guard [L][Set] {Heavy Shoulders}
+	[ ] [[+Components:Sacred Plating|Sacred Plating]] [R] {Comp}
+	[ ] [[+Augments:Dreeg's Omen|Dreeg's Omen]] [E] {Aug}
+[ ] Mythical Handguards of Justice [L][Set] {Heavy Gloves}
+	[ ] [[+Components:Restless Remains|Restless Remains]] {Comp}
+	[ ] [[+Augments:Demonbane Powder|Demonbane Powder]] [E] {Aug}
+[ ] Mythical Infernal Knight's Girdle [L][Set] {Belt}
+	[ ] [[+Components:Spellscorched Plating|Spellscorched Plating]] {Comp}
+	[ ] [[+Augments:Demonbane Powder|Demonbane Powder]] [E] {Aug}
+[ ] Rare Heavy Pants [R] {Heavy Pants}
+	[ ] [[+Components:Scaled Hide|Scaled Hide]] {Comp}
+	[ ] [[+Augments:Mankind's Vigil|Mankind's Vigil]] [E] {Aug}
+[ ] Magic Heavy Boots [M] {Heavy Boots}
+	[ ] [[+Components:Ugdenbog Leather|Ugdenbog Leather]] {Comp}
+	[ ] [[+Augments:Demonbane Powder|Demonbane Powder]] [E] {Aug}
+[ ] Rare Medal [R] {Medal}
+	[ ] [[+Components:Tainted Heart|Tainted Heart]] [M] {Comp}
+	[ ] [[+Augments:Rune of Displacement|Rune of Displacement]] [L] {Aug}
+[ ] [[+Craftables:Serenity|Serenity]] [Mythical] {Relic}

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T12:10:57-06:00
+
+====== Rune of Displacement ======
+Created Wednesday 29 May 2019
+
+Ingredients:
+[ ] Celestial Lotus (1)
+[ ] Mark of the Traveler (1)
+[ ] Focusing Prism (1)
+[ ] Polished Emerald (1)
+
+Crafts:
+Rune of Displacement (1)

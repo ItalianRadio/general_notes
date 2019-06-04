@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T12:08:37-06:00
+
+====== Enchanted Flint ======
+Created Wednesday 29 May 2019
+
+Ingredients:
+Scrap (1)
+Searing Ember (1)
+
+Crafts:
+Enchanted Flint (1/4)

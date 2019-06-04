@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-03T15:31:20-06:00
+
+====== Attribute Points ======
+Created Monday 03 June 2019
+
+* Physique	[762]
+* Cunning 	[186]
+* Spirit		[58]

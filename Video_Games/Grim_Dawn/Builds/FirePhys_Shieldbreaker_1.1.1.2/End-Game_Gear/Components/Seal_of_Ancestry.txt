@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T12:09:06-06:00
+
+====== Seal of Ancestry ======
+Created Wednesday 29 May 2019
+
+Ingredients:
+Ugdenbloom (4)
+Bindings of Bysmiel (1)
+Oleron's Blood (1)
+Soul Shard (1)
+
+Crafts:
+Seal of Ancestry (1/4)
