@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-06-05T10:44:03-06:00
-
-====== Armor of Rage ======
-Created Wednesday 05 June 2019
-
-Makes foes angry at you. +2 to hit w/in 15ft. while wearing this armor cause they so mad, enemies more likely to attack you w/in 15 ft.

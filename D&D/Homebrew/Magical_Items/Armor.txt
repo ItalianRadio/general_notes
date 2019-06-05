@@ -5,7 +5,8 @@ Creation-Date: 2019-06-05T09:59:17-06:00
 ====== Armor ======
 Created Wednesday 05 June 2019
 
-[[+Armor of Arrow Attraction|Armor of Arrow Attraction]]
-[[+Armor of Rage|Armor of Rage]]
-[[+Bloodlust Armor|Bloodlust Armor]]
+[[+Full Plate of Arrow Attraction|Full Plate of Arrow Attraction]]
+[[+Armor of Anger|Armor of Anger]]
+[[+Chains of Bloodlust|Chains of Bloodlust]]
 [[+Breastplate of Unparalleled Protection|Breastplate of Unparalleled Protection]] 
+[[+Menhir's Ward|Menhir's Ward]]
