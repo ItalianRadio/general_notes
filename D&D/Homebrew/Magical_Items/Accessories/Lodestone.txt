@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:29:28-06:00
+
+====== Lodestone ======
+Created Wednesday 05 June 2019
+
+Halves movespeed, no flight. (RC3)

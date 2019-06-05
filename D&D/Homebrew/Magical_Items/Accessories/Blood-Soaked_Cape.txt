@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:25:59-06:00
+
+====== Blood-Soaked Cape ======
+Created Wednesday 05 June 2019
+
+Take 15dmg 1turn, blood on melee weps, +4d6 next melee atk. After 7 uses +4d8 -1 Wis (RC5) After 12 uses +4d10 -1Wis (RC6), After 17 uses -2Con (RC7), After 18 uses you disappear into shadow and come back 1d4 days later in the cloak as a revenant (Sunlight sensitivity, -2Wis (RC8), below 1/2 HP, heal prof beginning of turn) cloak deals +4d6 again (A)

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:28:49-06:00
+
+====== Grodak's Crayon of Dictation ======
+Created Wednesday 05 June 2019
+
+Approximately writes everything you say while activated in crayon, messy, all CAPS, and 90% misspelled

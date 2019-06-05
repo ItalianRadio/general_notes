@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:26:17-06:00
+
+====== Boots of Dancing ======
+Created Wednesday 05 June 2019
+
+Boots of Dancing	Boots of Elvenkind + Whenever you attempt to run from an enemy you are forced to dance, setting your maximum movement to 15 ft.

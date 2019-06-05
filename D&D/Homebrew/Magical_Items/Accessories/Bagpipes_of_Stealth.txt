@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:25:33-06:00
+
+====== Bagpipes of Stealth ======
+Created Wednesday 05 June 2019
+
+Grants a character playing the bagpipes invisibility. Just the character, not anything they're carrying
