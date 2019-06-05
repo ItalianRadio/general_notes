@@ -5,4 +5,11 @@ Creation-Date: 2019-06-05T10:27:44-06:00
 ====== Dead Eye's Eyepatch ======
 Created Wednesday 05 June 2019
 
-4 charges, regain 1d4+1/day, 1C: gain advantage on a ranged attack roll (Before roll), Intimidation prof, DAdv Perception (RC3)(A)
+No Attunement
+Eyepatch
+
+The eyepatch can hold **4 Charges, regaining 1d4+1 every day**
+1C: gain advantage on a ranged attack roll. This bonus can only be granted before you make your roll. 
+
+Additionally it grants proficiency in Intimidation
+Finally while you wear it you have Disadvantage on all Perception rolls made relying on your eyesight

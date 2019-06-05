@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-06-05T10:27:00-06:00
-
-====== Coat of the Duelist ======
-Created Wednesday 05 June 2019
-
-+Dex to AC, Each time you attack or impose a ST on a foe w/in 30ft, casts Compelled Duel as if your target had casted it w/ a ST of 15. (A)

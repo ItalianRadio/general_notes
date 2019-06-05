@@ -5,4 +5,8 @@ Creation-Date: 2019-06-05T10:26:30-06:00
 ====== Bracers of Opportunity ======
 Created Wednesday 05 June 2019
 
-Moving ALWAYS provokes AoO, BA dash
+No Attunement
+Bracers
+
+You can no longer take the Disengage action.
+You can take the Dash action as a bonus action.

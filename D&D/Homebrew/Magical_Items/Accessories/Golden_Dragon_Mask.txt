@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:28:35-06:00
+
+====== Golden Dragon Mask ======
+Created Wednesday 05 June 2019
+
+Requires Full Attunement
+Mask
+
+While you are wearing the Dragon Mask you have +1 all ST and are granted the **Dragonborn Breath** ability.
+
+**Dragonborn Breath:**
+As an action you breathe through the mask, damaging your foes with a dragon's breath. All enemies in a 15ft. cone must succeed on a Dexterity saving throw or be dealt fire damage by an amount decided by how many times you have used this ability since you last took a long rest.
+
+1. 6d6
+2. 5d6
+3. 4d6
+4. 3d6
+5+. 2d6

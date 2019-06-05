@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-06-05T10:27:30-06:00
-
-====== Crystal Orb of Frustration ======
-Created Wednesday 05 June 2019
-
-1/day when you know the roll, but before result, add +2 to DC of a spell. (SF)(A)

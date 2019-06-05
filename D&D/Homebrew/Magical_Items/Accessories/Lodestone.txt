@@ -5,4 +5,9 @@ Creation-Date: 2019-06-05T10:29:28-06:00
 ====== Lodestone ======
 Created Wednesday 05 June 2019
 
-Halves movespeed, no flight. (RC3)
+No Attunement - Cursed! RC3
+Small Rock
+
+While you possess the rock and know what it is, it is simply a non-magical rock.
+
+Whenever this rock is given to a creature that doesn't know what it is by a creature that does, the rock curses that creature. The cursed subject's movement speed is halved while they are cursed and they cannot fly, even by magical means. If the cursed creature tries to rid themselves of the rock they will find it on them. As an action, the creature that gave the rock away can recall it, magically. Recalling the rock removes the curse placed on the cursed creature.

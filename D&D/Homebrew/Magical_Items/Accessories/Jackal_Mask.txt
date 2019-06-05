@@ -5,4 +5,9 @@ Creation-Date: 2019-06-05T10:29:03-06:00
 ====== Jackal Mask ======
 Created Wednesday 05 June 2019
 
-1/SR Adv on atk roll. Prof in Dex ST (A)(RC3)
+Requires Partial Attunement
+Mask
+
+Once per short rest you may use this item to grant yourself Advantage on an attack roll.
+
+While you are attuned to the **Jackal Mask** you have proficiency in Dexterity ST.

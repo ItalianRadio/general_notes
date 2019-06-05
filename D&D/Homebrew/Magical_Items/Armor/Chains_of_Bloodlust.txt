@@ -5,7 +5,7 @@ Creation-Date: 2019-06-05T10:44:27-06:00
 ====== Chains of Bloodlust ======
 Created Wednesday 05 June 2019
 
-Requires Attunement
+Requires Full Attunement
 Chainmail
 **Grants Abilities: Bloodlust**
 
