@@ -6,7 +6,7 @@ Creation-Date: 2019-06-03T15:31:41-06:00
 Created Monday 03 June 2019
 
 * Oathkeeper
-[ ] Reprisal (10) 3 left
+[ ] Reprisal (10) 1 left
 * Demolistionist
 [ ] Agonizing Flames (11)
 [ ] Vintictive Flame (5)
