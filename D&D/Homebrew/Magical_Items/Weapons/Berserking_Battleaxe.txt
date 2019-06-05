@@ -6,7 +6,7 @@ Creation-Date: 2019-06-05T10:47:25-06:00
 Created Wednesday 05 June 2019
 
 Requires Attunement
-Battleaxe
++3 Battleaxe
 
 Puts you in a 20th level Barbarian **Rage** when grasped with both hands. 
 The following changes are made when you **Rage** using this weapon:

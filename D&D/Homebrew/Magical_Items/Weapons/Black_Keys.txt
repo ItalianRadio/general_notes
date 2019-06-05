@@ -6,7 +6,7 @@ Creation-Date: 2019-06-05T11:08:15-06:00
 Created Wednesday 05 June 2019
 
 Requires Full Attunement
-Dual Shortswords/One Longsword
++3 Dual Shortswords/One Longsword
 Blades, hilt, and guard of these weapons are completely black. When the weapon changes form, a discordant chime is played as if you hit all the black keys on a piano.
 
 As a bonus action you can put the shortswords together into a longsword or take the longsword apart and be left with two shortswords. 

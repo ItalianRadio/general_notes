@@ -6,7 +6,7 @@ Creation-Date: 2019-06-05T11:13:06-06:00
 Created Wednesday 05 June 2019
 
 Require Partial Attunement
-Pair of Daggers
++2 Pair of Daggers
  
 Once per day when you hit a creature with a thrown **Blink Dog Blade** you may cast //dimension door// as a free action targeting a space within 5ft of the foe hit by the **Blink Dog Blade**. If you successfully cast //dimension door// in this way, the **Blink Dog Blade** that allowed you to cast //dimension door// reappears in your hand.
 

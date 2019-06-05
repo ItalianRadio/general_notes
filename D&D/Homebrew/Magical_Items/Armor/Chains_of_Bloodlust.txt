@@ -6,7 +6,7 @@ Creation-Date: 2019-06-05T10:44:27-06:00
 Created Wednesday 05 June 2019
 
 Requires Full Attunement
-Chainmail
++3 Chainmail
 **Grants Abilities: Bloodlust**
 
 **Bloodlust**:

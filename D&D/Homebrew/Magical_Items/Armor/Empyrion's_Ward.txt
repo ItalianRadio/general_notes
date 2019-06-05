@@ -6,6 +6,6 @@ Creation-Date: 2019-06-05T11:34:23-06:00
 Created Wednesday 05 June 2019
 
 Requires Full Attunement
-Full Plate
++2 Full Plate
 
 Lets you cast //Compelled Duel// once per turn without using an action. You do not have to concentrate on this //Compelled Duel// as the spirit of Menhir shall concentrate on it for you. You may only have one creature caught under this armor's effect at a time.

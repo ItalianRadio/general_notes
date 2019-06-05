@@ -2,11 +2,13 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-06-05T11:16:16-06:00
 
-====== Ring of Illusory Blades ======
+====== Dreeg's Illusory Blades ======
 Created Wednesday 05 June 2019
 
-Attunement required
-While you're attuned to this weapon as a bonus action you can summon either a **Shadow Blade** (as the spell) or a **Phantasmal Blade** to your hand. You can only have one such blade out at a time and if you summon a blade to your hand while another is out the original disappears.
+Requires Full Attunement
+Ring
+
+While you're attuned to this ring, as a bonus action you can summon either a **Shadow Blade** (as the spell) or a **Phantasmal Blade** to your hand. You can only have one such blade out at a time and if you summon a blade to your hand while another is out the original disappears.
 
 These weapons share proficiency with shortswords and have the finesse, light, and thrown properties (range 20/60). If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while you have the blade "summoned", you can use a bonus action to cause it to reappear in your hand.
 

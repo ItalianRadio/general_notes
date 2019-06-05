@@ -5,4 +5,8 @@ Creation-Date: 2019-06-05T11:10:46-06:00
 ====== Filth ======
 Created Wednesday 05 June 2019
 
-4 charges, regain 1d4+1/day, 1C: on hit +2d4 necrotic damage
+No Attunement
++0 Dagger
+
+4 charges, regains 1d4 +1/day 
+1C: on hit +2d4 necrotic damage

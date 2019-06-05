@@ -5,7 +5,6 @@ Creation-Date: 2019-06-05T09:59:21-06:00
 ====== Weapons ======
 Created Wednesday 05 June 2019
 
-[[+Bloodsoaked Greatsword|Bloodsoaked Greatsword]]
 [[+Backbiter|Backbiter]]
 [[+Berserking Battleaxe|Berserking Battleaxe]]
 [[+Black Keys|Black Keys]]
@@ -22,7 +21,7 @@ Created Wednesday 05 June 2019
 [[+Prism Glaive|Prism Glaive]]
 [[+Quadraquarterstaff|Quadraquarterstaff]]
 [[+Radnelak Cutlass|Radnelak Cutlass]]
-[[+Ring of Illusory Blades|Ring of Illusory Blades]]
+[[+Dreeg's Illusory Blades|Dreeg's Illusory Blades]]
 [[+Sea Seeker|Sea Seeker]]
 [[+Starkiller|Starkiller]]
 [[+The Frayed Blade|The Frayed Blade]]

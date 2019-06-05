@@ -5,4 +5,7 @@ Creation-Date: 2019-06-05T11:12:30-06:00
 ====== Boastful Rapier ======
 Created Wednesday 05 June 2019
 
+No Attunement
++1 Rapier
+
 Deals 1d4 (instead of 1d8) until you flatter it, then it deals 1d12

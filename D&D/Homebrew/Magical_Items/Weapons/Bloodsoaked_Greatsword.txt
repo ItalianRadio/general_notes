@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-06-05T10:46:07-06:00
-
-====== Bloodsoaked Greatsword ======
-Created Wednesday 05 June 2019
-
-Only gives its enhancement bonuses after it's covered in blood

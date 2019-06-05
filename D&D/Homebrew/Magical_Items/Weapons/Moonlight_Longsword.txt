@@ -5,4 +5,7 @@ Creation-Date: 2019-06-05T11:10:35-06:00
 ====== Moonlight Longsword ======
 Created Wednesday 05 June 2019
 
+Requires Full Attunement
++3 Longsword
+
 Use a wep other than this 3 times, this becomes a non-magic longsword you aren't prof w/. Each time deal dmg whispers secrets, if fail gain indefinite madness from DMG, after 10 times DC12 WisST, then 2H deals +1d6 radiant. after 20 DC15 WisST, then wep has 6 charges, regain 1d6+1 each LR. Moonlight Burst(4C): 1/day DC8+prof+Int DexST 20ft radius 3d6radiant + 3d6force, half on save. after 30 DC18 WisST, then Moonlight Slash(1C): atk this turn w/ 30ft range. after 40 DC20 WisST, failing Moonlight Burst knocks prone. after 50 DC22 WisST, atks made w/ this wep deal +1d6+Int in radiant dmg. (A)

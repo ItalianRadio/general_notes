@@ -5,4 +5,8 @@ Creation-Date: 2019-06-05T11:11:12-06:00
 ====== Dirge ======
 Created Wednesday 05 June 2019
 
-+1d6 poison damage, poison seems to just fall off the weapon
+Requires Full Attunement
++1 Dagger
+Poison seems to just fall off the weapon
+
+**Dirge **deals an additional +1d6 poison damage on a hit
