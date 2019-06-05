@@ -5,4 +5,7 @@ Creation-Date: 2019-06-05T11:09:32-06:00
 ====== Quadraquarterstaff ======
 Created Wednesday 05 June 2019
 
+No Attunement
++1 Polearm
+
 Shifts into ANY polearm as a reaction or when drawn. When stowed shifts into a bamboo staff

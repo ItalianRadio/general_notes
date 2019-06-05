@@ -5,4 +5,10 @@ Creation-Date: 2019-06-05T11:08:42-06:00
 ====== The Frayed Blade ======
 Created Wednesday 05 June 2019
 
-6 charges, regain 1d6+1/day, 2C: As an attack, 30ft line DC 8+prof+Dex/Str DexST or deal atk dmg. 4C: Adv on atks w/ this wep this turn. Atk w/ other wep DC  8+prof+Dex/Str WisST or you can't use other wep. Move +30ft away DC 8+prof+Dex/Str WisST or you run back. Fail ST's gain indefinite madness from DMG
+Requires Full Attunement
++3 War Scythe
+You can't tell where the blade ends, it just seems to vanish into nothingness.
+
+This weapon has 6 charges and regains 1d6 + 1 each morning. It has the following abilities:
+* 2C: As an attack, you may attack each creature in a 30ft line. 
+* 4C: You gain Advantage on all attacks made with the **Frayed Blade** until the beginning of your next turn.

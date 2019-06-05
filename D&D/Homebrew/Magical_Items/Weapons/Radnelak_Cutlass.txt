@@ -5,4 +5,13 @@ Creation-Date: 2019-06-05T11:09:18-06:00
 ====== Radnelak Cutlass ======
 Created Wednesday 05 June 2019
 
-During day deals +1d8 necrotic dmg, during night, you're a skeleton, gain vul radiant & +cha temp hp every turn (A)
+Requires Full Attunement
++3 Shortsword
+
+Gain the following ability during the daytime:
+* Radnelak Cutlass deals an additional +1d8 necrotic dmg
+
+Gain the following abilities during the nighttime:
+* You appear to be a skeleton
+* Gain sunlight sensitivity
+* At the start of your turn gain temporary HP equal to your Charisma modifier
