@@ -5,4 +5,9 @@ Creation-Date: 2019-06-05T11:13:06-06:00
 ====== Blink Dog Blades ======
 Created Wednesday 05 June 2019
 
- (daggers)	1/day on hit dimension door to w/in 5ft of target. Returning (A)
+Require Partial Attunement
+Pair of Daggers
+ 
+Once per day when you hit a creature with a thrown **Blink Dog Blade** you may cast //dimension door// as a free action targeting a space within 5ft of the foe hit by the **Blink Dog Blade**. If you successfully cast //dimension door// in this way, the **Blink Dog Blade** that allowed you to cast //dimension door// reappears in your hand.
+
+While you are attuned to these daggers they both have range increments of 60/120 and return to you at the start of your turn if they were thrown.

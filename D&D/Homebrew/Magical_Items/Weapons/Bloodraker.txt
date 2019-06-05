@@ -5,4 +5,13 @@ Creation-Date: 2019-06-05T11:12:45-06:00
 ====== Bloodraker ======
 Created Wednesday 05 June 2019
 
-+5 (stacking) temp HP on kill, while you have Bloodraker temp HP, Adv ST, attacks, skills. Kill every 2 days or this becomes a nonmagical weapon
+Requires Full Attunement
+Greatsword
+
+Whenever you kill a foe with the **Bloodraker** in hand you are granted 5 temporary HP. If you already have temporary HP from the **Bloodraker** then add 5 temporary HP to your current temporary HP, otherwise you must replace your current temporary HP with temporary HP granted by the **Bloodraker** to receive the other benefits.
+
+While you have temporary HP granted by the **Bloodraker**, you gain the following benefits:
+* Advantage on Strength, Dexterity, Constitution, and Wisdom saving throws
+* Advantage on attack rolls made with the **Bloodraker**
+* Advantage on all skill checks that aren't Intelligence or Wisdom
+

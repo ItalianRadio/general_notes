@@ -5,4 +5,16 @@ Creation-Date: 2019-06-05T11:08:15-06:00
 ====== Black Keys ======
 Created Wednesday 05 June 2019
 
-(dual shortswords)	Put together (BA) = Longsword, thrown weapon 20/60 Range, Returning, 1 throw = 2 attacks (A)
+Requires Full Attunement
+Dual Shortswords/One Longsword
+Blades, hilt, and guard of these weapons are completely black. When the weapon changes form, a discordant chime is played as if you hit all the black keys on a piano.
+
+As a bonus action you can put the shortswords together into a longsword or take the longsword apart and be left with two shortswords. 
+
+If the weapon has changed form since the start of your last turn you get the following benefits depending on what form the keys are in:
+* If the swords are in longsword form, the longsword is **vorpal**.
+* If the swords are in shortsword form, they both deal an additional 1d10 slashing damage.
+
+**Vorpal Description:**
+The weapon ignores resistance to slashing damage.
+When you attack a creature that has at least one head with this weapon and roll a 20 on the attack roll, you cut off one of the creature’s heads. The creature dies if it can’t survive without the lost head. A creature is immune to this effect if it is immune to slashing damage, doesn’t have or need a head, has legendary actions, or the GM decides that the creature is too big for its head to be cut off with this weapon. Such a creature instead takes an extra 6d8 slashing damage from the hit.
