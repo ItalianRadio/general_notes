@@ -19,12 +19,9 @@ The modified version of **Rage** is listed below:
 
 **Rage:**
 In battle, you fight with primal ferocity. On your turn, you can enter a rage by switching to a two-handed grip on your battleaxe.
-
 While raging, you gain the following benefits if you aren’t wearing heavy armor:
-
 * You have advantage on Strength checks and Strength saving throws.
 * When you make a melee weapon attack using Strength, you gain a +4 bonus to the damage roll.
 * You have resistance to bludgeoning, piercing, and slashing damage.
 * If you are able to cast spells, you can’t cast them or concentrate on them while raging.
-
 Your rage lasts indefinitely. It ends early if you are knocked unconscious or if you start your turn and there are no creatures within 30ft of you.
