@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T09:59:51-06:00
+
+====== Accessories ======
+Created Wednesday 05 June 2019
+
+Bagpipes of Stealth	Grants a character playing the bagpipes invisibility. Just the character, not anything they're carrying
+Blood-Soaked Cape	Take 15dmg 1turn, blood on melee weps, +4d6 next melee atk. After 7 uses +4d8 -1 Wis (RC5) After 12 uses +4d10 -1Wis (RC6), After 17 uses -2Con (RC7), After 18 uses you disappear into shadow and come back 1d4 days later in the cloak as a revenant (Sunlight sensitivity, -2Wis (RC8), below 1/2 HP, heal prof beginning of turn) cloak deals +4d6 again (A)
+Boots of Dancing	Boots of Elvenkind + Whenever you attempt to run from an enemy you are forced to dance, setting your maximum movement to 15 ft.
+Bracers of Opportunity	Moving ALWAYS provokes AoO, BA dash
+Coat of the Duelist	+ Dex to AC, Each time you attack or impose a ST on a foe w/in 30ft, casts Compelled Duel as if your target had casted it w/ a ST of 15. (A)
+Crystal Orb of Frustration	1/day when you know the roll, but before result, add +2 to DC of a spell. (SF)(A)
+Dead Eye's Eyepatch	4 charges, regain 1d4+1/day, 1C: gain advantage on a ranged attack roll (Before roll), Intimidation prof, DAdv Perception (RC3)(A)
+Dragon Mask	+1 All ST, Dragonborn breath (A)
+Grodak's Crayon of Dictation	Approximately writes everything you say while activated in crayon, messy, all CAPS, and 90% misspelled
+Jackal Mask	1/SR Adv on atk roll. Prof in Dex ST (A)(RC3)
+Lifewell	Action, Heals you to full, age 10 years on use
+Lodestone	Halves movespeed, no flight. (RC3)
+Loincloth of the Mighty	While wearing ONLY the loincloth (no bags/belts, only other thing on your person allowed is weapons) +1 AC, +1 to hit & dmg w/ 2H wep, +prof to Intimidation
+Ring of Ancillary Jewelry	Wearer can wear an extra ring, Cursed? (A?)
+Ring of Chilling Comfort	BA, Chills drinks in your hand. Res Cold
+Ring of Fire Detection	Glows red when in fire
+Ring of Infinite Wonders	Roll on this chart: https://drive.google.com/file/d/0B3Jok3IwR5wjcGlGeW5FVEZodU0/view results are performed as favorably as possible (i.e. bad things happen to bad guys, good things good guys)
+Ring of Invisibility	Ring is invisible when worn
+Ring of Invulnerablility	Ring cannot be destroyed
+Ring of Mutual Ignorance	You're invisible to creatures you are not aware of
+Ring of Silence	You cannot make noise. Adv on Stealth, no talking/spells (RC3) (A)
+Robe of Powerlessness	While you wear it Str and Int set to 7. Take it off and everything's fine
+Robe of Vermin [Robe of Magic Res]	-2 Initiative, DisAdv Conc ST, Magic resistance (A)(RC3)
+The Bag of Rat	Pull out a rat once every 5 min. Same rat.
+Wand of Wand Creation	Disintigrates on use, creates a Wand of Wand Creation
+Ring of Servitude	4 charges, regain 4 charges each morning. 1 charge: Cast Tiny Servant with no concentration
