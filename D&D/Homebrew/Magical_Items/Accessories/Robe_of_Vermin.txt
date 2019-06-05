@@ -5,4 +5,14 @@ Creation-Date: 2019-06-05T10:34:57-06:00
 ====== Robe of Vermin ======
 Created Wednesday 05 June 2019
 
- [Robe of Magic Res]	-2 Initiative, DisAdv Conc ST, Magic resistance (A)(RC3)
+No Attunement - Cursed! RC3
+Robe
+
+When identified with a normally cast //Identify //(not upcast to a higher level spell) it appears to be a **Robe of Magic Resistance** granting the wearer Advantage on all saving throws imposed by spells or other magical effects.
+
+It's cursed though and when worn the robe constantly feels like there are rodents nibbling at you, even through armor and clothing. Due to this the robe also causes the following drawbacks:
+* You have a -2 penalty to initiative
+* You have Disadvantage on Concentration saving throws
+* You need an additional 2 hours of a long rest to relax completely (meaning that if you need 6 hours of sleep as part of an 8 hour long rest, you now need 8, if you needed 4 hours of meditation, you now need 6 while you wear the robe)
+
+A creature wishing to remove the robe for the first time must have remove curse cast upon them to be rid of it. Wearing and removing the robe from then on is no longer a problem and the creature feels like they know this upon removing it for the first time.

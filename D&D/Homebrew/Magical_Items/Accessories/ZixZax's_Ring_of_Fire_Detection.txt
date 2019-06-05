@@ -2,7 +2,10 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-06-05T10:30:30-06:00
 
-====== Ring of Fire Detection ======
+====== ZixZax's Ring of Fire Detection ======
 Created Wednesday 05 June 2019
+
+No Attunement
+Ring
 
 Glows red when in fire. Magic?
