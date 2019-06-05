@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:47:25-06:00
+
+====== Berserking Battleaxe ======
+Created Wednesday 05 June 2019
+
+Puts you in a 20th level barbarian Rage when grasped with both hands. Attack the closest person w/in 30 ft, when no one w/in 30ft rage ends and you wield in one hand

@@ -5,9 +5,9 @@ Creation-Date: 2019-06-05T09:59:21-06:00
 ====== Weapons ======
 Created Wednesday 05 June 2019
 
-$Weapon of Blood	Only gives its enhancement bonuses after it's covered in blood
-Backbiter	If you roll a 1 to hit, reroll the attack against yourself!
-Berserking $Weapon	Puts you in a Rage (Barbarian lvl 11) +3 damage when drawn. Attack the closest person w/in 30 ft, when no one w/in 30ft rage ends
+Bloodsoaked Greatsword
+Backbiter
+Berserking Battleaxe
 Black Keys (dual shortswords)	Put together (BA) = Longsword, thrown weapon 20/60 Range, Returning, 1 throw = 2 attacks (A)
 Blink Dog Blades (dagger)	1/day on hit dimension door to w/in 5ft of target. Returning (A)
 Bloodraker	+5 (stacking) temp HP on kill, while you have Mudraker temp HP, Adv ST, attacks, skills. Kill every 2 days or this becomes a nonmagical weapon

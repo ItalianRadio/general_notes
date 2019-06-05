@@ -5,7 +5,7 @@ Creation-Date: 2019-06-05T09:59:17-06:00
 ====== Armor ======
 Created Wednesday 05 June 2019
 
-$Armor of Arrow Attraction	Gives those attacking you with projectiles a +10 to hit you
-$Armor of Rage	Makes foes angry at you. +2 to hit w/in 15ft. while wearing this armor cause they so mad, enemies more likely to attack you w/in 15 ft.
-Bloodlust $Armor	Can rage as a 1st level Barb, 1 level exhaustion after rage (A)
-Breastplate of Unparalleled Protection	(RC8) Feel no pain, On KO 1-5 times +1 to AC, 6 -10 MS/No flight, 7 Res phys, 8 Immune non-magic phys, 9 No eat/drink/breath/age, 10+ 8th level petrify 
+[[+Armor of Arrow Attraction|Armor of Arrow Attraction]]
+[[+Armor of Rage|Armor of Rage]]
+[[+Bloodlust Armor|Bloodlust Armor]]
+[[+Breastplate of Unparalleled Protection|Breastplate of Unparalleled Protection]] 
