@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:11:44-06:00
+
+====== Cestus of Abduction ======
+Created Wednesday 05 June 2019
+
+On hit DC 8 + prof + Con ST. On fail, you move up to 5ft(no provoking), move foe anywhere w/in 5ft of you (A)

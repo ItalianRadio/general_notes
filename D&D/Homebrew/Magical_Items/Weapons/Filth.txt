@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:10:46-06:00
+
+====== Filth ======
+Created Wednesday 05 June 2019
+
+4 charges, regain 1d4+1/day, 1C: on hit +2d4 necrotic damage

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:08:53-06:00
+
+====== Starkiller ======
+Created Wednesday 05 June 2019
+
+1/day cast melf's minute meteors targeting each enemy w/in 120ft twice. DC8+prof+SCM(sky goes black, no sun, all stars) Causes the user to fall unconcious for 1 minute on use

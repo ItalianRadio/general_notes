@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:10:21-06:00
+
+====== Paloma's Shortsword ======
+Created Wednesday 05 June 2019
+
+On crit +char level in damage (A)

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:09:42-06:00
+
+====== Prism Glaive ======
+Created Wednesday 05 June 2019
+
++1d8 dmg 1/turn, roll 1d8 on initiative, start there. 1:fire, 2:cold, 3:lightning, 4:thunder, 5:poison, 6:necrotic, 7:acid, 8:heal self 1d8

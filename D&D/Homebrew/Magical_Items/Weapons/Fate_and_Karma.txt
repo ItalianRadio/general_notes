@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:11:00-06:00
+
+====== Fate and Karma ======
+Created Wednesday 05 June 2019
+
+ (dual daggers)	Both: Returning, 1/day Fan of Daggers: Action, enemies w/in 30ft Dex ST = 8+prof+Dex mod fail: 8d6 slash dmg, pass = 1/2 dmg; Fate: 2/day reroll a d20; Karma: reroll 1's on damage from daggers (A - use 1 attunement to wield 1 or both)

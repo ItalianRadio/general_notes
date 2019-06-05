@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:11:12-06:00
+
+====== Dirge ======
+Created Wednesday 05 June 2019
+
++1d6 poison damage, poison seems to just fall off the weapon

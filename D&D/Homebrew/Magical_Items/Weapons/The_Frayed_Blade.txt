@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:08:42-06:00
+
+====== The Frayed Blade ======
+Created Wednesday 05 June 2019
+
+6 charges, regain 1d6+1/day, 2C: As an attack, 30ft line DC 8+prof+Dex/Str DexST or deal atk dmg. 4C: Adv on atks w/ this wep this turn. Atk w/ other wep DC  8+prof+Dex/Str WisST or you can't use other wep. Move +30ft away DC 8+prof+Dex/Str WisST or you run back. Fail ST's gain indefinite madness from DMG

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:08:15-06:00
+
+====== Black Keys ======
+Created Wednesday 05 June 2019
+
+(dual shortswords)	Put together (BA) = Longsword, thrown weapon 20/60 Range, Returning, 1 throw = 2 attacks (A)

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:12:45-06:00
+
+====== Bloodraker ======
+Created Wednesday 05 June 2019
+
++5 (stacking) temp HP on kill, while you have Bloodraker temp HP, Adv ST, attacks, skills. Kill every 2 days or this becomes a nonmagical weapon

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:09:32-06:00
+
+====== Quadraquarterstaff ======
+Created Wednesday 05 June 2019
+
+Shifts into ANY polearm as a reaction or when drawn. When stowed shifts into a bamboo staff

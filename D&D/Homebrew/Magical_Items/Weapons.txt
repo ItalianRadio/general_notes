@@ -5,24 +5,23 @@ Creation-Date: 2019-06-05T09:59:21-06:00
 ====== Weapons ======
 Created Wednesday 05 June 2019
 
-Bloodsoaked Greatsword
-Backbiter
-Berserking Battleaxe
-Black Keys (dual shortswords)	Put together (BA) = Longsword, thrown weapon 20/60 Range, Returning, 1 throw = 2 attacks (A)
-Blink Dog Blades (dagger)	1/day on hit dimension door to w/in 5ft of target. Returning (A)
-Bloodraker	+5 (stacking) temp HP on kill, while you have Mudraker temp HP, Adv ST, attacks, skills. Kill every 2 days or this becomes a nonmagical weapon
-Boastful $Weapon	Deals 1 dmg until you flatter it, then it deals 1 die dmg higher until a rest
-Cestus of Abduction	On hit DC 8 + prof + Con ST. On fail, you move up to 5ft(no provoking), move foe anywhere w/in 5ft of you (A)
-Club of the Spring	Uses Int to hit and dmg. On dmg, ally w/in 5ft gets shield AC (A)
-Dirge	+1d6 poison damage, poison seems to just fall off the weapon
-Fate and Karma (dual daggers)	Both: Returning, 1/day Fan of Daggers: Action, enemies w/in 30ft Dex ST = 8+prof+Dex mod fail: 8d6 slash dmg, pass = 1/2 dmg; Fate: 2/day reroll a d20; Karma: reroll 1's on damage from daggers (A - use 1 attunement to wield 1 or both)
-Filth	4 charges, regain 1d4+1/day, 1C: on hit +2d4 necrotic damage
-Moonlight Longsword	Use a wep other than this 3 times, this becomes a non-magic longsword you aren't prof w/. Each time deal dmg whispers secrets, if fail gain indefinite madness from DMG, after 10 times DC12 WisST, then 2H deals +1d6 radiant. after 20 DC15 WisST, then wep has 6 charges, regain 1d6+1 each LR. Moonlight Burst(4C): 1/day DC8+prof+Int DexST 20ft radius 3d6radiant + 3d6force, half on save. after 30 DC18 WisST, then Moonlight Slash(1C): atk this turn w/ 30ft range. after 40 DC20 WisST, failing Moonlight Burst knocks prone. after 50 DC22 WisST, atks made w/ this wep deal +1d6+Int in radiant dmg. (A)
-Paloma's $Weapon	On crit +char level in damage (A)
-Prism Glaive	+1d8 dmg 1/turn, roll 1d8 on initiative, start there. 1:fire, 2:cold, 3:lightning, 4:thunder, 5:poison, 6:necrotic, 7:acid, 8:heal self 1d8
-Quadraquarterstaff	Shifts into ANY polearm as a reaction or when drawn. When stowed shifts into a bamboo staff
-Radnelak Cutlass	During day deals +1d8 necrotic dmg, during night, you're a skeleton, gain vul radiant & +cha temp hp every turn (A)
-Sea Seeker	If you make 1 atk on a turn & only use this weapon it deals 1d20 dmg instead of normal dmg cause pirates
-Starkiller	1/day cast melf's minute meteors targeting each enemy w/in 120ft twice. DC8+prof+SCM(sky goes black, no sun, all stars) Causes the user to fall unconcious for 1 minute on use
-The Frayed Blade	6 charges, regain 1d6+1/day, 2C: As an attack, 30ft line DC 8+prof+Dex/Str DexST or deal atk dmg. 4C: Adv on atks w/ this wep this turn. Atk w/ other wep DC  8+prof+Dex/Str WisST or you can't use other wep. Move +30ft away DC 8+prof+Dex/Str WisST or you run back. Fail ST's gain indefinite madness from DMG
-
+[[+Bloodsoaked Greatsword|Bloodsoaked Greatsword]]
+[[+Backbiter|Backbiter]]
+[[+Berserking Battleaxe|Berserking Battleaxe]]
+[[+Black Keys|Black Keys]]
+[[+Blink Dog Blades|Blink Dog Blades]]
+[[+Bloodraker|Bloodraker]]
+[[+Boastful Rapier|Boastful Rapier]]
+[[+Cestus of Abduction|Cestus of Abduction]]
+[[+Club of the Spring|Club of the Spring]]
+[[+Dirge|Dirge]]
+[[+Fate and Karma|Fate and Karma]]
+[[+Filth|Filth]]
+[[+Moonlight Longsword|Moonlight Longsword]]
+[[+Paloma's Shortsword|Paloma's Shortsword]]
+[[+Prism Glaive|Prism Glaive]]
+[[+Quadraquarterstaff|Quadraquarterstaff]]
+[[+Radnelak Cutlass|Radnelak Cutlass]]
+[[+Sea Seeker|Sea Seeker]]
+[[+Starkiller|Starkiller]]
+[[+The Frayed Blade|The Frayed Blade]]

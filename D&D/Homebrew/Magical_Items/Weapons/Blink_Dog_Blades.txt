@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:13:06-06:00
+
+====== Blink Dog Blades ======
+Created Wednesday 05 June 2019
+
+ (daggers)	1/day on hit dimension door to w/in 5ft of target. Returning (A)
