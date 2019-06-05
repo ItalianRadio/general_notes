@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:34:57-06:00
+
+====== Robe of Vermin ======
+Created Wednesday 05 June 2019
+
+ [Robe of Magic Res]	-2 Initiative, DisAdv Conc ST, Magic resistance (A)(RC3)

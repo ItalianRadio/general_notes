@@ -5,29 +5,29 @@ Creation-Date: 2019-06-05T09:59:51-06:00
 ====== Accessories ======
 Created Wednesday 05 June 2019
 
-Bagpipes of Stealth
-Blood-Soaked Cape
-Boots of Dancing
-Bracers of Opportunity
-Coat of the Duelist
-Crystal Orb of Frustration
-Dead Eye's Eyepatch
-Dragon Mask
-Grodak's Crayon of Dictation
-Jackal Mask
-Lifewell
-Lodestone
-Loincloth of the Mighty
-Ring of Ancillary Jewelry
-Ring of Chilling Comfort	
-Ring of Fire Detection
-Ring of Infinite Wonders
-Ring of Invisibility
-Ring of Invulnerablility
-Ring of Mutual Ignorance
-Ring of Silence	You cannot make noise. Adv on Stealth, no talking/spells (RC3) (A)
-Robe of Powerlessness	While you wear it Str and Int set to 7. Take it off and everything's fine
-Robe of Vermin [Robe of Magic Res]	-2 Initiative, DisAdv Conc ST, Magic resistance (A)(RC3)
-The Bag of Rat	Pull out a rat once every 5 min. Same rat.
-Wand of Wand Creation	Disintigrates on use, creates a Wand of Wand Creation
-Ring of Servitude	4 charges, regain 4 charges each morning. 1 charge: Cast Tiny Servant with no concentration
+[[+Bagpipes of Stealth|Bagpipes of Stealth]]
+[[+Blood-Soaked Cape|Blood-Soaked Cape]]
+[[+Boots of Dancing|Boots of Dancing]]
+[[+Bracers of Opportunity|Bracers of Opportunity]]
+[[+Coat of the Duelist|Coat of the Duelist]]
+[[+Crystal Orb of Frustration|Crystal Orb of Frustration]]
+[[+Dead Eye's Eyepatch|Dead Eye's Eyepatch]]
+[[+Dragon Mask|Dragon Mask]]
+[[+Grodak's Crayon of Dictation|Grodak's Crayon of Dictation]]
+[[+Jackal Mask|Jackal Mask]]
+[[+Lifewell|Lifewell]]
+[[+Lodestone|Lodestone]]
+[[+Loincloth of the Mighty|Loincloth of the Mighty]]
+[[+Ring of Ancillary Jewelry|Ring of Ancillary Jewelry]]
+[[+Ring of Chilling Comfort|Ring of Chilling Comfort]]
+[[+Ring of Fire Detection|Ring of Fire Detection]]
+[[+Ring of Infinite Wonders|Ring of Infinite Wonders]]
+[[+Ring of Invisibility|Ring of Invisibility]]
+[[+Ring of Invulnerablility|Ring of Invulnerablility]]
+[[+Ring of Mutual Ignorance|Ring of Mutual Ignorance]]
+[[+Ring of Silence|Ring of Silence]]
+[[+Robe of Powerlessness|Robe of Powerlessness]]
+[[+Robe of Vermin|Robe of Vermin]]
+[[+The Bag of Rat|The Bag of Rat]]
+[[+Wand of Wand Creation|Wand of Wand Creation]]
+[[+Ring of Servitude|Ring of Servitude]]
