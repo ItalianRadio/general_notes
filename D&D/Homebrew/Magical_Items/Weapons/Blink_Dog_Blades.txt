@@ -8,6 +8,6 @@ Created Wednesday 05 June 2019
 Require Partial Attunement
 +2 Pair of Daggers
  
-Once per day when you hit a creature with a thrown **Blink Dog Blade** you may cast //dimension door// as a free action targeting a space within 5ft of the foe hit by the **Blink Dog Blade**. If you successfully cast //dimension door// in this way, the **Blink Dog Blade** that allowed you to cast //dimension door// reappears in your hand and as a bonus action you may make an attack with the other **Blink Dog Blade** with Advantage that deals an additional 2d6 damage.
+Once per day when you hit a creature with a thrown **Blink Dog Blade** you may cast //dimension door// as a free action targeting a space within 5ft of the foe hit by the **Blink Dog Blade**. If you successfully cast //dimension door// in this way, the **Blink Dog Blade** that allowed you to cast //dimension door// reappears in your hand and as a bonus action you may make an attack with the other **Blink Dog Blade** with Advantage that deals an additional 2d6 damage. This attack is not considered two
 
 While you are attuned to these daggers they both have range increments of 60/120 and return to you at the start of your turn if they were thrown.
