@@ -5,9 +5,13 @@ Creation-Date: 2019-05-28T17:10:29-06:00
 ====== House Rules ======
 Created Tuesday 28 May 2019
 
-* Flanking - A creature that is “flanked” gives opposing creatures +2 to attack rolls
+==== Random Rules ====
+[[+Becoming a Lich|Becoming a Lich]]
+[[+Injuries|Injuries]]
+
+==== DM Rules ====
+* Flanking - A creature that is “flanked” gives creatures +2 to attack rolls
 * Multiclassing - Allowed, follow the attribute requirements
-* Feats - Allowed, free feat at 1st level, only printed books.
 * Find Familiar - No variant familiar rules in the MM
 * Races - Only printed books, flying allowed, variants allowed, excluding below
 	* Dragonborn - Gets a bonus racial feat at 1st level, Xanathar’s, include the ASI

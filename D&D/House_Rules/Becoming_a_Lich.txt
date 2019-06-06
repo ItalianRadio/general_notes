@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-06T14:34:33-06:00
+
+====== Becoming a Lich ======
+Created Thursday 06 June 2019
+
+There are two ways to become a lich -- one magical (for spellcasters), the other through meditation and willpower (for those with enough martial will and ardor)
+
+===== The Magical Solution -- (Spellcasters) =====
+
+==== Prepare a Phylactery ====
+The first step that you must prepare is your phylactery. The stronger you are, the most expensive it must be. You must prepare a very expensive (1,500 gp per spellcaster level) phylactery of exquisite craftsmanship. A phylactery is usually a box, but it can also be some other item with some interior space. 
+
+After being created your phylactery must be enchanted with forbiddance and magic jar until made permanent.
+
+==== Prepare a Potion ====
+Before you finish preparing your phylactery the next step you must perform is the preparation of a highly poisonous potion of transformation. The spellcaster may blend several forms of natural poisons, including arsenic, belladonna, nightshade, heart's worry, and the blood of any of a number of poisonous monsters. Also necessary are a heart, preferably from a sentient creature, and the venom from a number of rare creatures such as wyverns, giant scorpions, and exotic snakes. If any error is made in the formula or in the concoction and distillation of the potion, irrevocable death results.
+
+**Highly poisonous potion of transformation brewing requirements:**
+* 7 poisonous plants: These plants must have a save DC of at least 12
+* 7 blood of poisonous creatures: The DC for the poison does not matter
+* 3 poisons or venoms of creatures: The poison save DC must be at least 16
+* 1 heart of a sentient creature
+
+==== The Final Spells ====
+Once the phylactery and potion are crafted and properly enchanted, two spells must be cast upon the phylactery: Mordenkainen's private sanctum, and reincarnate. Additionally, four spells must be cast upon the potion: gaseous form, cone of cold, feign death, and animate dead. The manner in which the spells are cast and the time at which they are cast are not important, but for the spells to take effect you must drink the potion within a week of the first spell being cast.
+
+==== Your Last Drink ====
+Upon ingestion, a System Shock roll is required (Constitution saving throw with a DC of 15). If the spellcaster passes the test, then they have been transformed by the potion into a lich.
+If the spellcaster doesn't survive the shock, they are dead forever, with no hope of any sort of resurrection. Not even a wish will undo the lethal potion. Only divine intervention or stealing the soul of the deceased back from the gates of hell can undo this death.
+
+===== The Willpower Solution -- (Non-Spellcasters) =====
+

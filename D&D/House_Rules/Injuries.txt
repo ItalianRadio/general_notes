@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-06T14:36:17-06:00
+
+====== Injuries ======
+Created Thursday 06 June 2019
+
+Damage normally leaves no lingering effects. This option introduces the potential for long-term injuries. It's up to you to decide when to check for a lingering injury. A creature might sustain a lingering injury under the following circumstances: 
+* When it takes a critical hit 
+* When it drops to 0 hit points but isn't killed outright for the first time in a fight
+
+To determine the nature of the injury, roll on the Lingering Injuries table. This table assumes a typical humanoid physiology, but you can adapt the results for creatures with different body types. To use the table, roll a d20 and apply the result. If the result of the roll does not make sense (for example a broken limb after being burned in a fire) have the creature roll again.
+
+1 ~ Lose an Eye. You have disadvantage on Wisdom (Perception) checks that rely on sight and on ranged attack rolls. Magic such as the Regenerate spell can restore the lost eye. If you have no eyes left after sustaining this injury you suffer from the blind condition until you can restore them. 
+
+2 ~ Lose an Arm or a Hand. You can no longer hold anything with two hands, and you can hold only a single object at a time. Magic such as the Regenerate spell can restore the lost appendage. 
+
+3 ~ Lose a Foot or Leg. Your speed on foot is halved, you have disadvantage on Dexterity checks made to balance, and you fall prone after using the Dash action. Acquiring a prosthesis or peg leg negates these negative effects. Magic such as the Regenerate spell can restore the lost appendage. 
+
+4 ~ Limp/Hamstring. Your speed on foot is reduced by 5 feet. You must make a DC 10 Dexterity saving throw after using the Dash action. If you fail the save, you fall prone. To heal the limp someone can tend to the injured leg, performing a DC 15 Wisdom (Medicine) check or casting a spell such as Lesser Restoration once every long rest. After three successes, the leg heals. Alternatively, magic such as the Heal spell can instantly restore you to your previous state. 
+
+5-7 ~ Broken Limb. You cannot use the broken limb and whenever you take physical damage in combat you must make a DC 15 Constitution saving throw. On a failed save, you lose your action and can't use reactions until the start of your next turn. You can splint the fracture or use a cane or crutch to give you a +5 bonus on the saving throw. To heal the limb someone can tend to it, performing a DC 15 Wisdom (Medicine) check or casting a spell such as Lesser Restoration once every long rest. After three successes, the limb heals. Alternatively, magic such as the Heal spell can instantly restore you to your previous state.
+
+8 ~ Internal Injury. Whenever you attempt an action in combat, you must make a DC 15 Constitution saving throw. On a failed save, you lose your action and can't use reactions until the start of your next turn. To heal the injury someone can tend it, performing a DC 15 Wisdom (Medicine) check or casting a spell such as Lesser Restoration once every long rest. After three successes, the injury heals. Alternatively, magic such as the Heal spell can instantly restore you to your previous state.
+
+9-10 ~ Broken Ribs. Whenever you attempt an action in combat, you must make a DC 10 Constitution saving throw. On a failed save, you lose your action and can't use reactions until the start of your next turn. To heal your ribs someone can tend them, performing a DC 15 Wisdom (Medicine) check or casting a spell such as Lesser Restoration once every long rest. After three successes, your ribs heal. Alternatively, magic such as the Heal spell can instantly restore you to your previous state.
+
+11-12 ~ Horrible Scar. You are disfigured to the extent that the wound can't be easily concealed. You have disadvantage on Charisma (Persuasion) checks and advantage on Charisma (Intimidation) checks. Magic such as the Heal spell can restore the your previous appearance. 
+
+13-14 ~ Festering Wound. Your hit point maximum is reduced by 1 every 24 hours the wound persists or each time you long rest. If your hit point maximum drops to 0, you die. To heal the wound someone can tend it, performing a DC 15 Wisdom (Medicine) check or casting a spell such as Lesser Restoration once every long rest. Upon a success your hit point maximum is not reduced for that day. After ten successes, the wound heals. Alternatively, magic such as the Heal spell can instantly restore you to your previous state.
+
+15-17 ~ Minor Scar. The scar doesn't have any adverse effect. You may choose where it appears so long as it makes sense. Magic such as the Heal spell can restore the your previous appearance. 
+
+18-19 ~ Adrenaline Rush. You regain hit points equal to 1d10 + your Constitution modifier. After 1 minute you suffer from 3rd level exhaustion effects that remain until you take a short or long rest. 
+
+20 ~ So What? You regain hit points equal to 1d10 + your Constitution modifier. You can immediately move or make the attack action.

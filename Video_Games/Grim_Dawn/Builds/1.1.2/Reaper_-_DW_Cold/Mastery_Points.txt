@@ -7,7 +7,7 @@ Created Monday 03 June 2019 - [[Reaper - DW Cold|back]]
 
 **Nightblade**
 * Mastery 1
-	[ ] Dual Blades 				[16]
+	[ ] Dual Blades 				[16]	
 	[ ] Amarasta's Blade Burst 		[3]
 	[ ] Veil of Shadow			[7]
 * Mastery 5
