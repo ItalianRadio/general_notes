@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-07T11:09:47-06:00
+
+====== Amazon ======
+Created Friday 07 June 2019
+
+Subclasses:
+- Valkyrie (Flight-heavy armor)
+- Shieldmaiden (Lightning-Shield)
+- Furie (Horse-Old-Kingdom Hittite)
+Bonuses:
+- Fighting Style (extra one for thrown weapons)
+- Evasion
+- Impale
+- Fend
+- Lightning Fury
+- Charged Strike
+- Martial Code (name of subclasses)
+- Extra Attack
+- Olympic Skill
+- Break the Line
+- Flanking Tactics

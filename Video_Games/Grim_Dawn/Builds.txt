@@ -4,8 +4,3 @@ Creation-Date: 2019-05-29T11:34:07-06:00
 
 ====== Builds ======
 Created Wednesday 29 May 2019
-
-* [[+1.1.2:Shieldbreaker - FirePhys|FirePhys Shieldbreaker 1.1.1.2]]
-* [[+1.1.2:Reaper - DW Cold|DW Cold Reaper 1.1.2.5]]
-* [[+1.1.2:Witchblade - Phys Tank|Phys Tank Witchblade 1.1.2.2]]
-* [[+1.1.2:Druid - Caster Lightning|Caster Lightning Druid 1.1.2.2]]
