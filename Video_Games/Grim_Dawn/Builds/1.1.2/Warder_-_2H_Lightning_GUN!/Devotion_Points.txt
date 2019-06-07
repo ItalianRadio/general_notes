@@ -6,12 +6,15 @@ Creation-Date: 2019-06-07T13:27:15-06:00
 Created Friday 07 June 2019
 
 **Full Constellations:**
+* Viper
+* Tsunami - Primal Strike
 * Quill
 * Hawk
-* Lotus
-* Wraith
-* Viper
 * Kraken
+* Toad
 * Tempest - Storm Totem
 * Ghoul - Menhir's Will
-* Ultos, Shephard of Storms - Primal Strike
+* Ultos, Shephard of Storms - Savagery
+* Lizard
+* Eel
+* Spear of the Heavens - Mogdrogen's Pact

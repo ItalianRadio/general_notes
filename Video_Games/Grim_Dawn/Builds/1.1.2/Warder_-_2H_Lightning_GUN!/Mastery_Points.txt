@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-07T15:57:00-06:00
+
+====== Mastery Points ======
+Created Friday 07 June 2019
+
+**Shaman:**
+* Mastery 1
+	* Brute Force
+	* Savagery
+* Mastery 5
+	* Primal Strike
+	* Might of the Bear
+	* Mogdrogen's Pact
+* Mastery 10
+	* Feral Hunger
+* Mastery 15
+	* Upheaval
+	* Torrent
+	* Tenacity of the Boar
+	* Heart of the Wild
+* Mastery 20
+* Mastery 25
+	* Oak Skin
+* Mastery 32
+	* Storm Totem
+	* Storm Touched
+* Mastery 40
+* Mastery 50
+	* Stormcaller's Pact
+
+**Soldier:**
+* Mastery 1
+	* Markovian's Advantage
+* Mastery 5
+	* Fighting Spirit
+	* Menhir's Will
+	* Military Conditioning
+* Mastery 10
+* Mastery 15
+	* Veterancy
+* Mastery 20
+	* Field Command
+* Mastery 25
+	* Decorated Soldier
+* Mastery 32
+	* Squad Tactics
+* Mastery 40
+	* Scars of Battle
