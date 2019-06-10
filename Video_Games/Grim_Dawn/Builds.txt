@@ -8,11 +8,20 @@ Created Wednesday 29 May 2019
 
 Mastery Template:
 * Mastery 1
+	[ ] ?
 * Mastery 5
+	[ ] ?
 * Mastery 10
+	[ ] ?
 * Mastery 15
+	[ ] ?
 * Mastery 20
+	[ ] ?
 * Mastery 25
+	[ ] ?
 * Mastery 32
+	[ ] ?
 * Mastery 40
+	[ ] ?
 * Mastery 50
+	[ ] ?
