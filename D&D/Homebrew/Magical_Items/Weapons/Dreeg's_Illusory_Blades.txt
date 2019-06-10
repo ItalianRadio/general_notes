@@ -11,6 +11,7 @@ Ring (Contains two +3 Shortswords)
 While you're attuned to this ring, as a bonus action you can summon either a **Shadow Blade** (as the spell) or a **Phantasmal Blade** to your hand. You can only have one such blade out at a time and if you summon a blade to your hand while another is out the original disappears.
 
 These weapons share proficiency with shortswords and have the finesse, light, and thrown properties (range 20/60). If you drop the weapon or throw it, it dissipates at the end of the turn. Thereafter, while you have the blade "summoned", you can use a bonus action to cause it to reappear in your hand.
+Finally, damage dealt with these weapons is considered magical for overcoming resistances.
 
 The **Shadow Blade** has the property of when you use it to attack a target that is in dim light or darkness, you make the attack roll with advantage. The blade deals 2d8 psychic damage on a hit, but additional damage dealt with the blade (such as that from sneak attack) is dealt as piercing damage.
 
