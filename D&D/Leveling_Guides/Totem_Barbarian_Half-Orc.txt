@@ -1,0 +1,84 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-10T14:08:20-06:00
+
+====== Totem Barbarian Half-Orc ======
+Created Monday 10 June 2019
+
+Totem Warrior
+27 Point Buy gives you:
+STR 14 (7) DEX 14 (7) CON 15 (9) INT 8 (0) WIS 12 (4) CHA 8 (0)
+
+Choosing the Half-Orc race gives you:
++2 Str, +1 Con
+Darkvision 60ft
+Proficiency with Intimidation
+Relentless Endurance
+Savage Attacks
+Languages: Common and Orc
+
+Choose the Gladiator Background:
+Proficiency with Athletics and Performance
+Proficiency with Disguise Kits
+Feature: By Popular Demand
+
+Take five (5) levels of Barbarian
+Barbarian Level 1:
+Proficiency with Perception and Survival
+Proficiency with medium armor, shields, and all weapons
+Proficiency with Strength and Constitution saving throws
+Rage (+2, 1/day), Unarmored Defense
+Barbarian Level 2:
+Reckless Attack
+Danger Sense
+Barbarian Level 3:
+Choose the Totem Warrior subclass
+Choose the Bear Totem
+Rage (+2, 2/day)
+Barbarian Level 4:
+Feat: Great Weapon Master
+Barbarian Level 5:
+Extra Attack
+Fast Movement (+10ft)
+
+Take three (3) levels of Fighter
+Fighter Level 1:
+Choose the Great Weapon Fighting Fighting Style
+Second Wind
+Fighter Level 2:
+Action Surge
+Fighter Level 3:
+Choose the Brute subclass
+Brute Force (+1d4)
+
+Take twelve (12) levels of Barbarian
+Barbarian Level 6:
+Totem Warrior Feature: Choose the Tiger Totem
+Choose proficiency with Acrobatics and Stealth
+Rage (+2, 4/day)
+Barbarian Level 7:
+Feral Instinct
+Barbarian Level 8:
+ASI: +2 Strength (18)
+Barbarian Level 9:
+Brutal Critical (+1 die)
+Rage (+3, 4/day)
+Barbarian Level 10:
+Totem Warrior Feature: Spirit Walker
+Barbarian Level 11:
+Relentless Rage
+Barbarian Level 12:
+ASI: +2 Strength (20)
+Rage (+3, 5/day)
+Barbarian Level 13:
+Brutal Critical (+2 die)
+Barbarian Level 14:
+Totem Warrior Feature: Choose the Tiger Totem
+Barbarian Level 15:
+Persistent Rage
+Barbarian Level 16:
+Feat: Polearm Master
+Rage (+4, 5/day)
+Barbarian Level 17:
+Brutal Critical (+3 die)
+Rage (+4, 6/day)

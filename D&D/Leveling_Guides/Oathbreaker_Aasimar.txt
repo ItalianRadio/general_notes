@@ -1,0 +1,113 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-10T14:06:49-06:00
+
+====== Oathbreaker Aasimar ======
+Created Monday 10 June 2019
+
+Blackguard
+27 Point Buy gives you:
+STR 15 (9) DEX 10 (2) CON 12 (4) INT 10 (2) WIS 11 (3) CHA 14 (7)
+
+Choosing the Fallen Aasimar race gives you:
++1 Str, +2 Cha
+Darkvision 60ft
+Resistance to Necrotic and Radiant
+Healing Hands
+Light Cantrip
+Necrotic Shroud
+Languages: Common and Celestial
+
+Choose the Acolyte Background:
+Proficiency with Insight and Religion
+Languages: Dwarven and Draconic
+Feature: Shelter of the Faithful
+
+Take twenty (20) levels of Paladin
+Paladin Level 1:
+Proficiency with Athletics and Intimidation
+Proficiency with all armor, shields and weapons
+Proficiency with Wisdom and Charisma saving throws
+Divine Sense
+Lay on Hands
+Paladin Level 2:
+Choose the Fighting Style: Great Weapon Fighting
+Divine Smite
+Choose the spells:
+Compelled Duel
+Command
+Shield of Faith
+Detect Magic
+Paladin Level 3:
+Divine Health
+Choose the Oathbreaker subclass
+Gain the spells:
+Hellish Rebuke
+Inflict Wounds
+Gain the Channel Divinity options:
+Control Undead
+Dreadful Aspect
+Paladin Level 4:
+Choose the spell: Heroism
+Feat: Great Weapon Master
+Paladin Level 5:
+Extra Attack
+Exchange the spells:
+ Heroism for Find Steed
+Command for Magic Weapon
+Gain the spells:
+Crown of Madness
+Darkness
+Paladin Level 6:
+Aura of Protection
+Choose the spell: Lesser Restoration
+Paladin Level 7:
+Ancients feature: Aura of Hate
+Paladin Level 8:
+Choose the spell: Aid
+ASI: Strength +2
+Paladin Level 9:
+Exchange the spell Magic Weapon for Elemental Weapon
+Gain the spells:
+Animate Dead
+Bestow Curse
+Paladin Level 10:
+Choose the spell: Dispel Magic
+Aura of Courage
+Paladin Level 11:
+Improved Divine Smite
+Paladin Level 12:
+Choose the spell: Crusader’s Mantle
+ASI: Strength +2
+Paladin Level 13:
+Exchange the following spells:
+Find Steed for Find Greater Steed
+Aid for Aura of Life
+Gain the spells:
+Blight
+Confusion
+Paladin Level 14:
+Cleansing Touch
+Choose the spell: Banishment
+Paladin Level 15:
+Oathbreaker feature: Supernatural Resistance
+Paladin Level 16:
+Choose the spells: Aura of Purity and Command
+ASI: Charisma +2
+Paladin Level 17:
+Exchange the following spells:
+Revivify for Raise Dead
+Magic Weapon for Holy Weapon
+Aura of Life for Destructive Wave
+Compelled Duel for Geas
+Gain the spells:
+Contagion
+Dominate Person
+Paladin Level 18:
+Aura Improvements (+range)
+Choose the spells: Circle of Power and Banishing Smite
+Paladin Level 19:
+ASI: Charisma +2
+Paladin Level 20:
+Choose the spell: Dispel Evil and Good
+Oathbreaker feature: Dread Lord

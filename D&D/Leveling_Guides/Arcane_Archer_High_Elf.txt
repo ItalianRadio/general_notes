@@ -1,0 +1,98 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-10T14:09:05-06:00
+
+====== Arcane Archer High Elf ======
+Created Monday 10 June 2019
+
+Arcane Archer
+27 Point Buy gives you:
+STR 8 (0) DEX 14 (7) CON 10 (2) INT 15 (9) WIS 10 (2) CHA 14 (7)
+
+Choosing the High Elf race gives you
++2 Dex, +1 Int
+Darkvision 60ft
+Proficiency with Perception
+Proficiency with Longswords, Shortswords, Shortbows, and Longbows
+Fey Ancestry, Trance
+Message Cantrip
+Languages: Common, Elvish, One Extra 
+
+Choose the Urban Bounty Hunter Background:
+Proficiency with Deception and Stealth
+Proficiency with a gaming set and a musical instrument
+Feature: Ear to the Ground
+
+Take one (1) level of Rogue
+Rogue Level 1:
+Proficiency with Athletics, Investigation, Persuasion, Sleight of Hand, and Thieves’ Tools
+Proficiency with Simple Weapons and Light Armor
+Proficiency with Dexterity and Intelligence saving throws 
+Languages: Thieves’ Cant
+Sneak Attack (1d6), Expertise: Perception, Thieves’ Tools
+
+Take six (6) levels of Fighter
+Fighter Level 1:
+Archery Fighting Style, Second Wind
+Proficiency with Medium Armor, Shields and Martial Weapons
+Fighter Level 2:
+Action Surge
+Fighter Level 3:
+Choose the Arcane Archer subclass
+Arcane Archer Lore: Proficiency in Nature. Learn the druidcraft cantrip
+Arcane Shot:
+Shot 1: Banishing Arrow
+Shot 2: Bursting Arrow or Piercing Arrow
+Fighter Level 4:
+Feat: Sharpshooter
+Fighter Level 5:
+Extra Attack
+Fighter Level 6:
+ASI: +2 Dexterity
+
+Take two (2) levels of Rogue
+Rogue Level 2:
+Cunning Action
+Rogue Level 3:
+Choose the Mastermind subclass
+Master of Intrigue: Proficiency in disguise kit, forgery kit, one gaming set, two languages
+Master of Tactics
+Sneak Attack (2d6)
+
+Take eleven (11) levels of Fighter
+Fighter Level 7:
+Magic Arrow, Curving Shot
+New Arcane Shot: Shadow Arrow
+Fighter Level 8:
+ASI: +2 Dexterity
+Fighter Level 9:
+Indomitable
+Fighter Level 10:
+New Arcane Shot: Seeking Arrow
+Fighter Level 11:
+Extra Attack (2)
+Fighter Level 12:
+Feat: Elven Accuracy (Int +1)
+Fighter Level 13:
+Indomitable (2)
+Fighter Level 14:
+Feat: Fey Teleportation (Int +1)
+Fighter Level 15:
+Ever-Ready Shot
+New Arcane Shot: Enfeebling Arrow
+Fighter Level 16:
+ASI: +2 Intelligence
+Fighter Level 17:
+Action Surge (2), Indomitable (3)
+
+Gear Wish List:
+Bracers of Archery (U)(A)
+Slippers of Spider Climbing (U)(A)
+Cloak of Elvenkind (U)(A)
+Longbow +3 (VR)
+Ammunition +3
+Eyes of the Eagle (U)(A)
+Oathbow (VR)(A)
+Boots of Elvenkind (U)
+Studded Leather +3 (VR)
+Quiver of Ehlonna (U)

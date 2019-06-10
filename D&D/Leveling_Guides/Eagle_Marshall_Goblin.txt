@@ -1,0 +1,74 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-10T13:58:44-06:00
+
+====== Eagle Marshall Goblin ======
+Created Monday 10 June 2019
+
+Shanksheeze
+**27 Point Buy gives you:**
+STR 8 (0) DEX 14 (7) CON 15 (9) INT 8 (0) WIS 12 (4) CHA 14 (7)
+
+Choosing the Goblin race gives you:
+* Dex +2 (16)
+* Con +1 (16)
+* 30ft Land Speed
+* 60ft Darkvision
+* Nimble Escape
+* Fury of the Small
+* Languages: Common and Goblin
+
+**Choose the $Background Background:**
+* Not picked in this guide... Sorry
+
+**Take twenty (20) levels of Marshal**
+''[01]'' Marshal Level 1:
+* Proficiency with Deception and Perception
+* Proficiency with All armor, shields, and weapons
+* Proficiency with Constitution and Charisma saving throws
+* Born Leader
+* Fighting Style: Archery
+''[02]'' Marshal Level 2:
+* Retainer: Healer
+* True Loyalty
+''[03]'' Marshal Level 3:
+* Combat Superiority
+* Choose the Eagle subclass:
+* Eagle Shot
+''[04]'' Marshal Level 4:
+* ASI: +2 Cha (16)
+''[05]'' Marshal Level 5:
+* Blitz
+''[06]'' Marshal Level 6:
+* Retainer Ability: Minor Heal
+''[07]'' Marshal Level 7:
+* Close-Quarters Commander
+''[08]'' Marshal Level 8:
+* ASI: +2 Cha (18)
+''[09]'' Marshal Level 9:
+* Advanced Tactics
+* General’s Resolve
+''[10]'' Marshal Level 10:
+* Extra Attack
+* Retainer Ability: revivify
+''[11]'' Marshal Level 11:
+* Coordinated Strike
+''[12]'' Marshal Level 12:
+* ASI: +2 Cha (20)
+''[13]'' Marshal Level 13:
+* Vantage Point
+''[14]'' Marshal Level 14:
+* Reposition
+* Retainer Ability: guardian of faith
+''[15]'' Marshal Level 15:
+* Lead by Example
+''[16]'' Marshal Level 16:
+* ASI: +2 Dex (18)
+''[17]'' Marshal Level 17:
+* Darken the Skies
+''[18]'' Marshal Level 18:
+* Immortal Legion
+''[19]'' Marshal Level 19:
+* ASI: +2 Dex (20)
+''[20]'' Marshal Level 20:
+* Warlord

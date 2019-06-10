@@ -1,0 +1,127 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-10T14:10:07-06:00
+
+====== Tempest Cleric Lizardfolk ======
+Created Monday 10 June 2019
+
+Tempest Cleric
+27 Point Buy gives you:
+STR 15 (9) DEX 11 (3) CON 12 (4) INT 8 (0) WIS 15 (9) CHA 10 (2)
+
+Choosing the Lizardfolk race gives you:
+Con +2, Wis +1
+Bite (1d6+Str)
+Cunning Artisan
+Hold Breath
+Proficiency with Nature and Perception 
+Natural Armor
+Hungry Jaws
+Languages: Common and Draconic
+
+Choose the Outlander Background:
+Proficiency with Athletics and Survival
+Proficiency with a Musical Instrument
+Languages: Dwarvish
+Feature: Wanderer
+
+Take twenty (20) levels of Cleric
+Cleric Level 1:
+Proficiency with Insight and Religion
+Proficiency with Medium Armor, Shields, and Simple Weapons
+Proficiency with Wisdom and Charisma saving throws
+Choose the cantrips:
+Thaumaturgy
+Toll the Dead
+Guidance
+Choose the spells:
+Bless
+Command
+Detect Magic
+Healing Word
+Gain the spells:
+Fog Cloud
+Thunderwave
+Choose the Tempest Domain subclass:
+Proficiency with Heavy Armor and All Weapons
+Wrath of the Storm
+Cleric Level 2:
+Channel Divinity (1/rest)
+Destructive Wrath
+Turn Undead
+Choose the spell Guiding Bolt
+Cleric Level 3:
+Choose the spell Spiritual Weapon
+Exchange the spell Guiding Bolt for Hold Person
+Gain the spells:
+Gust of Wind
+Shatter
+Cleric Level 4:
+ASI: Wisdom +2 (18)
+Choose the spells:
+Blindness/Deafness
+Aid
+Cleric Level 5:
+Destroy Undead (CR ½)
+Choose the spell Revivify
+Exchange the spell Blindness/Deafness for Spirit Guardians
+Gain the spells:
+Call Lightning
+Sleet Storm
+Cleric Level 6:
+Channel Divinity (2/rest)
+Tempest Domain feature: Thunderbolt Strike
+Choose the spell Dispel Magic
+Cleric Level 7:
+Choose the spell Guardian of Faith
+Gain the spells:
+Control Water
+Ice Storm
+Cleric Level 8:
+Feat: War Caster
+Destroy Undead (CR 1)
+Tempest Domain feature: Divine Strike
+Choose the spell Banishment
+Cleric Level 9:
+Choose the spell Mass Cure Wounds
+Exchange the spells:
+Command for Geas
+Revivify for Raise Dead
+Gain the spells:
+Destructive Wave
+Insect Plague
+Cleric Level 10:
+Divine Intervention
+Choose the spell Flame Strike
+Cleric Level 11:
+Destroy Undead (CR 2)
+Choose the spell Heroes’ Feast
+Cleric Level 12:
+ASI: Wisdom +2 (20)
+Choose the spells:
+Heal
+True Seeing
+Cleric Level 13:
+Choose the spell Plane Shift
+Cleric Level 14:
+Destroy Undead (CR 3)
+Choose the spell Resurrection
+Cleric Level 15:
+Choose the spell Antimagic Field
+Cleric Level 16:
+Feat: Heavy Armor Master (Str +1 [16])
+Choose the spell Fire Storm
+Cleric Level 17:
+Destroy Undead (CR 4)
+Tempest Domain feature: Stormborn
+Choose the spell Mass Heal
+Exchange the spell Resurrection for True Resurrection
+Cleric Level 18:
+Channel Divinity (3/rest)
+Choose the spell Revivify
+Cleric Level 19:
+ASI: Strength +2 (18)
+Choose the spell Create Undead
+Cleric Level 20:
+Divine Intervention Improvement
+Choose the spell Regenerate
