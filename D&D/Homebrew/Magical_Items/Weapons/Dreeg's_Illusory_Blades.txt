@@ -6,7 +6,7 @@ Creation-Date: 2019-06-05T11:16:16-06:00
 Created Wednesday 05 June 2019
 
 Requires Full Attunement
-Ring
+Ring (Contains two +3 Shortswords)
 
 While you're attuned to this ring, as a bonus action you can summon either a **Shadow Blade** (as the spell) or a **Phantasmal Blade** to your hand. You can only have one such blade out at a time and if you summon a blade to your hand while another is out the original disappears.
 
