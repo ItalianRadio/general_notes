@@ -1,0 +1,109 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-10T13:39:37-06:00
+
+====== Build Murray ======
+Created Monday 10 June 2019
+
+**27 Point Buy gives you:**
+STR 8 (0) DEX 12 (4) CON 10 (2) INT 14 (7) WIS 13 (5) CHA 15 (9)
+
+**Choosing the Lightfoot Halfling race gives you**
+* +2 Dex, +1 Cha
+* 25ft Base walking speed
+* **Halfling Luck**
+* **Brave, Halfling Nimbleness, Naturally Stealthy**
+* Languages: Common, Halfling
+
+**Choose the Acolyte Background:**
+* Proficiency with Insight and Religion
+* Proficiency with two languages
+
+**Take three (3) levels of Rogue**
+''[01]'' Rogue Level 1:
+* Proficiency with Perception, Performance, Persuasion, Stealth, Thieves’ Tools, Thieves’ Cant
+* **Sneak Attack (1d6), Expertise:** Perception, Thieves’ Tools
+* Proficiency with Dexterity and Intelligence saving throws
+''[02]'' Rogue Level 2:
+* Cunning Action
+''[03]'' Rogue Level 3:
+* Choose the **Mastermind** subclass
+	* **Master of Intrigue:** Proficiency in disguise kit, forgery kit, one gaming set, two languages
+	* **Master of Tactics**
+* **Sneak Attack (2d6)**
+
+**Take one (1) level of Cleric**
+''[04]'' Cleric Level 1:
+* Divine Domain: Life
+	* **Bonus Proficiency: Heavy armor (-10ft Movement)**
+	* **Disciple of Life**
+* Spellcasting
+	* **Cantrips:** //Guidance, Resistance, Spare the Dying//
+	* **1st Level Spells:** //Bless, Create or Destroy Water, Cure Wounds, Sanctuary//
+
+**Take four (4) levels of Wizard**
+''[05]'' Wizard Level 1:
+* Arcane Recovery
+* **Spellcasting**
+* **Cantrips**: //Mold Earth, Mending, Prestidigitation//
+* **1st Level Spells:** //Alarm, Detect Magic, Identify, Longstrider, Tenser’s Floating Disk, Unseen Servant//
+''[06]'' Wizard Level 2:
+* **Arcane Tradition**
+* **School of Divination**:
+	* **Divination Savant, Portent**
+* **1st Level Spells**: //Comprehend Languages, Jump, Protection From Evil and Good//
+''[07]'' Wizard Level 3:
+* **2nd Level Spells**: //Enlarge/Reduce, Invisibility, Levitate, Locate Object//
+''[08]'' Wizard Level 4:
+* **2nd Level Spells:** //Darkvision, Magic Weapon, See Invisibility, Spider Climb//
+* **Feat: War Caster**
+
+**Take one (1) level of Fighter**
+''[09]'' Fighter Level 1:
+* **Protection Fighting Style, Second Wind**
+* Proficiency with simple and martial weapons, light and medium armor, and **shields**
+**Take five (5) levels of Wizard**
+''[10]'' Wizard Level 5:
+* **3rd Level Spells:** //Catnap, Haste, Tiny Servant, Tongues//
+''[11]'' Wizard Level 6:
+* **3rd Level Spells:** //Clairvoyance, Fly, Leomund’s Tiny Hut, Remove Curse//
+''[12]'' Wizard Level 7:
+* **4th Level Spells:** //Dimension Door, Fabricate, Locate Creature, Polymorph//
+''[13]'' Wizard Level 8:
+* **4th Level Spells:** //Arcane Eye, Leomund’s Secret Chest, Mordenkainen’s Private Sanctum, Stoneskin//
+* **Feat: Mobility (+10ft Movement!)**
+* If you have 15 Strength from a magic item then go:
+	* Observant (+1 Wis)
+''[14]'' Wizard Level 9:
+* **5th Level Spells:** //Skill Empowerment, Rary’s Telepathic Bond, Teleportation Circle//
+
+**Take three (3) levels of Bard**
+''[15]'' Bard Level 1:
+* Proficiency with Medicine, one musical instrument
+* **Bardic Inspiration (d6)**
+* **Spellcasting**
+	* **Cantrips**: //Light, Mage Hand//
+	* **1st Level Spells:** //Cure Wounds, Detect Magic, Feather Fall, Identify//
+''[16]'' Bard Level 2:
+* **Jack of All Trades, Song of Rest (d6)**
+* **1st Level Spells:** //Heroism//
+''[17]'' Bard Level 3:
+* Choose the **College of Glamour**
+	* **Mantle of Inspiration**
+* **Expertise**: Medicine, Perception
+* **2nd Level Spells**: //Lesser Restoration//
+* **Replace**: //Heroism// with //Enhance Ability//
+
+**Take two (2) levels of Fighter**
+''[18]'' Fighter Level 2:
+* **Action Surge**
+''[19]'' Fighter Level 3:
+* Choose the **Battle Master** archetype
+	* Student of War: Proficiency in artisan’s tools
+	* **Combat Superiority**
+		* **Maneuvers**: //Commander’s Strike, Maneuvering Attack, Rally//
+
+**Take one (1) level of Cleric**
+''[20]'' Cleric Level 2:
+* **Channel Divinity: Preserve Life**
+* **1st Level Spells:** //Purify Food and Drink//
