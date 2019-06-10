@@ -7,6 +7,6 @@ Created Tuesday 04 June 2019
 
 https://www.grimtools.com/calc/62a9lyE2
 
-[[+Attribute Points|Attribute Points]] | [[+Mastery Points|Mastery Points]] | [[+Devotion Points|Devotion Points]] | [[+End-Game Gear|End-Game Gear]]
+[[+Mastery Points|Mastery Points]] | [[+Devotion Points|Devotion Points]]
 
 Leveling Gear wants:
