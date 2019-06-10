@@ -6,117 +6,112 @@ Creation-Date: 2019-06-10T14:07:52-06:00
 Created Monday 10 June 2019
 
 Ninja Monk
-27 Point Buy gives you:
+**27 Point Buy gives you:**
 STR 8 (0) DEX 15 (9) CON 12 (4) INT 10 (2) WIS 15 (9) CHA 11 (3)
 
-Choosing the Half-Drow race gives you:
-+2 Cha, +1 Dex, +1 Wis
-Darkvision 60ft
-Fey Ancestry
-Proficiency with Athletics and Religion
-Drow Magic:
-Dancing Lights
-3rd Level: Faerie Fire
-5th Level: Darkness
-Languages: Common, Elvish, and 1 more
+**Choosing the Half-Drow race gives you:**
+* +2 Cha, +1 Dex, +1 Wis
+* Darkvision 60ft
+* Fey Ancestry
+* Proficiency with Athletics and Religion
+* Drow Magic:
+* Dancing Lights
+* 3rd Level: Faerie Fire
+* 5th Level: Darkness
+* Languages: Common, Elvish, and 1 more
 
-Choose the Spy Background:
-Proficiency with Deception and Stealth
-Proficiency with Disguise Kits
-Feature: Criminal Contact
+**Choose the Spy Background:**
+* Proficiency with Deception and Stealth
+* Proficiency with Disguise Kits
+* **Feature: Criminal Contact**
 
-Take one (1) levels of Rogue
+**Take one (1) levels of Rogue**
 Rogue Level 1:
-Proficiency with Acrobatics, Investigation, Perception, and Sleight of Hand
-Proficiency with Light Armor, Simple Weapons, Hand Crossbows, Longswords, Rapiers, and Shortswords
-Proficiency with Thieves’ Tools
-Proficiency with Dexterity and Intelligence saving throws
-Expertise with Athletics and Stealth
-Sneak Attack (+1d6)
+* Proficiency with Acrobatics, Investigation, Perception, and Sleight of Hand
+* Proficiency with Light Armor, Simple Weapons, Hand Crossbows, Longswords, Rapiers, and Shortswords
+* Proficiency with Thieves’ Tools
+* Proficiency with Dexterity and Intelligence saving throws
+* Expertise with Athletics and Stealth
+* Sneak Attack (+1d6)
 
-Take two (2) levels of Warlock
+**Take two (2) levels of Warlock**
 Warlock Level 1:
-Choose the Fiend subclass
-Dark One’s Blessing
-Choose the Cantrips:
-Toll the Dead
-Booming Blade
-Choose the Spells:
-Hex
-Command
-Spell Slots (1)
+* Choose the **Fiend** subclass
+	* Dark One’s Blessing
+* Choose the Cantrips: //Toll the Dead, Booming Blade//
+* Choose the Spells: //Hex, Command//
+* Spell Slots (1)
 Warlock Level 2:
-Choose the Spell:
-Expeditious Retreat
-Choose the Invocations:
-Devil’s Sight
-Fiendish Vigor
+* Choose the Spell: //Expeditious Retreat//
+* Choose the Invocations:
+	* Devil’s Sight
+	* Fiendish Vigor
 
-Take seven (7) levels of Monk
+**Take seven (7) levels of Monk**
 Monk Level 1:
-Unarmored Defense
-Martial Arts (1d4)
+* Unarmored Defense
+* Martial Arts (1d4)
 Monk Level 2:
-Ki (2)
-Unarmored Movement (+10ft)
+* Ki (2)
+* Unarmored Movement (+10ft)
 Monk Level 3:
-Ki (3)
-Deflect Missiles
-Choose the Shadow subclass
-Shadow Arts
+* Ki (3)
+* Deflect Missiles
+* Choose the **Shadow** subclass
+	* Shadow Arts
 Monk Level 4:
-Ki (4)
-Feat: Sentinel
-Slow Fall
+* Ki (4)
+* Feat: Sentinel
+* Slow Fall
 Monk Level 5:
-Ki (5)
-Martial Arts (1d6)
-Extra Attack
-Stunning Strike
+* Ki (5)
+* Martial Arts (1d6)
+* Extra Attack
+* Stunning Strike
 Monk Level 6:
-Ki (6)
-Unarmored Movement (+15ft)
-Ki-Empowered Strikes
-Shadow Feature: Shadow Step
+* Ki (6)
+* Unarmored Movement (+15ft)
+* Ki-Empowered Strikes
+* Shadow Feature: Shadow Step
 Monk Level 7:
-Ki (7)
-Evasion
-Stillness of Mind
+* Ki (7)
+* Evasion
+* Stillness of Mind
 
-Take four (4) levels of Fighter
+**Take four (4) levels of Fighter**
 Fighter Level 1:
-Choose the Fighting Style: Dueling
-Second Wind
+* Choose the Fighting Style: Dueling
+* Second Wind
 Fighter Level 2:
-Action Surge
+* Action Surge
 Fighter Level 3:
-Choose the Champion Subclass
-Improved Critical
+* Choose the **Champion** Subclass
+	* Improved Critical
 Fighter Level 4:
-ASI: Dexterity +2
+* **ASI: Dexterity +2**
 
-Take four (4) levels of Rogue
+**Take four (4) levels of Rogue**
 Rogue Level 2:
-Cunning Action
+* Cunning Action
 Rogue Level 3:
-Sneak Attack (+2d6)
-Choose the Assassin subclass:
-Proficiency with Poisoner’s Kits
-Assassinate
+* Sneak Attack (+2d6)
+* Choose the **Assassin** subclass:
+	* Proficiency with Poisoner’s Kits
+	* Assassinate
 Rogue Level 4:
-ASI: Dexterity +2
+* **ASI: Dexterity +2**
 Rogue Level 5:
-Sneak Attack (+3d6)
-Uncanny Dodge
+* Sneak Attack (+3d6)
+* Uncanny Dodge
 
-Take two (2) levels of Warlock
+**Take two (2) levels of Warlock**
 Warlock Level 3:
-Choose the Pact of the Chain
-Choose a Quasit
-Exchange the spell Command with Hold Person
-Choose the spell Darkness
+* Choose the **Pact of the Chain**
+* Choose a **Quasit**
+* Exchange the spell //Command// with //Hold Person//
+* Choose the spell //Darkness//
 Warlock Level 4:
-ASI: Wisdom +2
-Choose the cantrip Prestidigitation
-Exchange the spell Expeditious Retreat with Misty Step
-Choose the spell Mirror Image
+* **ASI: Wisdom +2**
+* Choose the cantrip //Prestidigitation//
+* Exchange the spell //Expeditious Retreat// with //Misty Step//
+* Choose the spell //Mirror Image//

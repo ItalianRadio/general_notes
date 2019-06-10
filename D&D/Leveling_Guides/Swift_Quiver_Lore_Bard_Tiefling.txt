@@ -6,108 +6,98 @@ Creation-Date: 2019-06-10T14:10:58-06:00
 Created Monday 10 June 2019
 
 Winged Demon Bard
-27 Point Buy gives you:
+**27 Point Buy gives you:**
 STR 8 (0) DEX 15 (9) CON 12 (4) INT 12 (4) WIS 11 (3) CHA 14 (7)
 
-Choosing the Winged Dispater Tiefling race gives you:
-Cha +2, Dex +1
-Darkvision 60ft
-Resistance to Fire Damage
-30ft Flying Speed (No heavy armor)
-Languages: Common and Infernal
+**Choosing the Winged Dispater Tiefling race gives you:**
+* Cha +2, Dex +1
+* Darkvision 60ft
+* Resistance to Fire Damage
+* 30ft Flying Speed (No heavy armor)
+* Languages: Common and Infernal
 
-Choose the Entertainer Background:
-Proficiency with Acrobatics and Performance
-Proficiency with Disguise Kits and a Musical Instrument
-Feature: By Popular Demand
+**Choose the Entertainer Background:**
+* Proficiency with Acrobatics and Performance
+* Proficiency with Disguise Kits and a Musical Instrument
+* **Feature: By Popular Demand**
 
-Take one (1) level of Bard
+**Take one (1) level of Bard**
 Bard Level 1:
-Proficiency with Arcana, Perception, and Persuasion
-Proficiency with Light Armor, Simple Weapons, Hand Crossbows, Longswords, Rapiers, and Shortswords
-Proficiency with Dexterity and Charisma saving throws
-Proficiency with Three Musical Instruments
-Choose the cantrips:
-Prestidigitation
-Vicious Mockery
-Choose the spells:
-Cure Wounds
-Detect Magic
-Faerie Fire
-Tasha’s Hideous Laughter
-Bardic Inspiration (d6)
+* Proficiency with Arcana, Perception, and Persuasion
+* Proficiency with Light Armor, Simple Weapons, Hand Crossbows, Longswords, Rapiers, and Shortswords
+* Proficiency with Dexterity and Charisma saving throws
+* Proficiency with Three Musical Instruments
+* Choose the cantrips: //Prestidigitation, Vicious Mockery//
+* Choose the spells: //Cure Wounds, Detect Magic, Faerie Fire, Tasha’s Hideous Laughter//
+* Bardic Inspiration (d6)
 
-Take two (2) levels of Fighter
+**Take two (2) levels of Fighter**
 Fighter Level 1:
-Proficiency with Medium Armor, Shields, and All Weapons
-Choose the Fighting Style: Archery
-Second Wind
+* Proficiency with Medium Armor, Shields, and All Weapons
+* Choose the Fighting Style: Archery
+* Second Wind
 Fighter Level 2:
-Action Surge
+* Action Surge
 
-Take seventeen (17) levels of Bard
+**Take seventeen (17) levels of Bard**
 Bard Level 2:
-Jack of All Trades
-Song of Rest (d6)
-Choose the spell Thunderwave
+* Jack of All Trades
+* Song of Rest (d6)
+* Choose the spell //Thunderwave//
 Bard Level 3:
-Choose the College of Lore subclass:
-Proficiency with History, Investigation, and Deception
-Cutting Words
-Expertise with Perception and Persuasion
-Choose the spell Blindness/Deafness
+* Choose the **College of Lore** subclass:
+	* Proficiency with History, Investigation, and Deception
+	* Cutting Words
+* Expertise with Perception and Persuasion
+* Choose the spell //Blindness/Deafness//
 Bard Level 4:
-ASI: Charisma +2 (18)
-Choose the cantrip Dancing Lights
-Choose the spell Heat Metal
+* **ASI: Charisma +2 (18)**
+* Choose the cantrip //Dancing Lights//
+* Choose the spell //Heat Metal//
 Bard Level 5:
-Bardic Inspiration (d8)
-Font of Inspiration
-Choose the spell Hypnotic Pattern
+* Bardic Inspiration (d8)
+* Font of Inspiration
+* Choose the spell //Hypnotic Pattern//
 Bard Level 6:
-Countercharm
-College of Lore feature: Additional Magical Secrets
-Counterspell
-Revivify
-Choose the spell Dispel Magic
+* Countercharm
+* College of Lore feature: Additional Magical Secrets spells:
+	* //Counterspell,// //Revivify//
+* Choose the spell //Dispel Magic//
 Bard Level 7:
-Choose the spell Polymorph
+* Choose the spell //Polymorph//
 Bard Level 8:
-ASI: Charisma +2 (20)
-Choose the spell Dimension Door
+* **ASI: Charisma +2 (20)**
+* Choose the spell //Dimension Door//
 Bard Level 9:
-Song of Rest (d8)
-Choose the spell Hold Monster
-Exchange the spell Cure Wounds for Mass Cure Wounds
+* Song of Rest (d8)
+* Choose the spell //Hold Monster//
+* Exchange the spell //Cure Wounds// for //Mass Cure Wounds//
 Bard Level 10:
-Bardic Inspiration (d10)
-Expertise with Arcana and Deception
-Magical Secrets: 
-Destructive Wave
-Swift Quiver
-Choose the cantrip Mage Hand
+* Bardic Inspiration (d10)
+* Expertise with Arcana and Deception
+* Magical Secrets: 
+	* //Destructive Wave, Swift Quiver//
+* Choose the cantrip //Mage Hand//
 Bard Level 11:
-Choose the spell Mass Suggestion
-Exchange the spell Tasha’s Hideous Laughter for Otto’s Irresistible Dance
+* Choose the spell //Mass Suggestion//
+* Exchange the spell //Tasha’s Hideous Laughter// for //Otto’s Irresistible Dance//
 Bard Level 12:
-ASI: Dexterity +2 (18)
+* **ASI: Dexterity +2 (18)**
 Bard Level 13:
-Song of Rest  (d10)
-Choose the spell Resurrection
+* Song of Rest  (d10)
+* Choose the spell //Resurrection//
 Bard Level 14:
-College of Lore feature: Peerless Skill
-Magical Secrets: 
-Finger of Death
-Plane Shift
+* College of Lore feature: Peerless Skill
+* Magical Secrets: 
+	* //Finger of Death, Plane Shift//
 Bard Level 15:
-Bardic Inspiration (d12)
-Choose the spell Feeblemind
+* Bardic Inspiration (d12)
+* Choose the spell //Feeblemind//
 Bard Level 16:
-ASI: Dexterity +2 (20)
+* **ASI: Dexterity +2 (20)**
 Bard Level 17:
-Song of Rest (d12)
-Choose the spell Psychic Scream
+* Song of Rest (d12)
+* Choose the spell //Psychic Scream//
 Bard Level 18:
-Magical Secrets: 
-Gate
-Wish
+* Magical Secrets: 
+	* //Gate, Wish//

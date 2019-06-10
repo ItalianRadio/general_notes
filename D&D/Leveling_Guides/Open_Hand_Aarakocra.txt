@@ -8,79 +8,79 @@ Created Monday 10 June 2019
 **27 Point Buy gives you:**
 STR 8 (0) DEX 14 (7) CON 14 (7) INT 10 (2) WIS 15 (9) CHA 10 (2)
 
-Choosing the Aarakocra race gives you:
-Dex +2, Wis +1
-25ft Land Speed
-50ft Flying Speed (No med+ armor)
-Talons (unarmed 1d4 slashing)
-Languages: Common, Aarakocra, and Auran
+**Choosing the Aarakocra race gives you:**
+* Dex +2, Wis +1
+* 25ft Land Speed
+* 50ft Flying Speed (No med+ armor)
+* Talons (unarmed 1d4 slashing)
+* Languages: Common, Aarakocra, and Auran
 
-Choose the Cloistered Scholar Background:
-Proficiency with History and Religion
-Languages: Elven and Giant
-Feature: Library Access
+**Choose the Cloistered Scholar Background:**
+* Proficiency with History and Religion
+* Languages: Elven and Giant
+* **Feature: Library Access**
 
-Take two (2) levels of Rogue
+**Take two (2) levels of Rogue**
 Rogue Level 1:
-Proficiency with Acrobatics, Athletics, Perception, Stealth
-Proficiency with Light Armor, Simple Weapons, Hand Crossbows, Longswords, Rapiers, and Shortswords
-Proficiency with Thieves’ Tools
-Proficiency with Dexterity and Intelligence saving throws
-Languages: Thieves’ Cant
-Expertise with Athletics and Acrobatics
-Sneak Attack (+1d6)
+* Proficiency with Acrobatics, Athletics, Perception, Stealth
+* Proficiency with Light Armor, Simple Weapons, Hand Crossbows, Longswords, Rapiers, and Shortswords
+* Proficiency with Thieves’ Tools
+* Proficiency with Dexterity and Intelligence saving throws
+* Languages: Thieves’ Cant
+* Expertise with Athletics and Acrobatics
+* Sneak Attack (+1d6)
 Rogue Level 2:
-Cunning Action
+* Cunning Action
 
-Take eighteen (18) levels of Monk
+**Take eighteen (18) levels of Monk**
 Monk Level 1:
-Unarmored Defense
-Martial Arts (1d4)
+* Unarmored Defense
+* Martial Arts (1d4)
 Monk Level 2:
-Ki
-Unarmored Movement (+10ft)
+* Ki
+* Unarmored Movement (+10ft)
 Monk Level 3:
-Choose the Open Hand subclass
-Open Hand Technique
-Deflect Missiles
+* Choose the **Open Hand** subclass
+* Open Hand Technique
+* Deflect Missiles
 Monk Level 4:
-Feat: Mobile
-Slow Fall
+* **Feat: Mobile**
+* Slow Fall
 Monk Level 5:
-Extra Attack (x1)
-Stunning Strike
-Martial Arts (1d6)
+* Extra Attack (x1)
+* Stunning Strike
+* Martial Arts (1d6)
 Monk Level 6:
-Ki-Empowered Strikes
-Open Hand feature: Wholeness of Body
-Unarmored Movement (+15ft)
+* Ki-Empowered Strikes
+* Open Hand feature: Wholeness of Body
+* Unarmored Movement (+15ft)
 Monk Level 7:
-Evasion
-Stillness of Mind
+* Evasion
+* Stillness of Mind
 Monk Level 8:
-ASI: Dexterity +2 (18)
+* **ASI: Dexterity +2 (18)**
 Monk Level 9:
-Unarmored Movement Improvement
+* Unarmored Movement Improvement
 Monk Level 10:
-Purity of Body
-Unarmored Movement (+20ft)
+* Purity of Body
+* Unarmored Movement (+20ft)
 Monk Level 11:
-Martial Arts (1d8)
-Open Hand feature: Tranquility
+* Martial Arts (1d8)
+* Open Hand feature: Tranquility
 Monk Level 12:
-ASI: Dexterity +2 (20)
+* **ASI: Dexterity +2 (20)**
 Monk Level 13:
-Tongue of the Sun and Moon
+* Tongue of the Sun and Moon
 Monk Level 14:
-Diamond Soul
-Unarmored Movement (+25ft)
+* Diamond Soul
+* Unarmored Movement (+25ft)
 Monk Level 15:
-Timeless Body
+* Timeless Body
 Monk Level 16:
-ASI: Wisdom +2 (18)
+* **ASI: Wisdom +2 (18)**
 Monk Level 17:
-Martial Arts (1d10)
-Open Hand feature: Quivering Palm
+* Martial Arts (1d10)
+* Open Hand feature: Quivering Palm
 Monk Level 18:
-Empty Body
-Unarmored Movement (+30ft)
+* Empty Body
+* Unarmored Movement (+30ft)

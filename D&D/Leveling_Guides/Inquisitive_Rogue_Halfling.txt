@@ -8,75 +8,75 @@ Created Monday 10 June 2019
 27 Point Buy gives you:
 STR 10 (2) DEX 14 (7) CON 14 (7) INT 10 (2) WIS 15 (9) CHA 8 (0)
 
-Choosing the Ghostwise Halfling race gives you:
-Dex +2, Wis +1
-Lucky
-Brave
-Nimbleness
-Silent Speech
-Languages: Common and Halfling
+**Choosing the Ghostwise Halfling race gives you:**
+* Dex +2, Wis +1
+* Lucky
+* Brave
+* Nimbleness
+* Silent Speech
+* Languages: Common and Halfling
 
-Choose the Criminal Background:
-Proficiency with Deception and Stealth
-Proficiency with Disguise Kits
-Feature: Criminal Contact
+**Choose the Criminal Background:**
+* Proficiency with Deception and Stealth
+* Proficiency with Disguise Kits
+* **Feature: Criminal Contact**
 
-Take twenty (20) levels of Rogue
+**Take twenty (20) levels of Rogue**
 Rogue Level 1:
-Proficiency with Acrobatics, Athletics, Perception, Insight
-Proficiency with Light Armor, Simple Weapons, Hand Crossbows, Longswords, Rapiers, and Shortswords
-Proficiency with Thieves’ Tools
-Proficiency with Dexterity and Intelligence saving throws
-Languages: Thieves’ Cant
-Expertise with Perception and Insight
-Sneak Attack (+1d6)
+* Proficiency with Acrobatics, Athletics, Perception, Insight
+* Proficiency with Light Armor, Simple Weapons, Hand Crossbows, Longswords, Rapiers, and Shortswords
+* Proficiency with Thieves’ Tools
+* Proficiency with Dexterity and Intelligence saving throws
+* Languages: Thieves’ Cant
+* Expertise with Perception and Insight
+* Sneak Attack (+1d6)
 Rogue Level 2:
-Cunning Action
+* Cunning Action
 Rogue Level 3:
-Choose the Inquisitive subclass
-Ear for Deceit
-Eye for Detail
-Insightful Fighting
-Sneak Attack (+2d6)
+* Choose the **Inquisitive** subclass
+	* Ear for Deceit
+	* Eye for Detail
+	* Insightful Fighting
+* Sneak Attack (+2d6)
 Rogue Level 4:
-Feat: Mobile
+* **Feat: Mobile**
 Rogue Level 5:
-Uncanny Dodge
-Sneak Attack (+3d6)
+* Uncanny Dodge
+* Sneak Attack (+3d6)
 Rogue Level 6:
-Expertise with Acrobatics and Thieves’ Tools
+* Expertise with Acrobatics and Thieves’ Tools
 Rogue Level 7:
-Evasion
-Sneak Attack (+4d6)
+* Evasion
+* Sneak Attack (+4d6)
 Rogue Level 8:
-ASI: Dexterity +2 (18)
+* **ASI: Dexterity +2 (18)**
 Rogue Level 9:
-Inquisitive feature: Steady Eye
-Sneak Attack (+5d6)
+* Inquisitive feature: Steady Eye
+* Sneak Attack (+5d6)
 Rogue Level 10:
-ASI: Dexterity +2 (20)
+* **ASI: Dexterity +2 (20)**
 Rogue Level 11:
-Reliable Talent
-Sneak Attack (+6d6)
+* Reliable Talent
+* Sneak Attack (+6d6)
 Rogue Level 12:
-Feat: Observant (Wis +1)
+* **Feat: Observant (Wis +1)**
 Rogue Level 13:
-Inquisitive feature: Unerring Eye
-Sneak Attack (+7d6)
+* Inquisitive feature: Unerring Eye
+* Sneak Attack (+7d6)
 Rogue Level 14:
-Blindsense
+* Blindsense
 Rogue Level 15:
-Slippery Mind
-Sneak Attack (+8d6)
+* Slippery Mind
+* Sneak Attack (+8d6)
 Rogue Level 16:
-Feat: Resilient (Wis +1)
+* **Feat: Resilient (Wis +1)**
 Rogue Level 17:
-Inquisitive feature: Eye for Weakness
-Sneak Attack (+9d6)
+* Inquisitive feature: Eye for Weakness
+* Sneak Attack (+9d6)
 Rogue Level 18:
-Elusive
+* Elusive
 Rogue Level 19:
-Feat: Skulker
-Sneak Attack (+10d6)
+* **Feat: Skulker**
+* Sneak Attack (+10d6)
 Rogue Level 20:
-Stroke of Luck
+* Stroke of Luck

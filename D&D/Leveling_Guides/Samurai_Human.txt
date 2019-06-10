@@ -5,69 +5,68 @@ Creation-Date: 2019-06-10T14:09:49-06:00
 ====== Samurai Human ======
 Created Monday 10 June 2019
 
-Samurai
-27 Point Buy gives you:
+**27 Point Buy gives you:**
 STR 15 (9) DEX 11 (3) CON 13 (5) INT 11 (3) WIS 12 (4) CHA 11 (3)
 
-Choosing the Human race gives you:
-+1 to all stats
-Languages: Common and Dwarven
+**Choosing the Human race gives you:**
+* +1 to all stats
+* Languages: Common and Dwarven
 
-Choose the Knight Background:
-Proficiency with History and Persuasion
-Languages: Elven
-Feature: Retainer
+**Choose the Knight Background:**
+* Proficiency with History and Persuasion
+* Languages: Elven
+* **Feature: Retainer**
 
-Take three (3) levels of Fighter
+**Take three (3) levels of Fighter**
 Fighter Level 1:
-Proficiency with Athletics and Perception
-Proficiency with all armor, shields and weapons
-Proficiency with Strength and Constitution saving throws
-Choose the Fighting Style: Great Weapon Fighting
-Second Wind
+* Proficiency with Athletics and Perception
+* Proficiency with all armor, shields and weapons
+* Proficiency with Strength and Constitution saving throws
+* Choose the Fighting Style: Great Weapon Fighting
+* Second Wind
 Fighter Level 2:
-Action Surge
+* Action Surge
 Fighter Level 3:
-Choose the Samurai subclass
-Proficiency with Insight
-Fighting Spirit
+* Choose the **Samurai** subclass
+* Proficiency with Insight
+* Fighting Spirit
 
-Take one (1) level of Barbarian
+**Take one (1) level of Barbarian**
 Barbarian Level 1:
-Rage (+2, 2/day)
-Unarmored Defense
+* Rage (+2, 2/day)
+* Unarmored Defense
 
-Take sixteen (16) levels of Fighter
+**Take sixteen (16) levels of Fighter**
 Fighter Level 4:
-Feat: Great Weapon Mastery
+* **Feat: Great Weapon Mastery**
 Fighter Level 5:
-Extra Attack (x1)
+* Extra Attack (x1)
 Fighter Level 6:
-ASI: Strength +2
+* **ASI: Strength +2**
 Fighter Level 7:
-Samurai feature: Elegant Courtier
+* Samurai feature: Elegant Courtier
 Fighter Level 8:
-ASI: Strength +2
+* **ASI: Strength +2**
 Fighter Level 9:
-Indomitable (x1)
+* Indomitable (x1)
 Fighter Level 10:
-Samurai feature: Tireless Spirit
+* Samurai feature: Tireless Spirit
 Fighter Level 11:
-Extra Attack (x2)
+* Extra Attack (x2)
 Fighter Level 12:
-Feat: Mage Slayer
+* **Feat: Mage Slayer**
 Fighter Level 13:
-Indomitable (x2)
+* Indomitable (x2)
 Fighter Level 14:
-Feat: Mobile
+* **Feat: Mobile**
 Fighter Level 15:
-Samurai feature: Rapid Strike
+* Samurai feature: Rapid Strike
 Fighter Level 16:
-Feat: Observant - Wis +1
+* **Feat: Observant - Wis +1**
 Fighter Level 17:
-Action Surge (x2)
-Indomitable (x3)
+* Action Surge (x2)
+* Indomitable (x3)
 Fighter Level 18:
-Samurai feature: Strength Before Death
+* Samurai feature: Strength Before Death
 Fighter Level 19:
-Feat: Sentinel
+* **Feat: Sentinel**
