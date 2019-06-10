@@ -5,122 +5,99 @@ Creation-Date: 2019-06-10T14:06:05-06:00
 ====== Forge Cleric Dwarf ======
 Created Monday 10 June 2019
 
-27 Point Buy gives you:
+**27 Point Buy gives you:**
 STR 15 (9) DEX 11 (3) CON 12 (4) INT 8 (0) WIS 15 (9) CHA 10 (2)
 
-Choosing the Hill Dwarf race gives you:
-Con +2, Wis +1
-Darkvision 60ft
-Dwarven Resilience
-Proficiency with Battleaxe, Handaxe, Light Hammer, and Warhammer
-Proficiency with Mason’s Tools
-Stonecunning
-Dwarven Toughness
-Languages: Common and Dwarvish
+**Choosing the Hill Dwarf race gives you:**
+* Con +2, Wis +1
+* Darkvision 60ft
+* Dwarven Resilience
+* Proficiency with Battleaxe, Handaxe, Light Hammer, and Warhammer
+* Proficiency with Mason’s Tools
+* Stonecunning
+* Dwarven Toughness
+* Languages: Common and Dwarvish
 
-Choose the Guild Artisan Background:
-Proficiency with Insight and Persuasion
-Proficiency with Leatherworker’s Tools
-Languages: Orcish
-Feature: Guild Membership
+**Choose the Guild Artisan Background:**
+* Proficiency with Insight and Persuasion
+* Proficiency with Leatherworker’s Tools
+* Languages: Orcish
+* **Feature: Guild Membership**
 
-Take twenty (20) levels of Cleric
+**Take twenty (20) levels of Cleric**
 Cleric Level 1:
-Proficiency with History and Religion
-Proficiency with Medium Armor, Shields, and Simple Weapons
-Proficiency with Wisdom and Charisma saving throws
-Choose the cantrips:
-Thaumaturgy
-Toll the Dead
-Guidance
-Choose the spells:
-Bless
-Command
-Detect Magic
-Healing Word
-Gain the spells:
-Identify
-Searing Smite
-Choose the Forge Domain subclass:
-Proficiency with Heavy Armor and Smith’s Tools
-Blessing of the Forge
+* Proficiency with History and Religion
+* Proficiency with Medium Armor, Shields, and Simple Weapons
+* Proficiency with Wisdom and Charisma saving throws
+* Choose the cantrips: //Thaumaturgy, Toll the Dead, Guidance//
+* Choose the spells: //Bless, Command, Detect Magic, Healing Word//
+* Gain the spells: //Identify, Searing Smite//
+* Choose the **Forge Domain** subclass:
+	* Proficiency with Heavy Armor and Smith’s Tools
+	* Blessing of the Forge
 Cleric Level 2:
-Channel Divinity (1/rest)
-Artisan’s Blessing
-Turn Undead
-Choose the spell Guiding Bolt
+* Channel Divinity (1/rest)
+* Artisan’s Blessing
+* Turn Undead
+* Choose the spell //Guiding Bolt//
 Cleric Level 3:
-Choose the spell Spiritual Weapon
-Exchange the spell Guiding Bolt for Hold Person
-Gain the spells:
-Heat Metal
-Magic Weapon
+* Choose the spell //Spiritual Weapon//
+* Exchange the spell //Guiding Bolt// for //Hold Person//
+* Gain the spells: //Heat Metal, Magic Weapon//
 Cleric Level 4:
-ASI: Wisdom +2 (18)
-Choose the spells:
-Blindness/Deafness
-Aid
+* **ASI: Wisdom +2 (18)**
+* Choose the spells: //Blindness/Deafness, Aid//
 Cleric Level 5:
-Destroy Undead (CR ½)
-Choose the spell Revivify
-Exchange the spell Blindness/Deafness for Spirit Guardians
-Gain the spells:
-Elemental Weapon
-Protection from Energy
+* Destroy Undead (CR ½)
+* Choose the spell //Revivify//
+* Exchange the spell //Blindness/Deafness// for //Spirit Guardians//
+* Gain the spells: //Elemental Weapon, Protection from Energy//
 Cleric Level 6:
-Channel Divinity (2/rest)
-Forge Domain feature: Soul of the Forge
-Choose the spell Dispel Magic
+* Channel Divinity (2/rest)
+* Forge Domain feature: Soul of the Forge
+* Choose the spell //Dispel Magic//
 Cleric Level 7:
-Choose the spell Guardian of Faith
-Gain the spells:
-Fabricate
-Wall of Fire
+* Choose the spell //Guardian of Faith//
+* Gain the spells: //Fabricate, Wall of Fire//
 Cleric Level 8:
-Feat: War Caster
-Destroy Undead (CR 1)
-Forge Domain feature: Divine Strike
-Choose the spell Banishment
+* **Feat: War Caster**
+* Destroy Undead (CR 1)
+* Forge Domain feature: Divine Strike
+* Choose the spell //Banishment//
 Cleric Level 9:
-Choose the spell Mass Cure Wounds
-Exchange the spells:
-Command for Geas
-Revivify for Raise Dead
-Gain the spells:
-Animate Objects
-Creation
+* Choose the spell //Mass Cure Wounds//
+* Exchange the spells: //Command// for //Geas//, //Revivify// for //Raise Dead//
+* Gain the spells: //Animate Objects, Creation//
 Cleric Level 10:
-Divine Intervention
-Choose the spell Flame Strike
+* Divine Intervention
+* Choose the spell //Flame Strike//
 Cleric Level 11:
-Destroy Undead (CR 2)
-Choose the spell Heroes’ Feast
+* Destroy Undead (CR 2)
+* Choose the spell //Heroes’ Feast//
 Cleric Level 12:
-ASI: Wisdom +2 (20)
-Choose the spells:
-Heal
-True Seeing
+* **ASI: Wisdom +2 (20)**
+* Choose the spells: //Heal, True Seeing//
 Cleric Level 13:
-Choose the spell Plane Shift
+* Choose the spell //Plane Shift//
 Cleric Level 14:
-Destroy Undead (CR 3)
-Choose the spell Resurrection
+* Destroy Undead (CR 3)
+* Choose the spell //Resurrection//
 Cleric Level 15:
-Choose the spell Antimagic Field
+* Choose the spell //Antimagic Field//
 Cleric Level 16:
-Feat: Heavy Armor Master (Str +1 [16])
-Choose the spell Fire Storm
+* **Feat: Heavy Armor Master (Str +1 [16])**
+* Choose the spell //Fire Storm//
 Cleric Level 17:
-Destroy Undead (CR 4)
-Forge Domain feature: Saint of Forge and Fire
-Choose the spell Mass Heal
-Exchange the spell Resurrection for True Resurrection
+* Destroy Undead (CR 4)
+* Forge Domain feature: Saint of Forge and Fire
+* Choose the spell //Mass Heal//
+* Exchange the spell //Resurrection// for //True Resurrection//
 Cleric Level 18:
-Channel Divinity (3/rest)
-Choose the spell Revivify
+* Channel Divinity (3/rest)
+* Choose the spell //Revivify//
 Cleric Level 19:
-ASI: Strength +2 (18)
-Choose the spell Create Undead
+* **ASI: Strength +2 (18)**
+* Choose the spell //Create Undead//
 Cleric Level 20:
-Divine Intervention Improvement
-Choose the spell Regenerate
+* Divine Intervention Improvement
+* Choose the spell //Regenerate//

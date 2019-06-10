@@ -9,100 +9,88 @@ Created Monday 10 June 2019
 STR 8 (0) DEX 14 (7) CON 14 (7) INT 10 (2) WIS 12 (4) CHA 14 (7)
 
 **Choosing the Yuan-Ti race gives you:**
-Cha +2, Int +1
-Darkvision 60ft
-Gain the spells (Cha):
-Poison Spray
-Animal Friendship (snakes only)
-Suggestion (Level 3)
-Magic Resistance
-Poison Immunity
-Languages: Common, Abyssal, and Draconic
+* Cha +2, Int +1
+* Darkvision 60ft
+* Gain the spells (Cha):
+* Poison Spray
+* Animal Friendship (snakes only)
+* Suggestion (Level 3)
+* Magic Resistance
+* Poison Immunity
+* Languages: Common, Abyssal, and Draconic
 
-Choose the Pirate Background:
-Proficiency with Athletics and Perception
-Proficiency with Navigator’s Tools and Water Vehicles
-Feature: Bad Reputation
+**Choose the Pirate Background:**
+* Proficiency with Athletics and Perception
+* Proficiency with Navigator’s Tools and Water Vehicles
+* **Feature: Bad Reputation**
 
-Take one (1) level of Sorcerer
+**Take one (1) level of Sorcerer**
 Sorcerer Level 1:
-Proficiency with Arcana and Deception
-Proficiency with Daggers, Darts, Slings, Quarterstaffs, and Light Crossbows
-Proficiency with Constitution and Charisma saving throws
-Choose the cantrips
-Chill Touch
-Light
-Mage Hand
-Minor Illusion
-Choose the spells
-Ice Knife
-Fog Cloud
-Choose the Draconic Bloodline subclass
-Choose the Dragon Ancestor: Green
-Draconic Resilience
+* Proficiency with Arcana and Deception
+* Proficiency with Daggers, Darts, Slings, Quarterstaffs, and Light Crossbows
+* Proficiency with Constitution and Charisma saving throws
+* Choose the cantrips: //Chill Touch, Light, Mage Hand, Minor Illusion//
+* Choose the spells: //Ice Knife, Fog Cloud//
+* Choose the **Draconic Bloodline** subclass
+	* Choose the Dragon Ancestor: Green
+	* Draconic Resilience
 
-Take three (3) levels of Warlock
+**Take three (3) levels of Warlock**
 Warlock Level 1:
-Proficiency with Light Armor and Simple Weapons
-Choose The Fiend subclass
-Dark One’s Blessing
-Choose the cantrips
-Eldritch Blast
-Prestidigitation
-Choose the spells
-Armor of Agathys
-Hex
+* Proficiency with Light Armor and Simple Weapons
+* Choose **The Fiend** subclass
+	* Dark One’s Blessing
+* Choose the cantrips: //Eldritch Blast, Prestidigitation//
+* Choose the spells: //Armor of Agathys, Hex//
 Warlock Level 2:
-Choose the invocations:
-Elemental Blast (HOMEBREW)
-Agonizing Blast
-Choose the spell Hellish Rebuke
+* Choose the invocations:
+	* Elemental Blast (HOMEBREW)
+	* Agonizing Blast
+* Choose the spell //Hellish Rebuke//
 Warlock Level 3:
-Choose the Pact of the Chain Pact Boon
-Choose the Quasit Familiar
-Choose the spell Invisibility
+* Choose the **Pact of the Chain** Pact Boon
+* Choose the **Quasit** Familiar
+* Choose the spell //Invisibility//
 
-Take sixteen (16) levels of Sorcerer
+**Take sixteen (16) levels of Sorcerer**
 Sorcerer Level 2:
-Font of Magic
-Choose the spell Shield
+* Font of Magic
+* Choose the spell //Shield//
 Sorcerer Level 3:
-Choose the Metamagics:
-Quickened
-Twinned
-Choose the spell Hold Person
+* Choose the Metamagics: Quickened, Twinned
+* Choose the spell //Hold Person//
 Sorcerer Level 4:
-Choose the cantrip Mold Earth
-Choose the spell Shatter
-ASI: Charisma +2 (18)
+* Choose the cantrip //Mold Earth//
+* Choose the spell //Shatter//
+* **ASI: Charisma +2 (18)**
 Sorcerer Level 5:
-Choose the spell Fireball
+* Choose the spell Fireball
 Sorcerer Level 6:
-Draconic Bloodline feature: Elemental Affinity
-Choose the spell Haste
+* Draconic Bloodline feature: Elemental Affinity
+* Choose the spell //Haste//
 Sorcerer Level 7:
-Choose the spell Polymorph
+* Choose the spell //Polymorph//
 Sorcerer Level 8:
-Choose the spell Banishment
-ASI: Charisma +2 (20)
+* Choose the spell //Banishment//
+* **ASI: Charisma +2 (20)**
 Sorcerer Level 9:
-Choose the spell Cloudkill
+* Choose the spell //Cloudkill//
 Sorcerer Level 10:
-Choose the spell Hold Monster
-Choose the metamagic Subtle Spell
+* Choose the spell //Hold Monster//
+* Choose the metamagic Subtle Spell
 Sorcerer Level 11:
-Choose the spell Scatter
+* Choose the spell //Scatter//
 Sorcerer Level 12:
-ASI: Constitution +2 (16)
+* **ASI: Constitution +2 (16)**
 Sorcerer Level 13:
-Choose the spell Plane Shift
-Sorcerer Level 14:
-Draconic Bloodline feature: Dragon Wings
+* Choose the spell Plane //Shift//
+* Sorcerer Level 14:
+* Draconic Bloodline feature: Dragon Wings
 Sorcerer Level 15:
-Choose the spell Dominate Monster
+* Choose the spell //Dominate Monster//
 Sorcerer Level 16:
-Feat: Toughness
+* **Feat: Toughness**
 Sorcerer Level 17:
-Choose the metamagic Heightened Spell
-Choose the spell Wish
+* Choose the metamagic Heightened Spell
+* Choose the spell //Wish//
 
