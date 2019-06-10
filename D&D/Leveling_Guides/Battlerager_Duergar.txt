@@ -5,83 +5,83 @@ Creation-Date: 2019-06-10T14:05:35-06:00
 ====== Battlerager Duergar ======
 Created Monday 10 June 2019
 
-27 Point Buy gives you:
+**27 Point Buy gives you:**
 STR 15 (9) DEX 14 (7) CON 14 (7) INT 8 (0) WIS 12 (4) CHA 8 (0)
 
-Choosing the Dwarven Duergar race gives you:
-+2 Con, +1 Str
-Darkvision 120ft
-Dwarven Resilience
-Duergar Resilience
-Proficiency with Battleaxes, Handaxes, Light Hammers, and Warhammers
-Proficiency with Smith’s Tools
-Stonecunning
-Sunlight Sensitivity
-Languages: Common and Dwarvish
+**Choosing the Dwarven Duergar race gives you:**
+* +2 Con, +1 Str
+* Darkvision 120ft
+* Dwarven Resilience
+* Duergar Resilience
+* Proficiency with Battleaxes, Handaxes, Light Hammers, and Warhammers
+* Proficiency with Smith’s Tools
+* Stonecunning
+* Sunlight Sensitivity
+* Languages: Common and Dwarvish
 
-Choose the Guild Artisan Background:
-Proficiency with Athletics and Insight
-Proficiency with Leatherworker’s Tools
-Languages: Giant
-Feature: Guild Membership
+**Choose the Guild Artisan Background:**
+* Proficiency with Athletics and Insight
+* Proficiency with Leatherworker’s Tools
+* Languages: Giant
+* Feature: Guild Membership
 
-Take five (5) levels of Barbarian
+**Take five (5) levels of Barbarian**
 Barbarian Level 1:
-Proficiency with Intimidation and Perception
-Proficiency with medium armor, shields, and all weapons
-Proficiency with Strength and Constitution saving throws
-Rage (+2, 1/day), Unarmored Defense
+* Proficiency with Intimidation and Perception
+* Proficiency with medium armor, shields, and all weapons
+* Proficiency with Strength and Constitution saving throws
+* Rage (+2, 1/day), Unarmored Defense
 Barbarian Level 2:
-Reckless Attack
-Danger Sense
+* Reckless Attack
+* Danger Sense
 Barbarian Level 3:
-Choose the Battlerager subclass
-Equip Spiked Armor
-Battlerager Armor
-Rage (+2, 2/day)
+* Choose the **Battlerager** subclass
+* Equip Spiked Armor
+* Battlerager Armor
+* Rage (+2, 2/day)
 Barbarian Level 4:
-Feat: Grappler
+* **Feat: Grappler**
 Barbarian Level 5:
-Extra Attack
-Fast Movement (+10ft)
+* Extra Attack
+* Fast Movement (+10ft)
 
-Take three (3) levels of Fighter
+**Take three (3) levels of Fighter**
 Fighter Level 1:
-Choose the Great Weapon Fighting Fighting Style
-Second Wind
+* Choose the Great Weapon Fighting Fighting Style
+* Second Wind
 Fighter Level 2:
-Action Surge
+* Action Surge
 Fighter Level 3:
-Choose the Brute subclass
-Brute Force (+1d4)
+* Choose the **Brute** subclass
+* Brute Force (+1d4)
 
-Take twelve (12) levels of Barbarian
+**Take twelve (12) levels of Barbarian**
 Barbarian Level 6:
-Battlerager Feature: Reckless Abandon
-Rage (+2, 4/day)
+* Battlerager Feature: Reckless Abandon
+* Rage (+2, 4/day)
 Barbarian Level 7:
-Feral Instinct
+* Feral Instinct
 Barbarian Level 8:
-ASI: +2 Strength (18)
+* **ASI: +2 Strength (18)**
 Barbarian Level 9:
-Brutal Critical (+1 die)
-Rage (+3, 4/day)
+* Brutal Critical (+1 die)
+* Rage (+3, 4/day)
 Barbarian Level 10:
-Battlerager Feature: Battlerager Charge
+* Battlerager Feature: Battlerager Charge
 Barbarian Level 11:
-Relentless Rage
+* Relentless Rage
 Barbarian Level 12:
-ASI: +2 Strength (20)
-Rage (+3, 5/day)
+* **ASI: +2 Strength (20)**
+* Rage (+3, 5/day)
 Barbarian Level 13:
-Brutal Critical (+2 die)
+* Brutal Critical (+2 die)
 Barbarian Level 14:
-Battlerager Feature: Spiked Retribution
+* Battlerager Feature: Spiked Retribution
 Barbarian Level 15:
-Persistent Rage
+* Persistent Rage
 Barbarian Level 16:
-ASI: +2 Constitution (18)
-Rage (+4, 5/day)
+* **ASI: +2 Constitution (18)**
+* Rage (+4, 5/day)
 Barbarian Level 17:
-Brutal Critical (+3 die)
-Rage (+4, 6/day)
+* Brutal Critical (+3 die)
+* Rage (+4, 6/day)

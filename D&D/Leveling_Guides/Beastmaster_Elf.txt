@@ -5,131 +5,131 @@ Creation-Date: 2019-06-10T14:06:22-06:00
 ====== Beastmaster Elf ======
 Created Monday 10 June 2019
 
-27 Point Buy gives you:
+**27 Point Buy gives you:**
 STR 8 (0) DEX 14 (7) CON 14 (7) INT 10 (2) WIS 15 (9) CHA 10 (2)
 
-Choosing the Wood Elf race gives you:
-+2 Dex, +1 Wis
-Darkvision 60ft
-Proficiency with Perception
-Proficiency with Longswords, Shortswords, Shortbows, and Longbows
-Fey Ancestry, Trance
-Fleet of Foot (35ft MS)
-Mask of the Wild
-Languages: Common, Elvish, One Extra
+**Choosing the Wood Elf race gives you:**
+* +2 Dex, +1 Wis
+* Darkvision 60ft
+* Proficiency with Perception
+* Proficiency with Longswords, Shortswords, Shortbows, and Longbows
+* Fey Ancestry, Trance
+* Fleet of Foot (35ft MS)
+* Mask of the Wild
+* Languages: Common, Elvish, One Extra
 
-Choose the Urban Bounty Hunter Background:
-Proficiency with Deception and Stealth
-Proficiency with a gaming set and a musical instrument
-Feature: Ear to the Ground
+**Choose the Urban Bounty Hunter Background:**
+* Proficiency with Deception and Stealth
+* Proficiency with a gaming set and a musical instrument
+* **Feature: Ear to the Ground**
 
-Take one (1) level of Rogue
+**Take one (1) level of Rogue**
 Rogue Level 1:
-Proficiency with Athletics, Investigation, Persuasion, Sleight of Hand, and Thieves’ Tools
-Proficiency with Simple Weapons and Light Armor
-Proficiency with Dexterity and Intelligence saving throws
-Languages: Thieves’ Cant
-Sneak Attack (1d6)
-Expertise: Perception, Thieves’ Tools
+* Proficiency with Athletics, Investigation, Persuasion, Sleight of Hand, and Thieves’ Tools
+* Proficiency with Simple Weapons and Light Armor
+* Proficiency with Dexterity and Intelligence saving throws
+* Languages: Thieves’ Cant
+* Sneak Attack (1d6)
+* Expertise: Perception, Thieves’ Tools
 
-Take five (5) levels of Ranger
+**Take five (5) levels of Ranger**
 Ranger Level 1:
-Favored Enemy
-Natural Explorer
-Proficiency with Medium Armor, Shields and Martial Weapons
-Proficiency with Animal Handling
+* Favored Enemy
+* Natural Explorer
+* Proficiency with Medium Armor, Shields and Martial Weapons
+* Proficiency with Animal Handling
 Ranger Level 2:
-Archery Fighting Style
-1st Level Spells: Zephyr, Hunter’s Mark
+* Archery Fighting Style
+* 1st Level Spells: //Zephyr, Hunter’s Mark//
 Ranger Level 3:
-Choose the Beast Master subclass
-Tame a Flying Snake, Giant Poisonous Snake, or Giant Wolf Spider 
-Flying Snake Statistics:
-Tiny Beast
-AC: 10 + 4(dex) +prof
-HP: 2d4(7) or 2 x Ranger level
-Speed: 30ft, Fly: 60ft, Swim: 30ft
-Str: 4, Dex: 18, Con: 11, Int: 2, Wis: 12, Cha: 5
-Senses: Blindsight 10ft. Passive Perception: 11
-CR: ⅛
-Flyby. The snake doesn’t provoke Attacks of Opportunity when flying
-Bite. Melee Weapon Attack: +4(dex) +2(self-prof) + prof to hit, reach 5ft., one target. Hit: 1 + 4 + prof piercing damage + 3d4 + prof poison damage. 
-Giant Poisonous Snake statistics:
-Medium Beast
-AC: 10 + 4(dex) +prof
-HP: 2d8+2(15) or 2 x Ranger level
-Speed: 30ft, swim: 30ft
-Str: 10, Dex: 18, Con: 13, Int: 2, Wis: 10, Cha: 3
-Senses: Blindsight 10ft. Passive Perception: 12
-CR: ¼ 
-Bite. Melee Weapon Attack: +4(dex) + 2(self-prof) + prof to hit, reach 5ft., one target. Hit: 1d4 + 4 + prof piercing damage + DC 11 Con ST, on failure deal 3d6 + prof poison damage or half on success
-Giant Wolf Spider statistics:
-Medium Beast
-AC 10 + 3(dex) + prof
-HP: 2d8+2(15) or 2 x Ranger level
-Speed: 40ft, climb: 40ft
-Str: 12, Dex: 16, Con: 13, Int: 3, Wis: 12, Cha: 4
-Skills: Perception + 1(wis) + 2(self-prof) + prof, Stealth + 3(dex) + 2(self-prof) + prof
-Senses: Blindsight 10ft., Darkvision 60ft., passive Perception 13
-CR: ¼ 
-Spider Climb. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
-Web Sense. While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
-Web Walker. The spider ignores movement restrictions caused by webbing.
-Bite. Melee Weapon Attack: +3(dex) + 2(self-prof) + prof to hit, reach 5ft., one creature. Hit: 1d6 + 3(dex) + prof piercing damage, + DC 11 Con ST on failure 3d6 + prof poison damage or half on success. If poison damage sets someone to 0, even when they’re back up they’re poisoned for 1 hour. If they’re poisoned this way they’re also paralyzed.
-1st Level Spell: Beast Bond
-Primeval Awareness
+* Choose the **Beast Master** subclass
+* Tame a Flying Snake, Giant Poisonous Snake, or Giant Wolf Spider 
+* Flying Snake Statistics:
+	* Tiny Beast
+	* AC: 10 + 4(dex) +prof
+	* HP: 2d4(7) or 2 x Ranger level
+	* Speed: 30ft, Fly: 60ft, Swim: 30ft
+	* Str: 4, Dex: 18, Con: 11, Int: 2, Wis: 12, Cha: 5
+	* Senses: Blindsight 10ft. Passive Perception: 11
+	* CR: ⅛
+	* Flyby. The snake doesn’t provoke Attacks of Opportunity when flying
+	* Bite. Melee Weapon Attack: +4(dex) +2(self-prof) + prof to hit, reach 5ft., one target. Hit: 1 + 4 + prof piercing damage + 3d4 + prof poison damage. 
+* Giant Poisonous Snake statistics:
+	* Medium Beast
+	* AC: 10 + 4(dex) +prof
+	* HP: 2d8+2(15) or 2 x Ranger level
+	* Speed: 30ft, swim: 30ft
+	* Str: 10, Dex: 18, Con: 13, Int: 2, Wis: 10, Cha: 3
+	* Senses: Blindsight 10ft. Passive Perception: 12
+	* CR: ¼ 
+	* Bite. Melee Weapon Attack: +4(dex) + 2(self-prof) + prof to hit, reach 5ft., one target. Hit: 1d4 + 4 + prof piercing damage + DC 11 Con ST, on failure deal 3d6 + prof poison damage or half on success
+* Giant Wolf Spider statistics:
+	* Medium Beast
+	* AC 10 + 3(dex) + prof
+	* HP: 2d8+2(15) or 2 x Ranger level
+	* Speed: 40ft, climb: 40ft
+	* Str: 12, Dex: 16, Con: 13, Int: 3, Wis: 12, Cha: 4
+	* Skills: Perception + 1(wis) + 2(self-prof) + prof, Stealth + 3(dex) + 2(self-prof) + prof
+	* Senses: Blindsight 10ft., Darkvision 60ft., passive Perception 13
+	* CR: ¼ 
+	* Spider Climb. The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+	* Web Sense. While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.
+	* Web Walker. The spider ignores movement restrictions caused by webbing.
+	* Bite. Melee Weapon Attack: +3(dex) + 2(self-prof) + prof to hit, reach 5ft., one creature. Hit: 1d6 + 3(dex) + prof piercing damage, + DC 11 Con ST on failure 3d6 + prof poison damage or half on success. If poison damage sets someone to 0, even when they’re back up they’re poisoned for 1 hour. If they’re poisoned this way they’re also paralyzed.
+* 1st Level Spell: //Beast Bond//
+* Primeval Awareness
 Ranger Level 4:
-Feat: Sharpshooter
+* **Feat: Sharpshooter**
 Ranger Level 5:
-Extra Attack
-2nd Level Spell: Healing Spirit
+* Extra Attack
+* 2nd Level Spell: //Healing Spirit//
 
-Take two (2) levels of Rogue
+**Take two (2) levels of Rogue**
 Rogue Level 2:
-Cunning Action
-Rogue Level 3:
-Sneak Attack (2d6)
-Choose the Mastermind subclass:
-Proficiency with Disguise kits, Forgery kits, one gaming set, and two languages
-Master of Intrigue
-Master of Tactics
+* Cunning Action
+* Rogue Level 3:
+* Sneak Attack (2d6)
+* Choose the **Mastermind** subclass:
+	* Proficiency with Disguise kits, Forgery kits, one gaming set, and two 	languages
+	* Master of Intrigue
+	* Master of Tactics
 
-Take seven (7) levels of Ranger
+**Take seven (7) levels of Ranger**
 Ranger Level 6:
-Favored Enemy (2) & Natural Explorer (2)
+* Favored Enemy (2) & Natural Explorer (2)
 Ranger Level 7:
-Exceptional Training
-2nd Level Spell: Silence
+* Exceptional Training
+* 2nd Level Spell: //Silence//
 Ranger Level 8:
-Land’s Stride
-Feat: Elven Accuracy (Wis +1 (17))
+* Land’s Stride
+* **Feat: Elven Accuracy (Wis +1 (17))**
 Ranger Level 9:
-3rd Level Spell: Lightning Arrow
+* 3rd Level Spell: //Lightning Arrow//
 Ranger Level 10:
-Natural Explorer (3)
-Hide in Plain Sight
+* Natural Explorer (3)
+* Hide in Plain Sight
 Ranger Level 11:
-Beastial Fury
-3rd Level Spell: Plant Growth
+* Beastial Fury
+* 3rd Level Spell: //Plant Growth//
 Ranger Level 12:
-ASI: +2 Dexterity (18)
+* **ASI: +2 Dexterity (18)**
 
-Take four (4) levels in Fighter
+**Take four (4) levels in Fighter**
 Fighter Level 1:
-Defense Fighting Style
-Second Wind
+* Defense Fighting Style
+* Second Wind
 Fighter Level 2:
-Action Surge (1)
+* Action Surge (1)
 Fighter Level 3:
-Choose the Samurai subclass
-Proficiency in Insight or a new language
-Fighting Spirit
+* Choose the **Samurai** subclass
+	* Proficiency in Insight or a new language
+	* Fighting Spirit
 Fighter Level 4:
-ASI: + 2 Dexterity (20)
+* **ASI: + 2 Dexterity (20)**
 
-Take one (1) level in Rogue
+**Take one (1) level in Rogue**
 Rogue Level 4:
-Feat: Resilient (+1 Wis (18))
+* **Feat: Resilient (+1 Wis (18))**
 
 Gear Wish List:
 Barding for Animal Companion

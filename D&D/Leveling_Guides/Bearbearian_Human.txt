@@ -6,123 +6,113 @@ Creation-Date: 2019-06-10T14:09:30-06:00
 Created Monday 10 June 2019
 
 Bearbearian Druid
-27 Point Buy gives you:
+**27 Point Buy gives you:**
 STR 12 (4) DEX 13 (5) CON 13 (5) INT 9 (1) WIS 15 (9) CHA 11 (3)
 
-Choosing the Human race gives you:
-+1 to all stats
-Languages: Common and Elven
+**Choosing the Human race gives you:**
+* +1 to all stats
+* Languages: Common and Elven
 
-Choose the Hermit:
-Proficiency with Medicine and Religion
-Proficiency with Herbalism Kits
-Languages: Sylvan
-Feature: Discovery
+**Choose the Hermit Background:**
+* Proficiency with Medicine and Religion
+* Proficiency with Herbalism Kits
+* Languages: Sylvan
+* **Feature: Discovery**
 
-Take one (1) level of Barbarian
+**Take one (1) level of Barbarian**
 Barbarian Level 1:
-Proficiency with Animal Handling and Survival
-Proficiency with Medium Armor, Shields, and All Weapons
-Proficiency with Strength and Constitution saving throws
-Rage (+2, 1/day)
-Unarmored Defense
+* Proficiency with Animal Handling and Survival
+* Proficiency with Medium Armor, Shields, and All Weapons
+* Proficiency with Strength and Constitution saving throws
+* Rage (+2, 1/day)
+* Unarmored Defense
 
-Take two (2) levels of Druid
+**Take two (2) levels of Druid**
 Druid Level 1:
-Languages: Druidic
-Choose the cantrips:
-Druidcraft
-Shillelagh
-Choose the spells:
-Cure Wounds
-Detect Magic
-Fog Cloud
-Ice Knife
+* Languages: Druidic
+* Choose the cantrips: //Druidcraft, Shillelagh//
+* Choose the spells: //Cure Wounds, Detect Magic, Fog Cloud, Ice Knife//
 Druid Level 2:
-Choose the Circle of the Moon subclass:
-Combat Wild Shape
-Circle Forms
-Wild Shape Forms:
-Albino Death Weasel (code 374)
-Choose the spell Thunderwave
+* Choose the **Circle of the Moon** subclass:
+	* Combat Wild Shape
+	* Circle Forms
+* **Wild Shape Forms**:
+	* Albino Death Weasel
+* Choose the spell //Thunderwave//
 
-Take two (2) levels of Barbarian
+**Take two (2) levels of Barbarian**
 Barbarian Level 2:
-Reckless Attack
-Danger Sense
+* Reckless Attack
+* Danger Sense
 Barbarian Level 3:
-Choose the Berserker subclass
-Frenzy
-Rage (+2, 3/day)
+* Choose the **Berserker** subclass
+* Frenzy
+* Rage (+2, 3/day)
 
-Take fifteen (15) levels of Druid
+**Take fifteen (15) levels of Druid**
 Druid Level 3:
-Choose the spell Heat Metal
-Exchange the spell Cure Wounds for Healing Spirit
+* Choose the spell //Heat Metal//
+* Exchange the spell //Cure Wounds// for //Healing Spirit//
 Druid Level 4:
-Wild Shape Improvement
-Wild Shape Forms:
-Water: Glass Gator (tob 228)
-ASI: Wisdom +2 (18)
-Choose the cantrip Frostbite
-Choose the spells:
-Enhance Ability
-Hold Person
+* Wild Shape Improvement
+* Wild Shape Forms:
+	* Water: Glass Gator (tob 228)
+* **ASI: Wisdom +2 (18)**
+* Choose the cantrip //Frostbite//
+* Choose the spells: //Enhance Ability, Hold Person//
 Druid Level 5:
-Choose the spell Dispel Magic
+* Choose the spell //Dispel Magic//
 Druid Level 6:
-Circle of the Moon feature: Primal Strike
-Choose the spell Call Lightning
-Wild Shape Forms
-Land: Ragipede (code 310)
-Water: Great Crab (crit 226)
-Climb: Saber-toothed Tiger (mm 336)
+* Circle of the Moon feature: Primal Strike
+* Choose the spell //Call Lightning//
+* Wild Shape Forms
+	* Land: Ragipede (code 310)
+	* Water: Great Crab (crit 226)
+	* Climb: Saber-toothed Tiger (mm 336)
 Druid Level 7:
-Choose the spell Polymorph
+* Choose the spell //Polymorph//
 Druid Level 8:
-Wild Shape Improvement
-Wild Shape Forms:
-Fly: Quetzalcoatlus (vgm 140)
-ASI: Wisdom +2 (20)
-Choose the spells:
-Ice Storm
-Dominate Beast
+* Wild Shape Improvement
+* Wild Shape Forms:
+	* Fly: Quetzalcoatlus (vgm 140)
+* **ASI: Wisdom +2 (20)**
+* Choose the spells: //Ice Storm,// //Dominate Beast//
 Druid Level 9:
-Choose the spell Mass Cure Wounds
-Exchange the spell Ice Storm for Reincarnate
-Wild Shape Forms:
-Land: Stigian Fat-tailed Scorpion (tob 340)
-Water: Killer Whale (mm 331)
-Climb: J’ba Fofi Spider (tob 362)
-Fly: Amphipteres (tob 16)
+* Choose the spell //Mass Cure Wounds//
+* Exchange the spell //Ice Storm// for //Reincarnate//
+* Wild Shape Forms:
+	* Land: Stigian Fat-tailed Scorpion (tob 340)
+	* Water: Killer Whale (mm 331)
+	* Climb: J’ba Fofi Spider (tob 362)
+	* Fly: Amphipteres (tob 16)
 Druid Level 10:
-Circle of the Moon feature: Elemental Wild Shape
-NOTE: YOU CAN FRENZY IN ELEMENTAL FORM AND NOT GET EXHAUSTION
-Choose the cantrip Mold Earth
-Choose the spell Geas
+* Circle of the Moon feature: Elemental Wild Shape
+	* **NOTE: YOU CAN FRENZY IN ELEMENTAL FORM AND NOT GET EXHAUSTION**
+* Choose the cantrip //Mold Earth//
+* Choose the spell //Geas//
 Druid Level 11:
-Choose the spell Heal
+* Choose the spell //Heal//
 Druid Level 12:
-Feat: Observant (+1 Int)
-Choose the spell Heroes’ Feast
-Wild Shape Forms:
-Water: Serpopard (tob 342)
-Climb: Great Wolf (crit 226)
-Fly: Firebird (tob 201)
+* **Feat: Observant (+1 Int)**
+* Choose the spell //Heroes’ Feast//
+* Wild Shape Forms:
+	* Water: Serpopard (tob 342)
+	* Climb: Great Wolf (crit 226)
+	* Fly: Firebird (tob 201)
 Druid Level 13:
-Choose the spell Plane Shift
+* Choose the spell //Plane Shift//
 Druid Level 14:
-Circle of the Moon feature: Thousand Forms
-Choose the spell Regenerate
+* Circle of the Moon feature: Thousand Forms
+* Choose the spell //Regenerate//
 Druid Level 15:
-Choose the spell Feeblemind
-Wild Shape Forms:
-Land: Young Spinosaurus (tob 117)
-Water: Kongamato (tob 265)
-Climb: Giant Bear (crit 224)
-Fly: Drakon (tob 157)
+* Choose the spell //Feeblemind//
+* Wild Shape Forms:
+	* Land: Young Spinosaurus (tob 117)
+	* Water: Kongamato (tob 265)
+	* Climb: Giant Bear (crit 224)
+	* Fly: Drakon (tob 157)
 Druid Level 16:
-Feat: Mobile
-Choose the spell Sunburst
+* **Feat: Mobile**
+* Choose the spell //Sunburst//
 Druid Level 17:
-Choose the spell True Resurrection
+* Choose the spell //True Resurrection//

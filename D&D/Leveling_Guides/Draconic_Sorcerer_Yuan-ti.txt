@@ -5,11 +5,10 @@ Creation-Date: 2019-06-10T14:11:37-06:00
 ====== Draconic Sorcerer Yuan-ti ======
 Created Monday 10 June 2019
 
-Draconic Sorcerer
-27 Point Buy gives you:
+**27 Point Buy gives you:**
 STR 8 (0) DEX 14 (7) CON 14 (7) INT 10 (2) WIS 12 (4) CHA 14 (7)
 
-Choosing the Yuan-Ti race gives you:
+**Choosing the Yuan-Ti race gives you:**
 Cha +2, Int +1
 Darkvision 60ft
 Gain the spells (Cha):

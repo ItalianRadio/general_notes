@@ -6,112 +6,89 @@ Creation-Date: 2019-06-10T14:03:52-06:00
 Created Monday 10 June 2019
 
 Paladin of the Green
-27 Point Buy gives you:
+**27 Point Buy gives you:**
 STR 15 (9) DEX 10 (2) CON 12 (4) INT 8 (0) WIS 11 (3) CHA 15 (9)
 
-Choosing the Dragonborn race gives you:
-+2 Str, +1 Cha
-Green Dragon
-Poison Breath - 15ft Cone
-Poison Resistance
-DM RULING
-Choose the Dragon Fear Feat
-+1 Str
-Languages: Common, Draconic
+**Choosing the Dragonborn race gives you:**
+* +2 Str, +1 Cha
+* Green Dragon
+* Poison Breath - 15ft Cone
+* Poison Resistance
+* Languages: Common, Draconic
+**DM RULING - ASK YOUR DM IF YOU CAN DO THIS SINCE DRAGONBORN SUCK**
+* Choose the Dragon Fear Feat: +1 Str
 
-Choose the Outlander Background:
-Proficiency with Athletics and Survival
-Proficiency with a Musical Instrument
-Languages: Elven
-Feature: Wanderer
+**Choose the Outlander Background:**
+* Proficiency with Athletics and Survival
+* Proficiency with a Musical Instrument
+* Languages: Elven
+* **Feature: Wanderer**
 
-Take twenty (20) levels of Paladin
+**Take twenty (20) levels of Paladin**
 Paladin Level 1:
-Proficiency with Insight and Religion
-Proficiency with all armor, shields and weapons
-Proficiency with Wisdom and Charisma saving throws
-Divine Sense
-Lay on Hands
+* Proficiency with Insight and Religion
+* Proficiency with all armor, shields and weapons
+* Proficiency with Wisdom and Charisma saving throws
+* Divine Sense
+* Lay on Hands
 Paladin Level 2:
-Choose the Fighting Style: Defense
-Divine Smite
-Choose the spells:
-Bless
-Command
-Cure Wounds
-Detect Magic
+* Choose the Fighting Style: Defense
+* Divine Smite
+* Choose the spells: //Bless, Command, Cure Wounds,Detect Magic//
 Paladin Level 3:
-Divine Health
-Choose the Ancients subclass
-Gain the spells:
-Ensnaring Strike
-Speak with Animals
-Gain the Channel Divinity options:
-Nature’s Wrath
-Turn the Faithless
+* Divine Health
+* Choose the **Ancients** subclass
+	* Gain the spells: //Ensnaring Strike//
+	* Speak with Animals
+	* Gain the Channel Divinity options:
+	* Nature’s Wrath
+* Turn the Faithless
 Paladin Level 4:
-Choose the spell: Shield of Faith
-ASI: Strength +2
+* Choose the spell: //Shield of Faith//
+* **ASI: Strength +2**
 Paladin Level 5:
-Extra Attack
-Exchange the spell Shield of Faith for Find Steed
-Gain the spells:
-Moonbeam
-Misty Step
+* Extra Attack
+* Exchange the spell //Shield of Faith// for //Find Steed//
+* Gain the spells: Moonbeam, Misty Step
 Paladin Level 6:
-Aura of Protection
-Choose the spell: Lesser Restoration
+* Aura of Protection
+* Choose the spell: //Lesser Restoration//
 Paladin Level 7:
-Ancients feature: Aura of Warding
+* Ancients feature: Aura of Warding
 Paladin Level 8:
-Choose the spells: Magic Weapon and Ceremony
-ASI: Charisma +2
+* Choose the spells: //Magic Weapon// and //Ceremony//
+* **ASI: Charisma +2**
 Paladin Level 9:
-Exchange the following spells:
-Ceremony for Revivify
-Magic Weapons for Elemental Weapon
-Gain the spells:
-Plant Growth
-Protection from Energy
+* Exchange the following spells: //Ceremony// for //Revivify, Magic Weapons// for //Elemental Weapon//
+* Gain the spells: //Plant Growth//, //Protection from Energy//
 Paladin Level 10:
-Choose the spell: Dispel Magic
-Aura of Courage
+* Choose the spell: //Dispel Magic//
+* Aura of Courage
 Paladin Level 11:
-Improved Divine Smite
+* Improved Divine Smite
 Paladin Level 12:
-Choose the spell: Daylight
-Feat: Sentinel
+* Choose the spell: //Daylight//
+* **Feat: Sentinel**
 Paladin Level 13:
-Exchange the following spells:
-Find Steed for Find Greater Steed
-Daylight for Aura of Life
-Bless for Aura of Purity
-Gain the spells:
-Ice Storm
-Stoneskin
+* Exchange the following spells: //Find Steed// for //Find Greater Steed, Daylight// for //Aura of Life, Bless// for //Aura of Purity//
+* Gain the spells: //Ice Storm//, //Stoneskin//
 Paladin Level 14:
-Cleansing Touch
-Choose the spell: Banishment
+* Cleansing Touch
+* Choose the spell: //Banishment//
 Paladin Level 15:
-Ancients feature: Undying Ward
+* Ancients feature: Undying Ward
 Paladin Level 16:
-Choose the spell: Death Ward
-ASI: Charisma +2
+* Choose the spell: //Death Ward//
+* **ASI: Charisma +2**
 Paladin Level 17:
-Exchange the following spells:
-Revivify for Raise Dead
-Magic Weapon for Holy Weapon
-Aura of Life for Destructive Wave
-Command for Geas
-Gain the spells:
-Commune with Nature
-Tree Stride
+* Exchange the following spells: //Revivify// for //Raise Dead, Magic Weapon// for //Holy Weapon,// //Aura of Life// for //Destructive Wave,// //Command// for //Geas//
+* Gain the spells: //Commune with Nature,// //Tree Stride//
 Paladin Level 18:
-Aura Improvements (+range)
-Choose the spell: Circle of Power
+* Aura Improvements (+range)
+* Choose the spell: //Circle of Power//
 Paladin Level 19:
-Feat: Shield Master
+* **Feat: Shield Master**
 Paladin Level 20:
-Choose the spell: Dispel Evil and Good
-Exchange the spell Banishment for Banishing Smite
-Ancients feature: Elder Champion
+* Choose the spell: //Dispel Evil and Good//
+* Exchange the spell //Banishment// for //Banishing Smite//
+* Ancients feature: Elder Champion
