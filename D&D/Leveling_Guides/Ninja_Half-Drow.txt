@@ -61,7 +61,7 @@ Monk Level 3:
 	* Shadow Arts
 Monk Level 4:
 * Ki (4)
-* Feat: Sentinel
+* **Feat: Sentinel**
 * Slow Fall
 Monk Level 5:
 * Ki (5)
