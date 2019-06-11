@@ -16,7 +16,7 @@ STR 15 (9) DEX 10 (2) CON 12 (4) INT 8 (0) WIS 11 (3) CHA 15 (9)
 * Poison Resistance
 * Languages: Common, Draconic
 **DM RULING - ASK YOUR DM IF YOU CAN DO THIS SINCE DRAGONBORN SUCK**
-* Choose the Dragon Fear Feat: +1 Str
+* //Choose the Dragon Fear Feat: +1 Str*//
 
 **Choose the Outlander Background:**
 * Proficiency with Athletics and Survival
@@ -34,15 +34,12 @@ Paladin Level 1:
 Paladin Level 2:
 * Choose the Fighting Style: Defense
 * Divine Smite
-* Choose the spells: //Bless, Command, Cure Wounds,Detect Magic//
+* Choose the spells: //Bless, Command, Cure Wounds, Detect Magic//
 Paladin Level 3:
 * Divine Health
 * Choose the **Ancients** subclass
-	* Gain the spells: //Ensnaring Strike//
-	* Speak with Animals
-	* Gain the Channel Divinity options:
-	* Nature’s Wrath
-* Turn the Faithless
+	* Gain the spells: //Ensnaring Strike, Speak with Animals//
+	* Gain the Channel Divinity options: Nature’s Wrath, Turn the Faithless
 Paladin Level 4:
 * Choose the spell: //Shield of Faith//
 * **ASI: Strength +2**

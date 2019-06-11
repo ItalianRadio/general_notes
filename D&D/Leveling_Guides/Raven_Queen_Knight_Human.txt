@@ -50,7 +50,6 @@ Warlock Level 1:
 * **Raven Queen** Patron: 
 	* Sentinel Raven
 	* //Raven Queen's Blessing*//
-		* **This is a way to make this subclass not suck... Just give it free invocations!**
 * Cantrips: //Eldritch Blast, Booming Blade//
 * 1st Level Spells: //Armor of Agathys,// //Expeditious Retreat//
 
@@ -99,11 +98,10 @@ Warlock Level 6:
 * Pact features: 
 	* Soul of the Raven
 	* //Chronicle of the Raven Queen*//
-		* **This is a way to make this subclass not suck... Just give it free invocations!**
 * 3rd Level Spell: //Hunger of Hadar//
 Warlock Level 7:
 * Invocation: Fiendish Vigor
-* 4th Level Spell: //Sickening Radiance//
+* 4th Level Spell: //Banishment//
 * Exchange the spell: //Hunger of Hadar //for //Shadow of Moil//
 Warlock Level 8:
 * **ASI: +2 Constitution**
@@ -114,5 +112,5 @@ Warlock Level 9:
 * Exchange the spell //Armor of Agathys //for //Synaptic Static//
 
 
-
+*//Denotes that the DM changed the subclass cause it sucked. Just allowing the subclass to get its two subclass specific invocations without taking the invocation. They're just ribbons anyway.//
 
