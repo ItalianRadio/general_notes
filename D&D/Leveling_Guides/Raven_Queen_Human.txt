@@ -1,0 +1,118 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-10T14:12:36-06:00
+
+====== Raven Queen Human ======
+Created Monday 10 June 2019
+
+**27 Point Buy gives you:**
+STR 15 (9) DEX 8 (0) CON 14 (7) INT 8 (0) WIS 10 (3) CHA 15 (9)
+
+**Choosing the Human race gives you:**
+* +1 Str, +1 Cha
+* **Feat: Pole Arm Master**
+* Languages: Common and Dwarven
+
+**Choose the Knight Background:**
+* Proficiency with History and Persuasion
+* Languages: Elven
+* **Feature: Retainer**
+
+**Take six (6) levels of Paladin**
+Paladin Level 1:
+* Proficiency with Insight and Religion
+* Proficiency with all armor, shields and weapons
+* Proficiency with Wisdom and Charisma saving throws
+* Divine Sense
+* Lay on Hands
+Paladin Level 2:
+* Choose the Fighting Style: Dueling
+* Divine Smite
+* Choose the spells: //Bless, Command, Cure Wounds, Detect Magic//
+Paladin Level 3:
+* Divine Health
+* Choose the **Vengeance** subclass
+	* Gain the spells: //Bane, Hunter's Mark//
+	* Gain the Channel Divinity options: Abjure Enemy, Vow of Enmity
+Paladin Level 4:
+* Choose the spell: //Shield of Faith//
+* **Feat: Warcaster**
+Paladin Level 5:
+* Extra Attack
+* Exchange the spell //Shield of Faith// for //Find Steed//
+* Gain the spells: //Hold Person, Misty Step//
+Paladin Level 6:
+* Aura of Protection
+* Choose the spell: //Lesser Restoration//
+
+**Take one (1) level of Warlock**
+Warlock Level 1:
+* **Raven Queen** Patron: 
+	* Sentinel Raven
+	* //Raven Queen's Blessing*//
+		* **This is a way to make this subclass not suck... Just give it free invocations!**
+* Cantrips: //Eldritch Blast, Booming Blade//
+* 1st Level Spells: //Armor of Agathys,// //Expeditious Retreat//
+
+**Take one (1) level of Paladin**
+Paladin Level 7:
+* Oath feature: Relentless Avenger
+
+**Take three (3) levels of Warlock**
+Warlock Level 2:
+* Invocations: Devil’s Sight, Agonizing Blast
+* 1st Level Spell: //Hellish Rebuke//
+Warlock Level 3:
+* Pact Boon: Pact of the Tome
+	* Choose the Cantrips: //Guidance, Shillelagh//, +1 Utility [//Mage Hand/Mold Earth/Minor Illusion/Druidcraft/Thaumaturgy/Prestidigitation/Mending/Message/Spare the Dying//]
+* 2nd Level Spell: //Invisibility//
+Warlock Level 4:
+* **ASI: Charisma +2 (18)**
+* Cantrip: +1 Utility (Listed @ Level 3)
+* 2nd Level Spell: //Misty Step//
+* Choose the Paladin Spell: //Aid//
+
+**Take one (1) level of Paladin**
+Paladin Level 8:
+* Choose the spells: //Zone of Truth// and //Ceremony//
+* **ASI: Charisma +2 (20)**
+
+**Take one (1) level of Warlock**
+Warlock Level 5:
+* Invocation: Book of Ancient Secrets
+	* Choose the spells: //Comprehend Languages, Find Familiar//
+* 3rd Level Spell: //Counterspell//
+* Exchange the spell: //Aid// for //Fly//
+
+**Take one (1) level of Paladin**
+Paladin Level 9:
+* Exchange the spell: //Ceremony// for //Revivify//
+* Gain the spells: //Haste, Protection from Energy//
+Paladin Level 10:
+* Choose the spell: //Dispel Magic//
+* Aura of Courage
+Paladin Level 11:
+* Improved Divine Smite
+
+**Take four (4) levels of Warlock**
+Warlock Level 6:
+* Pact features: 
+	* Soul of the Raven
+	* //Chronicle of the Raven Queen*//
+		* **This is a way to make this subclass not suck... Just give it free invocations!**
+* 3rd Level Spell: //Dispel Magic//
+Warlock Level 7:
+* Invocation: Relentless Hex
+* 4th Level Spell: //Staggering Smite//
+Warlock Level 8:
+* **ASI: +2 Constitution**
+* 4th Level Spell: //Dimension Door//
+Warlock Level 9:
+* Invocation: Fiendish Vigor
+* 5th Level Spell: //Negative Energy Flood//
+* Exchange the spell //Staggering Smite //for //Synaptic Static//
+
+
+
+
+
