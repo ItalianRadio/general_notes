@@ -11,12 +11,14 @@ STR 15 (9) DEX 8 (0) CON 14 (7) INT 8 (0) WIS 10 (3) CHA 15 (9)
 **Choosing the Human race gives you:**
 * +1 Str, +1 Cha
 * **Feat: Pole Arm Master**
-* Languages: Common and Dwarven
+* Languages: Common and Elven
 
-**Choose the Knight Background:**
-* Proficiency with History and Persuasion
-* Languages: Elven
-* **Feature: Retainer**
+**Choose the Cultist Background: (Guildmaster's Guide to Ravnica)**
+* Proficiency with Acrobatics, Performance
+* Proficiency with a musical instrument
+* Proficiency in a performance type (See GGtR table)
+* Languages: Abyssal
+* **Feature: Fearsome Reputation**
 
 **Take six (6) levels of Paladin**
 Paladin Level 1:

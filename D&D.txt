@@ -12,3 +12,6 @@ Created Friday 07 June 2019
 * Tiddles
 * Medusa princess - magic hair, talk to animals, cursed
 * Janarik Kariktur
+
+Character generator (Even helps w/ backgrounds and such!)
+https://tetra-cube.github.io/dnd/dnd-char-gen.html
