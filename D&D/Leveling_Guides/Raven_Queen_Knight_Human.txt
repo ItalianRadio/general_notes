@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-06-10T14:12:36-06:00
 
-====== Raven Queen Human ======
+====== Raven Queen Knight Human ======
 Created Monday 10 June 2019
 
 **27 Point Buy gives you:**
@@ -68,8 +68,8 @@ Warlock Level 3:
 * 2nd Level Spell: //Invisibility//
 Warlock Level 4:
 * **ASI: Charisma +2 (18)**
-* Cantrip: +1 Utility (Listed @ Level 3)
-* 2nd Level Spell: //Misty Step//
+* Cantrip: +1 Utility [//Mage Hand/Minor Illusion/Prestidigitation]//
+* 2nd Level Spell: //Darkness//
 * Choose the Paladin Spell: //Aid//
 
 **Take one (1) level of Paladin**
@@ -82,14 +82,14 @@ Warlock Level 5:
 * Invocation: Book of Ancient Secrets
 	* Choose the spells: //Comprehend Languages, Find Familiar//
 * 3rd Level Spell: //Counterspell//
-* Exchange the spell: //Aid// for //Fly//
+* Exchange the spell:  //Hellish Rebuke// for //Fly//
 
 **Take one (1) level of Paladin**
 Paladin Level 9:
-* Exchange the spell: //Ceremony// for //Revivify//
+* Exchange the spell: //Ceremony// for //Revivify, Zone of Truth //for //Dispel Magic//
 * Gain the spells: //Haste, Protection from Energy//
 Paladin Level 10:
-* Choose the spell: //Dispel Magic//
+* Choose the spell: //Remove Curse//
 * Aura of Courage
 Paladin Level 11:
 * Improved Divine Smite
@@ -100,18 +100,18 @@ Warlock Level 6:
 	* Soul of the Raven
 	* //Chronicle of the Raven Queen*//
 		* **This is a way to make this subclass not suck... Just give it free invocations!**
-* 3rd Level Spell: //Dispel Magic//
+* 3rd Level Spell: //Hunger of Hadar//
 Warlock Level 7:
-* Invocation: Relentless Hex
-* 4th Level Spell: //Staggering Smite//
+* Invocation: Fiendish Vigor
+* 4th Level Spell: //Sickening Radiance//
+* Exchange the spell: //Hunger of Hadar //for //Shadow of Moil//
 Warlock Level 8:
 * **ASI: +2 Constitution**
 * 4th Level Spell: //Dimension Door//
 Warlock Level 9:
-* Invocation: Fiendish Vigor
+* Invocation: Aspect of the Moon
 * 5th Level Spell: //Negative Energy Flood//
-* Exchange the spell //Staggering Smite //for //Synaptic Static//
-
+* Exchange the spell //Armor of Agathys //for //Synaptic Static//
 
 
 
