@@ -5,4 +5,94 @@ Creation-Date: 2019-06-10T14:56:49-06:00
 ====== Hexblade Half-Wood Elf ======
 Created Monday 10 June 2019
 
-TODO
+**27 Point Buy gives you:**
+STR 13 (5) DEX 10 (2) CON 13 (5) INT 10 (2) WIS 12 (4) CHA 15 (9)
+
+**Choosing the Half-Elf race, Wood Elf variant gives you:**
+* +2 Cha, +1 Str, +1 Con
+* Darkvision 60ft
+* Fey Ancestry
+* Fleet of Foot (35 Speed)
+* Languages: Common, Elvish, One Extra
+
+**Choose the Double Agent (Noble Variant) Background**
+* Proficiency with Deception and Insight
+* Proficiency with Disguise Kits and Calligrapher’s Supplies
+* Feature: Look it up? Not in this guide for some reason
+
+**Take two (2) levels of Fighter**
+Fighter Level 1:
+* Dueling Fighting Style, Second Wind
+* Proficiency with Perception and Athletics
+* Proficiency with all weapons, all armor, and shields
+* Proficiency with Strength and Constitution saving throws
+Fighter Level 2:
+* Action Surge
+
+**Take fourteen (14) levels of Warlock**
+Warlock Level 1:
+* **Hexblade** Patron: 
+	* Hexblade’s Curse
+	* Hex Warrior
+* Cantrips: //Eldritch Blast, Mage Hand//
+* 1st Level Spells: //Shield, Wrathful Smite//
+	* Note: You can’t yet use your pact weapon as a focus, so no spells + shield, use a versatile weapon right now.
+Warlock Level 2:
+* Invocations: Devil’s Sight, Grasp of Hadar
+* 1st Level Spell: //Hellish Rebuke//
+Warlock Level 3:
+* Invocation: Replace Grasp of Hadar with Improved Pact Weapon
+	* Note: Your pact weapon is now a spell focus, pick up a shield
+* Pact Boon: Pact of the Blade
+* 2nd Level Spell: //Invisibility//
+Warlock Level 4:
+* **Feat: Elven Accuracy (+1 Cha)**
+* Cantrip: Prestidigitation
+* 2nd Level Spell: //Misty Step//
+Warlock Level 5:
+* Invocation: Thirsting Blade
+* 3rd Level Spell: //Counterspell//
+* Replace //Misty Step// with //Fly//
+Warlock Level 6:
+* Accursed Specter
+* Invocation: Replace Devil’s Sight with Eldritch Smite
+* 3rd Level Spell: //Dispel Magic//
+Warlock Level 7:
+* Invocation: Relentless Hex
+* 4th Level Spell: //Staggering Smite//
+Warlock Level 8:
+* **ASI: +2 Charisma**
+* 4th Level Spell: //Dimension Door//
+Warlock Level 9:
+* Invocation: Maddening Hex
+* 5th Level Spell: //Far Step//
+Warlock Level 10:
+* Armor of Hexes
+* Cantrip: //True Strike//
+Warlock Level 11:
+* Mystic Arcanum (6th level): //Soul Cage//
+* New Spell: Infernal //Calling//
+Warlock Level 12:
+* **ASI: +2 Constitution**
+* Invocation: Lifedrinker
+Warlock Level 13:
+* Mystic Arcanum (7th level): //Crown of Stars//
+* New Spell: //Scrying//
+Warlock Level 14:
+* Master of Hexes
+
+**Take one (1) level of Fighter**
+Fighter Level 3:
+* **Battlemaster**: Combat Superiority, Student of War
+* Maneuvers: Disarming Attack, Feinting Attack, Riposte
+
+**Take three (3) levels of Warlock**
+Warlock Level 15:
+* Invocation: Tomb of Levistus
+* Mystic Arcanum (8th level): //Demiplane//
+* New Spell: //Contact Other Plane//
+Warlock Level 16:
+* **Feat: Shield Master**
+Warlock Level 17:
+* Mystic Arcanum (9th level): //Foresight//
+* New Spell: //Dream//
