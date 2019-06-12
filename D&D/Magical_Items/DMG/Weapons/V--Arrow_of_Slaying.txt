@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-06-12T13:41:24-06:00
 
-====== Arrow of Slaying ======
+====== V--Arrow of Slaying ======
 Created Wednesday 12 June 2019
 
 //Weapon (arrow), very rare//

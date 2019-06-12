@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T15:15:57-06:00
+
+====== L--Old One's Bone ======
+Created Wednesday 12 June 2019
+
+//Weapon (quarterstaff), legendary (requires attunement)//
+
+This quarterstaff is a long gray bone that emits a chilling aura. Along its length run veins of dark, softly glowing energy. It can be wielded as a magical quarterstaff that grants a +2 bonus to attack and damage rolls made with it.
+**Of the Void.** The Old One's Bone comes from the void. Anyone who attunes to it finds their skin turning a rough, deep gray, and their eyes a sickly yellow with an unearthly luminescence to them. Your canines sharpen into fangs and, perhaps most alarmingly, your heart stops beating: your body becomes icy cold as blood stops running in your veins, yet you are perfectly capable of functioning like a living being. Attuning to the quarterstaff grants you 120 feet of darkvision and allows you to see in magical darkness.
+**Peacefully Empty.** Anyone who wields this eldritch wonder ceases being a living creature from the moment they attune to it, and remain so until they give it up. They become a creature of the void, a horror far removed from mortal experience. While attuned to the quarterstaff, you are immune to being charmed, frightened, and blinded.
