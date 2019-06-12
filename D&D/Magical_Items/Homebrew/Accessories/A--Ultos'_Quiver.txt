@@ -10,6 +10,6 @@ Created Wednesday 12 June 2019
 This quiver holds four pieces of ammunition that leave the quiver in the form you need so long as the object weighs no more than 2 pounds. The four pieces of ammunition are as follows:
 
  **Ultos' spirit.** A never-ending supply of magical pieces of ammunition. Ammunition pulled this way disappears after one minute.
- **Ultos' translator.** A piece of ammunition that teleports the user to itself if it does not hit a creature. Once //Ultos' translator// is used in this way, it cannot be used again the next day at dawn.
- **Ultos' strike.** This piece of ammunition deals an additional 8d6 lightning damage. Once //Ultos' strike// is used in this way, it cannot be used again the next day at dawn.
- **Ultos' might.** When this piece of ammunition hits a target they must succeed on a saving throw where the DC is the amount of damage dealt by //Ultos' might//. On a success they fall prone, on a failure they are also pushed a number of feet equal to the amount of damage dealt by //Ultos' might//. Once //Ultos' might// is used in this way, it cannot be used again the next day at dawn.
+ **Ultos' translator.** A piece of ammunition that teleports the user to itself if it does not hit a creature. Once //Ultos' translator// is used in this way, it cannot be used again until the next day at dawn.
+ **Ultos' strike.** This piece of ammunition deals an additional 8d6 lightning damage. Once //Ultos' strike// is used in this way, it cannot be used again until the next day at dawn.
+ **Ultos' might.** When this piece of ammunition hits a target they must succeed on a saving throw where the DC is the amount of damage dealt by //Ultos' might//. On a success they fall prone, on a failure they are also pushed a number of feet equal to the amount of damage dealt by //Ultos' might//. Once //Ultos' might// is used in this way, it cannot be used again until the next day at dawn.
