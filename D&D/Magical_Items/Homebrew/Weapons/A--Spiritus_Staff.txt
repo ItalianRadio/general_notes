@@ -5,3 +5,13 @@ Creation-Date: 2019-06-12T15:25:37-06:00
 ====== A--Spiritus Staff ======
 Created Wednesday 12 June 2019
 
+//Staff, artifact (requires attunement from a creature capable of casting a spell of at least 1st level)//
+
+The //Spiritus Staff// is a magic +3 quarterstaff that has two forms. As a bonus action, you can swap between the two forms, life and death. 
+This staff has 12 charges and regains no charges naturally over time.
+
+**Life.** While the staff is in //life// form, you can use an action to expend 1 or more of its charges to cast one of the following spells from it, using your spell save DC and spellcasting ability modifier: //cure wounds// (1 charge per spell level, up to 4th), //lesser restoration// (2 charges), or //mass cure wounds// (5 charges).
+ Additionally, when you successfully land a critical strike with the //Spiritus Staff //in //life //form, you may cast //mass cure wounds// without spending any charges.
+
+**Death. **On a hit, you can expend a number of charges to deal an extra 1d10 necrotic damage per charge to the target. In addition, the target must succeed on a DC 15 Constitution saving throw or have disadvantage for 1 hour on any ability check or saving throw that uses Strength or Constitution.
+Additionally, whenever a creature you have hit with the //Spiritus Staff// in //death// form dies before the start of your next turn, the //Spiritus Staff //regains 5 charges.

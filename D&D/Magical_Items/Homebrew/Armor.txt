@@ -5,10 +5,10 @@ Creation-Date: 2019-06-05T09:59:17-06:00
 ====== Armor ======
 Created Wednesday 05 June 2019
 
-**Armor before other abilities:**
-+1 is rare
-+2 is very rare
-+3 is legendary
+===== Armor, +1, +2, or +3 =====
+//Armor (light, medium, or heavy), rare (+1), very rare (+2), or legendary (+3)//
+
+You have a bonus to AC while wearing this armor. The bonus is determined by its rarity.
 
 **Shields before other abilities:**
 +1 is uncommon
