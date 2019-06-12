@@ -65,7 +65,7 @@ Warlock Level 2:
 * 1st Level Spell: //Hellish Rebuke//
 Warlock Level 3:
 * Pact Boon: Pact of the Tome
-	* Choose the Cantrips: //Guidance, Shillelagh//, +1 Utility [//Mage Hand/Mold Earth/Minor Illusion/Druidcraft/Thaumaturgy/Prestidigitation/Mending/Message/Spare the Dying//]
+	* Choose the Cantrips: //Guidance, Shillelagh//, +1 Utility [//Mage Hand/Mold Earth/Minor Illusion/Druidcraft/Thaumaturgy/Prestidigitation/Mending/Message//]
 * 2nd Level Spell: //Invisibility//
 Warlock Level 4:
 * **ASI: Charisma +2 (18)**
@@ -85,7 +85,7 @@ Warlock Level 5:
 * 3rd Level Spell: //Counterspell//
 * Exchange the spell:  //Hellish Rebuke// for //Fly//
 
-**Take one (1) level of Paladin**
+**Take three (3) levels of Paladin**
 Paladin Level 9:
 * Exchange the spell: //Ceremony// for //Revivify, Zone of Truth //for //Dispel Magic//
 * Gain the spells: //Haste, Protection from Energy//
