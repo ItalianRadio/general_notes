@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:10:35-06:00
+
+====== A--Ulcama's Scale ======
+Created Wednesday 05 June 2019
+
+//Weapon (any sword), artifact (requires attunement by a creature that can cast a spell of at least level 1)//
+
+The sword whispers secrets of the world to you. Will you fail to understand?
+
+**Trust. **The sword will grow to **trust** you the more you use it. The more it trusts you the more unbelieveable and mind-blowing the secrets it will begin to tell you. Each time you deal damage with the **Scale** you increment the **trust** level. At higher **trust** levels the sword receives better bonuses. Be careful though, as the sword does not know your limits and may begin to tell you things that may injure your mind! Incrementing the trust level to a new gate will incurr an ever-increasing Wisdom saving throw that may injure your mind.
+
+The DC for abilities used by this weapon is whatever relevant spellcasting modifier you would like.
+
+**Trust Levels:**
+* 01-09: +1 Enhancement Bonus
+	* DC 12 to not suffer a madness on promotion
+* 10-19: +2 Enhancement Bonus, deals +1d6 radiant damage when wielded in both hands
+	* DC 15 to not suffer a madness on promotion
+* 20-29: 6 Charges, regain 1d6 + 1 charges each day at dawn. Gain the following ability:
+	* 4C: **Moonlight Burst:** Each creature you choose in a 20ft radius must make a Dexterity saving throw. On a failure they take 3d6 radiant and 3d6 force damage or half on a success.
+	* DC 18 to not suffer a madness on promotion
+* 32-39: +3 Enhancement bonus and gain the following ability:
+	* 1C: **Long Arm of the Law:** Attacks you make with the **Scale** this turn have a range of 30ft
+	* DC 20 to not suffer a madness on promotion
+* 40-49: Your **Moonlight Burst **ability causes creatures that fail their saving throw to fall prone  and the **Scale **now has 7 total charges.
+	* DC 22 to not suffer a madness on promotion
+* 50-61: Attacks made with the **Scale** deal an additional 1d6 + Int radiant damage
+	* DC 23 to not suffer a madness on promotion
+* 62-77: +4 Enhancement bonus, the **Scale **now has 8 total charges and it regains 1d8 + 1 each morning.
+	* DC 24 to not suffer a madness on promotion
+* 78-97: Your **Long Arm of the Law** ability's range is increased to 60ft
+	* DC 25 to not suffer a madness on promottion
+* 98++: +5 Enhancement bonus, the **Scale **now has 9 total charges, and gain the following ability:
+	* 3C: **Swift Justice: **Gain an **Action Surge** as from the Fighter Class
+
+If you use a weapon other than the **Scale **you must pass Wisdom saving throw where the DC is equal to your current **trust** DC receive a short-term madness effect. Saving throws caused by this effect do not increment the **trust** level.

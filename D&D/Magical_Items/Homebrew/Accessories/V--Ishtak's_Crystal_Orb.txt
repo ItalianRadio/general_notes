@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:27:30-06:00
+
+====== V--Ishtak's Crystal Orb ======
+Created Wednesday 05 June 2019
+
+//Wondrous item, very rare (requires attunement by a spellcasting creature)//
+
+While you hold the crystal orb, you gain a +2 bonus to spell attack rolls
+
+You may use the crystal orb when you know the roll an foe has made against a ST you have imposed, but before you know the result, you may add +2 to the DC of a spell, tweaking the spell in some way to make it more difficult to resist. This bonus is applied to all remaining foes who have yet to make their saving throws against the same spell.
+The crystal orb regains the ability to use its power again every morning at sunrise.

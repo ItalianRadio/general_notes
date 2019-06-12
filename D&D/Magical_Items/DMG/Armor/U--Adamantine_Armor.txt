@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T12:23:46-06:00
+
+====== U--Adamantine Armor ======
+Created Wednesday 12 June 2019
+
+//Armor (medium or heavy, but not hide), uncommon//
+
+This suit of armor is reinforced with adamantine, one of the hardest substances in existence. While you're wearing it, any critical hit against you becomes a normal hit.

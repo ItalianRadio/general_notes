@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T14:59:38-06:00
+
+====== U--Cloak of the Manta Ray ======
+Created Wednesday 12 June 2019
+
+//Wondrous item, uncommon//
+
+While wearing this cloak with its hood up, you can breathe underwater, and you have a swimming speed of 60 feet. Pulling the hood up or down requires an action.

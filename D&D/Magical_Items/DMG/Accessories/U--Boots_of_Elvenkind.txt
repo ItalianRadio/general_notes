@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T14:34:08-06:00
+
+====== U--Boots of Elvenkind ======
+Created Wednesday 12 June 2019
+
+//Wondrous item, uncommon//
+
+While you wear these boots, your steps make no sound, regardless of the surface you are moving across. You also have advantage on Dexterity (Stealth) checks that rely on moving silently.
+ 

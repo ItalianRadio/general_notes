@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T13:36:48-06:00
+
+====== Armor ======
+Created Wednesday 12 June 2019
+
+===== Armor, +1, +2, or +3 =====
+//Armor (light, medium, or heavy), rare (+1), very rare (+2), or legendary (+3)//
+
+You have a bonus to AC while wearing this armor. The bonus is determined by its rarity.
+ 

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T14:38:04-06:00
+
+====== U--Bracers of Archery ======
+Created Wednesday 12 June 2019
+
+//Wondrous item, uncommon (requires attunement)//
+
+While wearing these bracers, you have proficiency with the longbow and shortbow, and you gain a +2 bonus to damage rolls on ranged attacks made with such weapons.

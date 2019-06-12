@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:12:30-06:00
+
+====== Pride ======
+Created Wednesday 05 June 2019
+
+//Weapon (rapier), uncommon//
+
+This +1 rapier deals 1d4 (instead of 1d8) until you flatter it, then it deals 1d12

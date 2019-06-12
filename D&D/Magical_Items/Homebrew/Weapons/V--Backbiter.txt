@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:46:36-06:00
+
+====== V--Backbiter ======
+Created Wednesday 05 June 2019
+
+//Weapon (any weapon with Reach), very rare (requires attunement)//
+
+This weapon has a godly +6 bonus to hit and futher motivates the wielder by gently encouraging its wielder to miss less. If you roll a 1 to hit, reroll the attack against yourself! This effect only applies if the final die result is a 1. (Meaning you still reroll the one for a lucky halfling and do not attack yourself unless the subsequent roll is also a 1)

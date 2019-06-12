@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:08:53-06:00
+
+====== A--Starkiller ======
+Created Wednesday 05 June 2019
+
+//Weapon (any sword), artifact (requires attunement)//
+
+This inky black +3 sword's blade is dotted with bright lights appearing as the night sky had been forged into a blade.
+
+When making an attack with the **Starkiller**, you use your choice of your Strength or your relevant spellcasting modifier for the Attack and Damage Rolls. You must use the same modifier for both rolls.
+
+Once per day you may cast //melf's minute meteors// targeting each enemy within 120ft twice using your releveant spellcasting modifier.  When you use the **Starkiller** in this way the sky goes black wiping out the sun, moon, and stars. Afterwards the user falls unconcious until the end of their next turn.

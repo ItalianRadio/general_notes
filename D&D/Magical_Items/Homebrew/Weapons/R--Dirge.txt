@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:11:12-06:00
+
+====== R--Dirge ======
+Created Wednesday 05 June 2019
+
+//Weapon (dagger), rare (requires attunement)//
+
+This +1 dagger seems to be constantly poisoned, so much so that poison seems to just fall off the weapon.
+
+**Dirge **deals an additional +1d6 poison damage on a hit

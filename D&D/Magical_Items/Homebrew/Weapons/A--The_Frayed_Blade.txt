@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:08:42-06:00
+
+====== A--The Frayed Blade ======
+Created Wednesday 05 June 2019
+
+//Weapon (war scythe), artifact (requires attunement)//
+
+This +3 war scythe appears to turn into mist. You can't tell where the blade ends, it just seems to vanish into nothingness.
+
+This weapon has 6 charges and regains 1d6 + 1 each morning. It has the following abilities:
+* 2C: As an attack, you may attack each creature in a 30ft line. 
+* 4C: You gain Advantage on all attacks made with the **Frayed Blade** until the beginning of your next turn.

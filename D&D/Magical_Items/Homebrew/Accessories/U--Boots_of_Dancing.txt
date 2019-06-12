@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:26:17-06:00
+
+====== U--Boots of Dancing ======
+Created Wednesday 05 June 2019
+
+//Wondrous item, uncommon//
+
+While you wear these boots, your steps make no sound, regardless of the surface you are moving across unless you are dancing. You also have advantage on Dexterity (Stealth) checks that rely on moving silently even while you're dancing. Finally, whenever you attempt to run or withdraw from a fight you are forced to dance, setting your maximum movement to 15 ft.

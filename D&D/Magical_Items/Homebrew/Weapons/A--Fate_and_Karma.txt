@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:11:00-06:00
+
+====== A--Fate and Karma ======
+Created Wednesday 05 June 2019
+
+//Weapon (dual daggers), artifact (requires attunement)//
+
+Fate & Karma are dual +3 daggers that have playing card symbols strewn over the weapon's hilt and fuller.
+
+While you are attuned to both blades you gain the following abilities:
+* **Fate** & **Karma** gain a range increment of 30/90 and return to you at the beginning of your next turn
+* **Fan of Knives**: Once per day, as an action you may attack each creature of your choice within 30ft of you with both **Fate **&** Karma**. Attacks made in this way deal an additional 3d8 damage.
+* If one of the blades is not on your person but the other is, the missing blade will appear on your person in an advantageous place (hidden if it needs to be or in your hand if you need to fight) after 1 minute as long as the blade is not being held in a sentient creature's hand.
+
+While you are attuned to **Fate** you gain the following ability:
+* You gain 1 luck point to be applied to the luck feat for **Fate** and if you are attuned to **Karma** you gain 1 additional luck point for a total of 2. These luck points are used as in the **Luck **feat.
+
+While you are attuned to **Karma** you gain the following ability:
+* When you roll a 1 on a damage die for an attack you make using **Fate** or **Karma**, you can reroll the die and must use the new roll, even if the new roll is a 1.

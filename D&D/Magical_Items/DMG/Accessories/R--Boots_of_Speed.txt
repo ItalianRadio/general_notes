@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T14:35:01-06:00
+
+====== R--Boots of Speed ======
+Created Wednesday 12 June 2019
+
+//Wondrous item, rare (requires attunement)//
+
+While you wear these boots, you can use a bonus action and click the boots' heels together. If you do, the boots double your walking speed, and any creature that makes an opportunity attack against you has disadvantage on the attack roll. If you click your heels together again, you end the effect.
+ When the boots' property has been used for a total of 10 minutes, the magic ceases to function until you finish a long rest.
+ 

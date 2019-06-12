@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T14:55:46-06:00
+
+====== R--Cloak of Displacement ======
+Created Wednesday 12 June 2019
+
+//Wondrous item, rare (requires attunement)//
+
+While you wear this cloak, it projects an illusion that makes you appear to be standing in a place near your actual location, causing any creature to have disadvantage on attack rolls against you. If you take damage, the property ceases to function until the start of your next turn. This property is suppressed while you are in-capacitated, restrained, or otherwise unable to move.
+ 

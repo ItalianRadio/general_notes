@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:35:45-06:00
+
+====== U--ZixZax's Ring of Servitude ======
+Created Wednesday 05 June 2019
+
+//Ring, uncommon//
+
+4 charges, regain 4 charges each morning. 
+1 C: Cast //Tiny Servant// with no concentration

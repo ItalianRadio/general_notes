@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:44:27-06:00
+
+====== L--Chains of Bloodlust ======
+Created Wednesday 05 June 2019
+
+//Armor (chain mail), legendary (requires attunement)//
+
+This blood-colored chainmail has a +3 bonus and grants the ability** Bloodlust.**
+
+**Bloodlust. Bloodlust **is activated as a bonus action, while activated you gain the following benefits:
+* You have advantage on Strength checks and Strength saving throws.
+* When you make a melee weapon attack, you gain a +3 bonus to the damage roll.
+* You have resistance to bludgeoning, piercing, and slashing damage.
+* If you are able to cast spells, you can’t cast them or concentrate on them while **Bloodlust** is activated.
+
+Your **Bloodlust** ends early if you are knocked unconscious or if your turn ends and you haven’t attacked a hostile creature since your last turn or taken damage since then. Otherwise, there are no time limits. You can also end your **Bloodlust** on your turn as a bonus action.
+
+When **Bloodlust **ends, you suffer from 1 additional level of exhaustion.

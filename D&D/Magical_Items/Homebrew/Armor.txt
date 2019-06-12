@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T09:59:17-06:00
+
+====== Armor ======
+Created Wednesday 05 June 2019
+
+**Armor before other abilities:**
++1 is rare
++2 is very rare
++3 is legendary
+
+**Shields before other abilities:**
++1 is uncommon
++2 is rare
++3 is very rare

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:34:14-06:00
+
+====== U--ZixZax's Ring of Silence ======
+Created Wednesday 05 June 2019
+
+//Ring, uncommon (requires attunement)//
+
+You cannot make noise, including speech. While you are wearing this ring have have a +10 bonus to Dexterity (Stealth) checks and can’t be tracked except by magical means. Additionally, you leave behind no tracks or other traces of passage. Finally, you may not cast spells that have Verbal components while you are attuned to this ring.

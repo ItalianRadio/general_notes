@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:43:46-06:00
+
+====== R--Full Plate of Arrow Attraction ======
+Created Wednesday 05 June 2019
+
+//Armor (full plate), rare//
+
+This set of +1 full plate causes the first projectile that would strike you to deflect off the armor. After this ability is activated, until the end of your next turn it gives those attacking you with projectiles a +5 to hit you. At the end of your next turn the ability may once again activate.

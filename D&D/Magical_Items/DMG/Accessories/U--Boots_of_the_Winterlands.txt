@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T14:36:18-06:00
+
+====== U--Boots of the Winterlands ======
+Created Wednesday 12 June 2019
+
+//Wondrous item, uncommon (requires attunement)//
+
+These furred boots are snug and feel quite warm. While you wear them, you gain the following benefits:
+* You have resistance to cold damage.
+* You ignore difficult terrain created by ice or snow.
+You can tolerate temperatures as low as -50 degrees Fahrenheit without any additional protection. If you wear heavy clothes, you can tolerate temperatures as low as -100 degrees Fahrenheit.

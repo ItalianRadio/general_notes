@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:35:28-06:00
+
+====== C--Wand of Wand Creation ======
+Created Wednesday 05 June 2019
+
+//Wand, common//
+
+As an action it disintigrates on use and creates a **Wand of Wand Creation** at your feet.

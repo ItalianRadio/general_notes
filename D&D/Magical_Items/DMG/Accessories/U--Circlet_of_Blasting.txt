@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T14:53:32-06:00
+
+====== U--Circlet of Blasting ======
+Created Wednesday 12 June 2019
+
+//Wondrous item, uncommon//
+
+While wearing this circlet, you can use an action to cast the //scorching ray// spell with it. When you make the spell's attacks, you do so with an attack bonus of +5. The circlet can't be used this way again until the next dawn.
+ 

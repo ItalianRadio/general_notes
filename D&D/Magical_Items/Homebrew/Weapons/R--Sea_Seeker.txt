@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:09:04-06:00
+
+====== R--Sea Seeker ======
+Created Wednesday 05 June 2019
+
+Weapon (sickle), rare
+
+This +2 sickle grants the following ability:
+
+**Might of the Sea.** If you make 1 attack on a turn and it is made with this weapon, the **Sea Seeker** deals 1d20 damage instead of 1d4.

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:30:30-06:00
+
+====== C--ZixZax's Ring of Fire Detection ======
+Created Wednesday 05 June 2019
+
+//Ring, common//
+
+Glows red when in fire. Magic?

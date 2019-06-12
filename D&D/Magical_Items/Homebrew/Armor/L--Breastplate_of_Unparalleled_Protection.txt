@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:44:54-06:00
+
+====== L--Breastplate of Unparalleled Protection ======
+Created Wednesday 05 June 2019
+
+//Armor (breastplate), legendary//
+
+**Curse.** Requires //Remove Curse //cast as an 8th level spell to remove it from the wearer
+Removing the armor removes all the benefits and curses the armor applies to the wearer. If a creature puts the armor back on after doffing it, they return to the level of magical advancement they were previously at. If a new creature dons the armor, they start from magical advancement level zero. 
+
+While wearing this set of armor you cannot feel pain
+
+Each time you are knocked unconcious your skin becomes more stone-like
+
+If you are knocked unconcious or killed, the first 1st - 5th times the armor is given an additional +1 magical modifier to AC
+
+The 6th time you are knocked unconcious or killed, instead you lose 5 movement speed to all types and you lose the ability to fly by non-magical means 
+
+The 7th time, you gain resistance to bludgeon, piercing, and slashing damage
+
+The 8th time, you become immune to non-magical bludgeon, piercing, and slashing damage
+
+The 9th time, you no longer need to eat, drink, breath, and you no longer age 
+
+The 10th time, you are petrified (as //Flesh to Stone//) and the effect can only be removed by removing the **Breastplate**

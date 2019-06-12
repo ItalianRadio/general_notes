@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T14:39:00-06:00
+
+====== R--Brazier of Commanding Fire Elementals ======
+Created Wednesday 12 June 2019
+
+//Wondrous item, rare//
+
+While a fire burns in this brass brazier, you can use an action to speak the brazier's command word and summon a fire elemental, as if you had cast the conjure elemental spell. The brazier can't be used this way again until the next dawn.
+The brazier weighs 5 pounds.

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T11:11:30-06:00
+
+====== Spellsong Cudgel ======
+Created Wednesday 05 June 2019
+
+//Weapon (any club or staff), rare (requires attunement)//
+
+This +2 club causes the bearer to hear a fragment of an ancient song whenever it is used to strike a foe.
+While you are attuned to the club,  when making an attack with this weapon, you **must** use your choice of your Intelligence modifier for the Attack and Damage Rolls. If you deal damage with this weapon you may use your reaction to cast //shield// on a creature within 5ft of you (including yourself) without using a spell slot.

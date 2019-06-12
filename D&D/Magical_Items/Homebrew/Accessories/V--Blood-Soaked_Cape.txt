@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-05T10:25:59-06:00
+
+====== V--Blood-Soaked Cape ======
+Created Wednesday 05 June 2019
+
+//Wondrous item, very rare (requires attunement)//
+
+When you take damage, until the end of your next turn you gain the **Revenge **buff
+
+**Revenge. **Causes your spilled blood to enhance your melee weapon attacks. Your next melee weapon attack deals an additional damage based on what level of magical power the **Blood-Soaked Cape** is at. 
+Each wearer of the cape has an independent level of magical power for the cape and the level does not reset upon re-attunement.
+
+During the first 9 uses it gives +3d6 damage.
+
+Beginning at 10 uses it gives you +3d8 damage and you pass make a Wisdom saving throw (DC 15) or roll on the DMG's temporary madness table and suffer a temporary madness for 1d10 minutes.
+
+Beginning at 14 uses it gives you +3d10 and you must pass a Wisdom saving throw (DC 17) or lose a limb to shadow (-10 Maximum HP) Once you have lost all 4 limbs to shadow or your Maximum HP is reduced to 0 by this effect you dissolve into shadow until the beginning of your next turn. You reappear in the space you dissolved in as a shadowborne. You regain all Maximum HP lost by this effect and gain a permanent +1 bonus to Constitution. As a shadowborne you appear more shadow-like and have sunlight sensitivity. Finally, once you are shadowborne you gain the ability to heal 1 HP at the start of any turn where you are below half your maximum HP.

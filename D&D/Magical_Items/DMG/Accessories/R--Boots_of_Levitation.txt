@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-12T14:34:36-06:00
+
+====== R--Boots of Levitation ======
+Created Wednesday 12 June 2019
+
+//Wondrous item, rare (requires attunement)//
+
+While you wear these boots, you can use an action to cast the levitate spell on yourself at will.
