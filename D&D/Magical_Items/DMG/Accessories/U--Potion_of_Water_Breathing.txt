@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:16:38-06:00
+
+====== U--Potion of Water Breathing ======
+Created Thursday 13 June 2019
+
+//Potion, uncommon//
+
+You can breathe underwater for 1 hour after drinking this potion. Its cloudy green fluid smells of the sea and has a jellyfish like bubble floating in it.
