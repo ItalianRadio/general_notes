@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T11:14:03-06:00
+
+====== V--Spellguard Shield ======
+Created Thursday 13 June 2019
+
+//Armor (shield), very rare (requires attunement)//
+
+While holding this shield, you have advantage on saving throws against spells and other magical effects, and spell attacks have disadvantage against you.
