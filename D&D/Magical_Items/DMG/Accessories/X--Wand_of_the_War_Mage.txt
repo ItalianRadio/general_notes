@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:35:38-06:00
+
+====== X--Wand of the War Mage ======
+Created Thursday 13 June 2019
+
+Wand, uncommon (+1), rare (+2), very rare (+3) (requires attunement by a spellcaster)
+
+While holding this wand, you gain a bonus to spell attack rolls determined by the wand's rarity. In addition, you ignore half cover when making a spell attack.
