@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T08:53:52-06:00
+
+====== U--Eyes of Minute Seeing ======
+Created Thursday 13 June 2019
+
+//Wondrous item, uncommon//
+
+These crystal lenses fit over the eyes. While wearing them, you can see much better than normal out to a range of 1 foot. You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within that range.

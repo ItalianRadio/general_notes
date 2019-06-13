@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:05:44-06:00
+
+====== U--Pearl of Power ======
+Created Thursday 13 June 2019
+
+//Wondrous item, uncommon (requires attunement)//
+
+While this pearl is on your person, you can use an action to speak its command word and regain one expended spell slot. If the expended slot was of 4th level or higher, the new slot is 3rd level. Once you use the pearl, it can't be used again until the next dawn.

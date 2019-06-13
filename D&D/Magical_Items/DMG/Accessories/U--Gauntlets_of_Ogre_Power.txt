@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T08:58:19-06:00
+
+====== U--Gauntlets of Ogre Power ======
+Created Thursday 13 June 2019
+
+//Wondrous item, uncommon (requires attunement)//
+
+Your Strength score is 19 while you wear these gauntlets. They have no effect on you if your Strength is already 19 or higher.

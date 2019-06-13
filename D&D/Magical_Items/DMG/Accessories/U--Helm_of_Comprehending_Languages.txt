@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:01:48-06:00
+
+====== U--Helm of Comprehending Languages ======
+Created Thursday 13 June 2019
+
+//Wondrous item, uncommon//
+
+While wearing this helm, you can use an action to cast the //comprehend languages// spell from it at will.

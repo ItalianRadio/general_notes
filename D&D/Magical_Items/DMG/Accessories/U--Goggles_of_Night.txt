@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:00:58-06:00
+
+====== U--Goggles of Night ======
+Created Thursday 13 June 2019
+
+//Wondrous item, uncommon//
+
+While wearing these dark lenses, you have darkvision out to a range of 60 feet. If you already have darkvision, wearing the goggles increases its range by 60 feet.

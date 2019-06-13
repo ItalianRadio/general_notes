@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:01:34-06:00
+
+====== U--Headband of Intellect ======
+Created Thursday 13 June 2019
+
+//Wondrous item, uncommon (requires attunement)//
+
+Your Intelligence score is 19 while you wear this headband. It has no effect on you if your Intelligence is already 19 or higher.
