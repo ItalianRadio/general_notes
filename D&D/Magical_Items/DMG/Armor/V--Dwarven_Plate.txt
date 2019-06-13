@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T10:39:42-06:00
+
+====== V--Dwarven Plate ======
+Created Thursday 13 June 2019
+
+//Armor (plate), very rare//
+
+While wearing this armor, you gain a +2 bonus to AC. In addition, if an effect moves you against your will along the ground, you can use your reaction to reduce the distance you are moved by up to 10 feet.

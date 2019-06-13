@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T10:12:53-06:00
+
+====== R--Mantle of Spell Resistance ======
+Created Thursday 13 June 2019
+
+//Wondrous item, rare (requires attunement)//
+
+You have advantage on saving throws against spells while you wear this cloak.

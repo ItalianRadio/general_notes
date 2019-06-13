@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T10:16:22-06:00
+
+====== R--Potion of Mind Reading ======
+Created Thursday 13 June 2019
+
+//Potion, rare//
+
+When you drink this potion, you gain the effect of the //detect thoughts// spell (save DC 13). The potion's dense, purple liquid has an ovoid cloud of pink floating in it.
+
