@@ -5,7 +5,7 @@ Creation-Date: 2019-06-03T12:38:47-06:00
 ====== Rulers (PCs) ======
 Created Monday 03 June 2019
 
-Rez Brutig	Chance's Gith Fighter
-Lilith		Rach's Aasimar Zealot Barb	
-Sloth		Nik
-Caius		Sam's Half-Drow
+[[+Rez Brutig|Rez Brutig]]	Chance's Gith Fighter
+[[+Lilith|Lilith]]		Rach's Aasimar Zealot Barb	
+[[+Sloth|Sloth]]		Nik
+[[+Caius|Caius]]		Sam's Half-Drow
