@@ -5,7 +5,7 @@ Creation-Date: 2019-06-12T15:25:37-06:00
 ====== A--Spiritus Staff ======
 Created Wednesday 12 June 2019
 
-//Staff, artifact (requires attunement from a creature capable of casting a spell of at least 1st level)//
+//Staff, artifact (requires attunement by a spellcaster)//
 
 The //Spiritus Staff// is a magic +3 quarterstaff that has two forms. As a bonus action, you can swap between the two forms, life and death. 
 This staff has 12 charges and regains no charges naturally over time.
