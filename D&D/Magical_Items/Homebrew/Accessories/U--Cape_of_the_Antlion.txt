@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T15:37:07-06:00
+
+====== U--Cape of the Antlion ======
+Created Thursday 13 June 2019
+
+//Wondrous item, uncommon (requires attunement)//
+
+While you are attuned to this cape you have tremorsense out to 30ft. and gain a burrowspeed of 15ft. While you are burrowing using this cape you can take only the Dash, Disengage, and Dodge actions as the cape is wrapped around you allowing you to burrow.

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T10:18:38-06:00
+
+====== R--Ring of Protection ======
+Created Thursday 13 June 2019
+
+//Ring, rare (requires attunement)//
+
+You gain a +1 bonus to AC and saving throws while wearing this ring.

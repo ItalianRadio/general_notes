@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:33:43-06:00
+
+====== U--Trident of Fish Command ======
+Created Thursday 13 June 2019
+
+//Weapon (trident), uncommon (requires attunement)//
+
+This trident is a magic weapon. It has 3 charges. While you carry it, you can use an action and expend 1 charge to cast //dominate beast// (save DC 15) from it on a beast that has an innate swimming speed. The trident regains 1d3 expended charges daily at dawn.

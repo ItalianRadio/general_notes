@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:18:00-06:00
+
+====== U--Ring of Swimming ======
+Created Thursday 13 June 2019
+
+//Ring, uncommon//
+
+You have a swimming speed of 40 feet while wearing this ring.

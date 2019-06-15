@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:33:23-06:00
+
+====== U--Stone of Good Luck (Luckstone) ======
+Created Thursday 13 June 2019
+
+//Wondrous item, uncommon (requires attunement)//
+
+While this polished agate is on your person, you gain a +1 bonus to ability checks and saving throws.

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T10:15:06-06:00
+
+====== R--Potion of Clairvoyance ======
+Created Thursday 13 June 2019
+
+//Potion, rare//
+
+When you drink this potion, you gain the effect of the //clairvoyance// spell. An eyeball bobs in this yellowish liquid but vanishes when the potion is opened.
+

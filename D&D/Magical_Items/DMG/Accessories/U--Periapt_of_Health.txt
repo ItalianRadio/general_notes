@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:05:58-06:00
+
+====== U--Periapt of Health ======
+Created Thursday 13 June 2019
+
+//Wondrous item, uncommon//
+
+You are immune to contracting any disease while you wear this pendant. If you are already infected with a disease, the effects of the disease are suppressed you while you wear the pendant.

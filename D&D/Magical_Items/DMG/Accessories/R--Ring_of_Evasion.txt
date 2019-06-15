@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T10:17:51-06:00
+
+====== R--Ring of Evasion ======
+Created Thursday 13 June 2019
+
+//Ring, rare (requires attunement)//
+
+This ring has 3 charges, and it regains 1d3 expended charges daily at dawn. When you fail a Dexterity saving throw while wearing it, you can use your reaction to expend 1 of its charges to succeed on that saving throw instead.

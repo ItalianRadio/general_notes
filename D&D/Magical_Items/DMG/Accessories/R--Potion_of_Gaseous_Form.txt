@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T10:15:42-06:00
+
+====== R--Potion of Gaseous Form ======
+Created Thursday 13 June 2019
+
+//Potion, rare//
+
+When you drink this potion, you gain the effect of the //gaseous form// spell for 1 hour (no concentration required) or until you end the effect as a bonus action. This potion's container seems to hold fog that moves and pours like water.

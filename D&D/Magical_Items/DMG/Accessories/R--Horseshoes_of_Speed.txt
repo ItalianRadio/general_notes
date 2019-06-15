@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T10:07:48-06:00
+
+====== R--Horseshoes of Speed ======
+Created Thursday 13 June 2019
+
+//Wondrous item, rare//
+
+These iron horseshoes come in a set of four. While all four shoes are affixed to the hooves of a horse or similar creature, they increase the creature's walking speed by 30 feet.

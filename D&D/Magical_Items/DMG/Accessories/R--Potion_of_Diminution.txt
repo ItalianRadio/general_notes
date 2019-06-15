@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T10:15:22-06:00
+
+====== R--Potion of Diminution ======
+Created Thursday 13 June 2019
+
+//Potion, rare//
+
+When you drink this potion, you gain the “reduce” effect of the //enlarge/reduce// spell for 1d4 hours (no concentration required). The red in the potion's liquid continuously contracts to a tiny bead and then expands to color the clear liquid around it. Shaking the bottle fails to interrupt this process.

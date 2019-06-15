@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T11:58:35-06:00
+
+====== L--Ring of Three Wishes ======
+Created Thursday 13 June 2019
+
+//Ring, legendary//
+
+While wearing this ring, you can use an action to expend 1 of its 3 charges to cast the //wish// spell from it. The ring becomes nonmagical when you use the last charge.
+

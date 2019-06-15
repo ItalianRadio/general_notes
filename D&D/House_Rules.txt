@@ -9,6 +9,8 @@ Created Tuesday 28 May 2019
 [[+Becoming a Lich|Becoming a Lich]]
 [[+Injuries|Injuries]]
 
+Roll for recap - players roll a d20 at the start of the session, lowest recaps last session. If they make an attempt, they get inspiration.
+
 ==== DM Rules ====
 * Flanking - A creature that is “flanked” gives creatures +2 to attack rolls
 * Multiclassing - Allowed, follow the attribute requirements

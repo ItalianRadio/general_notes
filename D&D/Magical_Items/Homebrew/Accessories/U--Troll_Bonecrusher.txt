@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-14T09:56:02-06:00
+
+====== U--Troll Bonecrusher ======
+Created Friday 14 June 2019
+
+//Weapon (any weapon that deals bludgeoning damage), uncommon//
+
+Once per turn when you attack someone with the bonecrusher, if you miss, you may have it lower the foe's AC by 1 for 1 hour.

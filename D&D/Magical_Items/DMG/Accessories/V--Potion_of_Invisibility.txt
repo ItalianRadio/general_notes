@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T11:07:33-06:00
+
+====== V--Potion of Invisibility ======
+Created Thursday 13 June 2019
+
+//Potion, very rare//
+
+This potion's container looks empty but feels as though it holds liquid. When you drink it, you become invisible for 1 hour. Anything you wear or carry is invisible with you. The effect ends early if you attack or cast a spell.

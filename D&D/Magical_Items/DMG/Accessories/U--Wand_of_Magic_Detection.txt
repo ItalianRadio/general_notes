@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:34:07-06:00
+
+====== U--Wand of Magic Detection ======
+Created Thursday 13 June 2019
+
+//Wand, uncommon//
+
+This wand has 3 charges. While holding it, you can expend 1 charge as an action to cast the //detect magic// spell from it. The wand regains 1d3 expended charges daily at dawn.

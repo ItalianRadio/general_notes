@@ -5,7 +5,7 @@ Creation-Date: 2019-06-05T10:27:30-06:00
 ====== V--Ishtak's Crystal Orb ======
 Created Wednesday 05 June 2019
 
-//Wondrous item, very rare (requires attunement by a spellcasting creature)//
+//Wondrous item, very rare (requires attunement by a spellcaster)//
 
 While you hold the crystal orb, you gain a +2 bonus to spell attack rolls
 

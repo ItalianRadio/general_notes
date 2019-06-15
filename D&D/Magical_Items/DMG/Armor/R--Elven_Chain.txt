@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:43:47-06:00
+
+====== R--Elven Chain ======
+Created Thursday 13 June 2019
+
+//Armor (chain shirt), rare//
+
+You gain a +1 bonus to AC while you wear this armor. You are considered proficient with this armor even if you lack proficiency with medium armor.

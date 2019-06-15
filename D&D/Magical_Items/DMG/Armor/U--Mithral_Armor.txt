@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T09:04:04-06:00
+
+====== U--Mithral Armor ======
+Created Thursday 13 June 2019
+
+//Armor (medium or heavy, but not hide), uncommon//
+
+Mithral is a light, flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. If the armor normally imposes disadvantage on Dexterity (Stealth) checks or has a Strength requirement, the mithral version of the armor doesn't.

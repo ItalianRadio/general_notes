@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T10:18:24-06:00
+
+====== R--Ring of Free Action ======
+Created Thursday 13 June 2019
+
+//Ring, rare (requires attunement)//
+
+While you wear this ring, difficult terrain doesn't cost you extra movement. In addition, magic can neither reduce your speed nor cause you to be paralyzed or restrained.

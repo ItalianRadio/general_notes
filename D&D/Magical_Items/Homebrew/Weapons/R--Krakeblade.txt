@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-13T12:27:47-06:00
+
+====== R--Krakeblade ======
+Created Thursday 13 June 2019
+
+//Weapon (greatsword), rare (requires attunement)//
+
+A massive sword that is able to be wielded fluidly despite its size and weight. It has the following abilities:
+* While within 15ft. of a pool of water at least 2in. deep and 5ft. in diameter it is a +2 magical weapon and glows in a blue-green color and casts dim light in this color out 10ft.
+* While you are attuned to a //krakeblade// you gain a swim speed of 30ft. and can breathe underwater.
+* You can cast //wall of water//. Once the //krakeblade //is used in this way, you cannot cast it again until the next day at dawn.
