@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-06-03T12:38:47-06:00
 
-====== Rulers (PCs) ======
+====== Barons (PCs) ======
 Created Monday 03 June 2019
 
 [[+Rez Brutig|Rez Brutig]]	Chance's Gith Fighter
