@@ -6,3 +6,9 @@ Creation-Date: 2019-06-14T21:40:46-06:00
 Created Friday 14 June 2019
 
 Human Raven Queen
+
+Standoffish cultist of the cult of Rakdos, serves the Raven Queen though.
+Cult is her family, Raven Queen is her master.
+
+==== Combat abilities: ====
+She's a padlock, find at a range w/ //eldritch blast//, but wants to get up close an personal to thwack people. She's feat-heavy w/ **Polearm Mastery** and **War Caster**. Got a cool combo where she uses her reaction to whack someone w/ //Booming Blade// when they get too close and then run away, causing them to take another 3d8 thunder dmg if they follow her.
