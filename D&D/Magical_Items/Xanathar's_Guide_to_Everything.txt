@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-06-18T10:19:39-06:00
 
-====== XGtE ======
+====== Xanathar's Guide to Everything ======
 Created Tuesday 18 June 2019
 
 [[+Accessories]] | [[+Armor]] | [[+Weapons]]

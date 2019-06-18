@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T14:25:30-06:00
+
+====== U--Spymaster's Cloak ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, uncommon//
+
+People who meet you tend to forget you. Gather Intel checks have disadvantage against anyone wearing this fine grey cloak.

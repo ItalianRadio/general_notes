@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T14:24:04-06:00
+
+====== R--Mantle of Regency ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, rare, requires attunement//
+
+This billowing red cloak has a mind of its own. It grants the user 30 feet of fly (hover) speed while worn. As an action, the owner can summon the mantle to them, though how long it takes to arrive depends on how far away it is (it flies much faster when not being worn).
+You are a much more impressive figure while wearing the mantle. You have advantage on Charisma (Persuasion) checks, and whenever you roll on a follower chart, you can select any result within 10% of your roll.

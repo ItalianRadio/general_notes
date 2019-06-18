@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T14:31:58-06:00
+
+====== R--Tapestry of Reweaving ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, rare, requires installation//
+
+This magnificent tapestry at first appears to display a scene depicting life in the local area. The threads are expensively dyed, and real gold and silver are woven into it, giving it brilliant colors and incredibly finedetail. Expressions can be made out on the tiny faces of any people living nearby.
+Watching the tapestry closely reveals it is not an idyllic depiction of a time gone by—it is live. It showswhat is actually happening around the area in which it is installed. It is impossible to detect motion while looking at it, however—one only notices change when looking away and then looking back.
+If found uninstalled, the tapestry depicts a scene from wherever it was last installed, and it does not change its scene until it is installed again.

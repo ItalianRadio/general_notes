@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T14:24:32-06:00
+
+====== V--Obey ======
+Created Tuesday 18 June 2019
+
+//Weapon (longsword), very rare (requires attunement by a lawful creature)//
+If you are a neutral character, this crystal longsword functions as a normal weapon with no bonus or special properties. If you are chaotic, touching Obey deals 2d8 force damage to you. If you are a lawful character, you can use Obey as a magic weapon with the following properties.
+You gain a +1 bonus to attack and damage rolls made with this magic weapon. When this weapon strikes a magic-user concentrating on a spell, their concentration is broken and they are knocked prone.
+When you score a critical hit, roll a d6 on the Inexorables row of the Servitors chart (page 31). A glowing white door opens in front of you, the rolled servitor steps through, and the door vanishes. This servitor fights for you and obeys your commands. They return to Axiom after 1 minute or if they drop to 0 hit points. If this weapon strikes a member of the Court of All Flesh, they are immediately returned to Primordius.

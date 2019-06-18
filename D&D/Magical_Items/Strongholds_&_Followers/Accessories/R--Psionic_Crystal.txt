@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T14:26:11-06:00
+
+====== R--Psionic Crystal ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, rare (requires attunement)//
+
+Chipped off the hide of a gemstone dragon, this crystal grants you psionic abilities depending on its size. It recharges upon completing a long rest. If you ever use the last charge, it turns into an inert precious stone.
+
+| Size   | Example   | Charges | Recharge | Save DC | Manifestations                                                                          <|
+|--------|-----------|---------|----------|---------|------------------------------------------------------------------------------------------|
+| Small  | A coin    | 8       | 1d4      | DC 13   | //Amplify, Distance, Flay//                                                              |
+| Medium | An apple  | 12      | 1d6      | DC 14   | //Amplify, Distance, Flay, Forget, Sympathy//                                            |
+| Large  | A bowl    | 16      | 1d8      | DC 15   | //Amplify, Distance, Flay, Forget, Mindscape, Reflection, Sympathy//                     |
+| Huge   | A pumpkin | 24      | 1d10     | DC 16   | //Amplify, Believe, Distance, Elsewhere, Flay, Forget, Mindscape, Reflection, Sympathy// |
+

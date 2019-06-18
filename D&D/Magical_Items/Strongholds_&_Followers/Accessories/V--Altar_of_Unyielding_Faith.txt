@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T13:33:44-06:00
+
+====== V--Altar of Unyielding Faith ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, very rare, requires installation//
+
+Install this altar in your temple and choose a row on the Servitors chart (page 31). Whenever you roll on this chart, you may choose the chart entry one higher than the result you rolled.

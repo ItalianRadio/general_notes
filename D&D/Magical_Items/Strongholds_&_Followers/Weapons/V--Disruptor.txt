@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T14:19:37-06:00
+
+====== V--Disruptor ======
+Created Tuesday 18 June 2019
+
+//Weapon (longsword), very rare (requires attunement by a chaotic creature)//
+
+If you are a neutral character, this dull grey longsword functions as a normal weapon with no bonus or special properties. If you are lawful, touching Disruptor deals 2d8 necrotic damage to you. If you are a chaotic character, you can use Disruptor as a magic weapon with the following properties.
+You gain a +1 bonus to attack and damage rolls made with this weapon. This bonus increases to +3 against lawful creatures. If an attack with Disruptor reduces a creature to 0 hit points, their chest bursts open and their organs spill out.
+Whenever you score a critical hit with Disruptor, roll a d6 on the Court of All Flesh row of the Servitors chart (page 31). The critical hit lops a limb off the enemy’s body, and the rolled servitor spawns from the severed flesh. This servitor fights for you and obeys your commands. They return to Morphosis after 1 minute or if they drop to 0 hit points.

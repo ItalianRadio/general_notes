@@ -1,0 +1,25 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T14:01:09-06:00
+
+====== The Codex Miror ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, artifact, requires attunement//
+
+Written by Durthara, the Empress’s Archmage, the Book of Wonder is the first recorded codex and gave the Age of Wonder its name. In those days, the Ganarajyan Empire’s word for “magic” translated as “wonder” or “marvel.” Magic, then, was newly discovered by Men and seemed a limitless resource. Spells were invented, made fashionable, and forgotten before anyone knew they could be written down. 
+History records the codex miror as the greatest, the most powerful of the codices, but no sage has ever owned more than two, so no one in history could claim to be an expert, and most of the records of what the Book of Wonder could do were written hundreds of years after it disappeared.
+
+==== Sorcerer Supreme ====
+You learn, prepare, and cast spells as though you were four levels higher. You learn these new spells immediately upon attuning to the codex. Multiclass characters choose from among their highest-level spellcasting classes. You can prepare any spell from the bard, wizard, sorcerer, or warlock spell list. Your spells cannot be resisted.
+
+==== Master of Magic ====
+On initiative count 30, you know if any enemies are casting spells on the current turn and which spells they’re casting.
+
+
+==== Bound to the Book of Marvels ====
+Write your True Name into the book. While you are attuned to the book, you have advantage on saving throws against spells. If you lose the book and someone speaks your True Name in your presence, you lose this benefit and you have disadvantage on saving throws to resist spells cast by the magic-user who spoke your True Name.
+
+==== Book of Wonder ====
+The codex miror remembers a time when magic was much...friskier. Whenever you cast a spell on a creature, there’s a 5% chance one of the following effects occurs
+(determined randomly). (page 254)

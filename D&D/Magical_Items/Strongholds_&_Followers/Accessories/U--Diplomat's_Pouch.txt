@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T14:18:57-06:00
+
+====== U--Diplomat's Pouch ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, uncommon//
+
+A letter placed in this pouch, addressed to someone who owns another //diplomat’s pouch//, disappears, and the recipient listed in the letter finds a copy of it in their pouch. A letter can be listed to multiple recipients with a //diplomat’s pouch//.
