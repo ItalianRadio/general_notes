@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:48:05-06:00
+
+====== V--Frog Plate ======
+Created Tuesday 18 June 2019
+
+//Armor (plate), very rare (requires attunement)//
+
+When wearing this armor you gain +1 bonus to AC, and can breathe both air and water. You can also jump 3 times the normal distance, but you can’t jump further than your remaining movement would allow. 
+Once you’re attuned to the Frog Plate, you can cast //polymorph// on yourself as a bonus action, transforming into a giant frog. While transformed you retain your Intelligence, Wisdom, and Charisma scores, and you add your level to the giant frog’s hit points and half your level to the giant frog’s attack and damage rolls. The armor can’t be used this way again until the next dawn. Your concentration on this spell is automatically broken with a kiss.

@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:14:26-06:00
+
+====== V--Scroll of the Funniest Joke in the Realm ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, very rare//
+
+You can pull open this scroll (at your peril) and read it aloud as an action, after which it immediately disappears in a shower of sparkles. 
+You and every creature that can hear you within 60 feet must succeed on a DC 20 Charisma saving throw or become incapacitated with laughter and fall prone for 1 minute. From this point on, the punchline can be repeated as a bonus action: if a creature within 60 feet that can hear you has previously heard the joke and failed their saving throw, they must make the saving throw again, or become prone and incapacitated for another minute. Once a creature succeeds on the save against this effect they can no longer be affected by this joke. If an affected creature takes damage the effect immediately ends as if they had succeeded on the save.

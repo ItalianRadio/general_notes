@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:49:55-06:00
+
+====== C--Gnomish Gyro-Focus ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, common (requires attunement)//
+
+This gnomish device spins with a meditative speed and efficiency, all while maintaining perfect balance. You have advantage on concentration checks while using this as your arcane focus.

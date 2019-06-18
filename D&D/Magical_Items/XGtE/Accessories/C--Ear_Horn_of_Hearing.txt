@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T10:28:49-06:00
+
+====== C--Ear Horn of Hearing ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, common//
+
+While held up to your ear, this horn suppresses the effects of the deafened condition on you, allowing you to hear normally.

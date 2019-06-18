@@ -1,9 +1,8 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2019-06-12T12:22:35-06:00
+Creation-Date: 2019-06-18T11:12:04-06:00
 
-====== DMG ======
-Created Wednesday 12 June 2019
+====== Faerie Fire ======
+Created Tuesday 18 June 2019
 
 [[+Accessories]] | [[+Armor]] | [[+Weapons]]
-

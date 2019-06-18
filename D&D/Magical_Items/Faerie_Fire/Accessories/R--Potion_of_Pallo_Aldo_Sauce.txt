@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:04:19-06:00
+
+====== R--Potion of Pallo Aldo Sauce ======
+Created Tuesday 18 June 2019
+
+//Potion, rare//
+
+The best hot sauce in the Wilds. A single bottle contains 10 servings. When you consume a serving make a DC 15 Constitution saving throw. On a failure, you have vulnerability to fire damage, and disadvantage on all Wisdom (Perception) checks until you complete a long rest. Each additional time you fail before a long rest, you take 1d6 fire damage and a level of exhaustion. Regardless of if you succeed or fail, the DC increases by 2 for each additional serving you consume before your next long rest.
+Alternatively, you can challenge the beast within and slam the sauce, consuming 5 servings at once and taking 2d6 fire damage. Swallowing the sauce requires a successful save on a DC 17 Constitution roll and failing on a DC 12 Wisdom roll. If you are unable to satisfy these checks then you fail to slam the sauce and gain fire vulnerability, a subsequent 4d6 fire damage, and a short-term madness that lasts until sundown the following day.
+However the sauce is consumed, satisfying the requirements of your checks against five servings grants permanent resistance to fire damage.

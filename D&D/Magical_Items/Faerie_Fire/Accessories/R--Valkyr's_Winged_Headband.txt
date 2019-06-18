@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:17:23-06:00
+
+====== R--Valkyr's Winged Headband ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, rare (requires attunement)//
+
+When worn, this winged headband makes you feel as light as a feather. While attuned your movement increases by 10 feet and your weight decreases by half. This weight reduction extends to any equipment you’ve worn for more than an hour since attuning. Equipment returns to full weight as soon as it is unequipped, dropped, or otherwise removed from your
+person.
+As a bonus action, or as a reaction to falling, you can make yourself as light as a feather. Until you end the effect or until 10 minutes have passed (whichever comes first), you are treated as if under the effect of the feather fall spell. You have disadvantage on any spell or effect that includes winds or strong air currents. Attempts to throw you have the same result as trying to throw a regular feather.
+You may end this effect as a bonus action on your turn, and you may reactivate it as per the activation rules above provided you haven't exceeded 10 minutes’ duration. Once the 10 minutes are expended, this property cannot be used again until you have completed a long rest.

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:11:32-06:00
+
+====== C--Ring of the Linguist ======
+Created Tuesday 18 June 2019
+
+//Ring, common//
+
+This plain pewter ring sports a black stone of inky obsidian. It holds 1d4 unreplenishable charges of //comprehend languages//.
+**Advancement.** Once per day, you can attempt to feed the stone a word. Doing so requires a DC 14 Intelligence check to accurately pronounce and define it. Three successes from a single language will cause the stone to turn as clear as water, and a small yellow fish can be seen floating inside. The stone can now act as a translator for that language, though it needs to be held up to the ear and leaves your lobe a little wet afterwards. The stone can learn an unlimited number of languages.
+**Double advancement.** Once the ring knows five languages, the ring regains 1d4 charges of //comprehend languages// daily at dawn to a maximum of 4 charges.

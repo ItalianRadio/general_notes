@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:33:53-06:00
+
+====== L--The Wayfinder ======
+Created Tuesday 18 June 2019
+
+//Weapon (rapier), legendary (requires attunement by a spellcaster)//
+
+This elegant rapier has a filigreed hilt, its handguard shaped to resemble razor-sharp vines. 
+**Illuminos.** At will, you may speak the activation word //illuminos// and the sword will shed bright light in 20-foot radius, and dim light for an additional 20 feet. Speaking the word again or sheathing the sword will deactivate the effect.
+**Impedimus.** Once per short or long rest, as a bonus action after hitting with this weapon, you may speak the word //impedimus//: a writhing mass of thorny vines appears at the point of impact, and the target must succeed on a Strength saving throw against your spell save DC or be restrained by the magical vines until the spell ends. A Large or larger creature has advantage on this saving throw. If the target succeeds on the save, the vines shrivel away. While restrained by this spell, the target takes 1d6 piercing damage at the start of each of its turns.
+A creature restrained by the vines, or one that can touch the creature, can use its action to make a Strength check against your spell save DC. On a success, the target is freed.
+**Locus.** Once per long or short rest, you may speak the word //locus// to know the distance and direction of the nearest entrance to the Wilds within one mile—it does not, however, tell you how to open it.
+**Advancement.** If you can convince a member of the fey court to imbue it with their energy, the rapier gains an enhancement bonus equal to one half of your proficiency modifier (rounded down), and the following extra ability:
+**Forzare.** Once per long or short rest, as a bonus action when you hit with this weapon, you may speak the word //forzare//. The sword flares with energy, and the attack deals an extra 3d6 damage to the target. At the start of each of its turns until the spell ends, the target must make a Constitution saving throw against your spell save DC: on a failed save, it takes 1d6 slashing damage; on a successful save, the spell ends. The damage type of this ability is chosen by the courtier who empowers the sword, from the following: radiant, cold, fire, force, or thunder. If the user of this weapon stops being attuned to it, it loses the advancement.

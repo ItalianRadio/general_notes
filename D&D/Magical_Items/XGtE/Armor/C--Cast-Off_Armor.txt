@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T10:23:21-06:00
+
+====== C--Cast-Off Armor ======
+Created Tuesday 18 June 2019
+
+//Armor (light, medium, or heavy), common//
+You can doff this armor as an action.

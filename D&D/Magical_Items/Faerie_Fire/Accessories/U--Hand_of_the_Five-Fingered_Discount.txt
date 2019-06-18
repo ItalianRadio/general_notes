@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:50:25-06:00
+
+====== U--Hand of the Five-Fingered Discount ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, uncommon//
+
+This stiff, mummified hand rattles when you shake it, like the bones have come loose within. You can use an action to tear off a finger and think of any item you can hold in one hand; the finger transforms into an exact duplicate of that item.
+The duplicate does not possess any of the original item’s magical qualities, should it have any, but is otherwise indistinguishable. The transformation is permanent and the finger cannot be reused. Once all the fingers have been used, the remaining palm disintegrates into a fine dust.

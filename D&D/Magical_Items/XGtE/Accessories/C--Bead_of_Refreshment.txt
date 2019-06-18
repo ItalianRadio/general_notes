@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T10:21:46-06:00
+
+====== C--Bead of Refreshment ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, common//
+
+This spongy, flavorless, gelatinous bead dissolves in liquid, transforming up to a pint of the liquid into fresh, cold drinking water. The bead has no effect on magical liquids or harmful substances such as poison.

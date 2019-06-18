@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T10:54:18-06:00
+
+====== C--Mystery Key ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, common//
+
+A question mark is worked into the head of this key. The key has a 5 percent chance of unlocking any lock into which it's inserted. Once it unlocks something, the key disappears.

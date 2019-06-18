@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:00:52-06:00
+
+====== V--Potion of Pickled Pixie ======
+Created Tuesday 18 June 2019
+
+//Potion, very rare//
+
+Inside this bottle of potent faerie alcohol are several drunken tiny fey. The bottle can (and should) be thrown up to 30 feet away where it smashes open. The fey, confused and belligerent, spill out unharmed and begin casting spells at random targets within 20 feet of them.
+The fey cast up to three spells from the table below, casting them on one target each; they select their target by lowest Charisma score first, followed by proximity. Roll 1d6 three times to determine the spells cast.
+1. //confusion//
+2. //dispel magic//
+3. //entangle//
+4. //enlarge/reduce (reduce only)//
+5. //polymorph//
+6. //sleep//
+Once their spells have ended, combat is over, or any of the fey take damage, they immediately do their best to escape the area.

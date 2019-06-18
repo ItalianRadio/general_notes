@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:59:44-06:00
+
+====== U--Potion of Door Jam ======
+Created Tuesday 18 June 2019
+
+//Potion, uncommon//
+
+This little jar contains 1d6 + 1 servings of jam. If you smear a single serving on a door, it jams shut and requires a DC 20 Strength check to open. If you break an empty jar on a locked door, the door pops open and becomes ajar. It can be found in various flavors.

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:55:35-06:00
+
+====== R--Mirrogold ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, rare (advancement requires attunement)//
+
+As a sentient pocket mirror, Mirrogold knows no greater joy than helping you look your best. When you peer into Mirrogold’s mirror, you see your reflection from a different angle, as Mirrogold chooses one (or many) reflective surfaces within 30 feet of you to channel for your styling needs. However, if you successfully make a DC 15 Charisma (Deception) check while disguised as someone else currently on the same plane as you, Mirrogold can be tricked into showing you a reflection of that creature, instead. On a failure, Mirrogold becomes upset with you and refuses to cooperate for 1d6 + 1 days. Disguise kits and spells that change your appearance allow you to bluff Mirrogold based on the assumed appearance. 
+Mirrogold’s use of reflective surfaces goes both ways: whichever surface Mirrogold is reflecting can be used to see back at you, as well. 
+**Sentience.** Mirrogold is a sentient, lawful good wondrous item with an Intelligence of 16, a Wisdom of 8, and a Charisma of 16. It can see and hear normally out to 60 feet. The item can speak, read, and understand Common, Dwarven, Elvish, Gnomish, Halfling, Draconic, and Sylvan. Its voice is anxious but amiable.
+**Personality.** Mirrogold is a stickler for the rules but good at heart. Although helpful by nature, it is principled and honest, and will refuse to cooperate if asked to participate in fraud. However, this only means that Mirrogold’s many compliments are made with heartfelt sincerity. 
+**Advancement.** If you attune to Mirrogold and go six days without getting Mirrogold mad at you, you can use Mirrogold as a spell focus. If you line Mirrogold up with your reflection, you create a pocket dimension of energy. You may cast one spell up to a fifth level spell slot into this dimension, and then unleash it as a bonus action. If unused, the dimension evaporates after 8 hours. This dimension cannot be created again until you have completed a long rest. 
+Lying to Mirrogold causes it to be very disappointed in you, and the advancement must be re-earned after it forgives you in 1d6 + 1 days.

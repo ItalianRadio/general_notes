@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:07:03-06:00
+
+====== C--Veteran's Cane ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, common//
+
+When you grasp this walking cane and use a bonus action to speak the command word, it transforms into an ordinary longsword and ceases to be magical.

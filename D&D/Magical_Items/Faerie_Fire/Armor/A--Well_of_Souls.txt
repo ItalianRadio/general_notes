@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:36:12-06:00
+
+====== A--Well of Souls ======
+Created Tuesday 18 June 2019
+
+//Armor (shield), artifact (requires attunement)//
+
+While holding this shield you gain a +3 bonus to AC in addition to the shield’s normal bonus to AC. 
+If a humanoid dies within 60 feet of this shield, their soul becomes trapped within it, and a shadowy silhouette appears behind its mirror finish; this imbues the shield with 1 charge. Every charge spent or drained from the shield releases the soul to the afterlife. However for every 10 charges spent, 1 of the 10 souls released (chosen by the GM), returns to life and reappears at the location of their death. If this location is occupied or otherwise inaccessible, the creature returns at the closest safe location.
+**Death’s Price.** As an action, you can touch the corpse of a creature and spend 10 charges to return it to life. If the creature has been dead longer than one year then the cost increases by 10 charges for every year since their death.
+**As You Sow, So Shall You Reap.** As an action on your turn or as a reaction to taking fatal damage, you can drain all charges from the shield. The wailing souls emerge as a boiling black mist; this mist advances at a rate of 100 feet per round and occupies a total radius equal to 5 feet for every 2 charges the shield had when drained. Any creature with 100 hit points or less dies instantly when touched by the mist, but their souls are not added to the shield. Using this feature kills you, banishing your soul to a pocket dimension reserved for former shield bearers. Souls imprisoned in this dimension cannot be brought back to life using //Death’s Price// or any magic other than wish, though they can be liberated from the inside by the living: orchestrating such a jailbreak, however, would provide the opportunity for many souls to escape.
+**Destroying the Shield.** The shield can only be destroyed by a hammer strike from the shield’s three original creators, two of whom are trapped within the pocket dimension to which the shield bearers’ souls are banished.

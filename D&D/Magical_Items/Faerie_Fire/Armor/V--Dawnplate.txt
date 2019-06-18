@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:45:47-06:00
+
+====== V--Dawnplate ======
+Created Tuesday 18 June 2019
+
+//Armor (plate), very rare (requires attunement)//
+
+When wearing this armor you gain +1 bonus to AC at all times.
+As an action, you can draw from a memory of joy, confidence, or communion. When you do, you gain a number of temporary hit points equal to 3 times your level. If a creature hits you with a melee attack while you have these hit points, the creature takes radiant damage equal to 3 times your level.
+You also shed 30 feet of bright light while this property is active. Once the temporary hit points are depleted the light shrinks to 15 feet, persisting for an additional ten minutes before going out entirely. Once you have used this property, it cannot be used again until you complete a long rest.

@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:01:11-06:00
+
+====== C--Shield of Expression ======
+Created Tuesday 18 June 2019
+
+//Armor (shield), common//
+
+The front of this shield is s haped in the likeness of a face. While bearing the shield, you can use a bonus action to alter the face's expression.

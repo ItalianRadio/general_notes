@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:15:30-06:00
+
+====== R--Stargazer ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, rare//
+
+During a long rest, if you use the //Stargazer// and spend an hour observing the night sky you will spot a shooting star. Roll 1d20 and record the result. Once before your next long rest you can replace the result of one die roll, on a die of any type, made by you or another creature you can see with this result. This property can’t be used again until the next dusk.

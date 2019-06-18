@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:53:56-06:00
+
+====== U--Keighton's Chimes ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, uncommon (attunement optional)//
+
+Playing these instruments requires a DC 15 Charisma (Performance) check. When played successfully, the chimes conjure spectral illusions that reenact past events in the area within 30 feet of the performance. The more significant the event, the more likely it plays out.
+Furthermore, if you are attuned to this item, it gains the following property:
+**Spells.** You can use an action to play the instrument and cast one of the following spells: //blur//, //moonbeam//, //fog cloud// (3rd level), //pass without trace//.
+Once the instrument has been used to cast a spell, it can’t be used to cast that spell again until the next dawn. The spells use your Charisma as your spellcasting ability and for your spell save DC.

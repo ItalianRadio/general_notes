@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:16:19-06:00
+
+====== R--Thornwalkers ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, rare (requires attunement)//
+
+These hardy hiking boots grant immunity to any plant-based environmental hazards and resistance to all damage from plant-type creatures. As an action you can cast //freedom of movement// on yourself. For the duration of this spell, size Large or smaller nonmagical plants move out of your way if there is space for them to do so. Once moved, these plants remain in their new positions even after you’ve passed by. New plants can grow over the area at a pace natural to their species and growing conditions. The boots cannot be used in this way again until dawn the next day.

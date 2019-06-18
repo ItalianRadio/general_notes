@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:02:01-06:00
+
+====== C--Staff of Adornment ======
+Created Tuesday 18 June 2019
+
+//Staff, common//
+
+If you place an object weighing no more than 1 pound (such as a shard of crystaI, an egg, or a stone) above the tip of the sta ff while holding it, the object floats an inch from the staff's tip and remains there until it is removed or until the staff is no longer in your possession. The staff can have up to three such objects floating over its tip at any given time. While holding the staff, you can make one or more of the objects slowly spin or turn in place.

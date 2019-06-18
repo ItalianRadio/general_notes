@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:54:58-06:00
+
+====== U--Lip Stickers ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, uncommon//
+
+Inside this soft silken bag are 1d6 + 1 lip stickers. A sticker can be applied to a surface as an action to instantly cast the magic mouth spell on that location. Each lip sticker has a unique voice. They can be removed from the surface by hand, dispelling the effect, but cannot be reused.

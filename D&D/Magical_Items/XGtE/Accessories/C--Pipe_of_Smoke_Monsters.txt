@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T10:57:58-06:00
+
+====== C--Pipe of Smoke Monsters ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, common//
+
+While smoking this pipe, you can use an action to exhale a puff of smoke that takes the form of a single creature, such as a dragon, a Rumph, or a froghemoth. The form must be small enough to fit in a 1-foot cube and loses its shape after a few seconds, becoming an ordjnary puff of smoke.

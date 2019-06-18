@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:13:04-06:00
+
+====== R--Rosewood ======
+Created Tuesday 18 June 2019
+
+//Weapon (greatclub), rare (requires attunement)//
+ 
+You gain +1 to attack and damage rolls made using this weapon. It also deals an additional 1d8 bludgeoning damage and can be used as a druidic focus.
+
+When you hit a creature with this weapon, the creature must succeed on a Constitution saving throw against DC 12 or your spell save DC—whichever is higher. On a failure, the target is restrained and begins to turn to wood. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success. The petrification lasts until the creature is freed by the //greater restoration// spell or other magic. You can only have a number of creatures petrified equal to your Wisdom modifier, but you can choose to dismiss the petrification at will.

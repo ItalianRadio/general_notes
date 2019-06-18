@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:13:19-06:00
+
+====== R--Bloom Mic ======
+Created Tuesday 18 June 2019
+
+//Staff, rare (requires attunement by a bard, sorcerer, or warlock)//
+
+While attuned to this staff you have advantage on Charisma (Performance) checks and can magically make your voice three times as loud as normal. This staff has 0 charges at first but can hold up to 30. While attuned to it, you gain charges equal to the spell level of any spell you cast, provided that the spell only has a verbal component. The staff loses 1d4 + 2 charges each dawn.
+
+**Power Scream.** While holding the staff, you can use an action to cast any spell that you have prepared, expending 2 charges per spell level. If this spell only has a verbal component you gain no charges when cast this way, but you only spend 1 charge per spell level.
+**Boom Boom Boom.** When you would roll thunder damage, you can spend 3 charges to deal max damage instead of rolling.
+**Duet.** When you are targeted by or make a saving throw against a spell, you can spend 5 charges as a reaction to force the spell to target an additional creature within 60 feet. The creature makes its own save against the caster’s spell save DC or the caster rolls a spell attack against the additional target as well.
+**Flair.** You pull the top off the staff as an action and make a Charisma (Performance) check. All creatures within 60 feet must succeed on a Charisma saving throw opposed by your Charisma (Performance) roll or take radiant damage equal to 5 times the number of charges in the staff. On a success they take half as much damage. This drains all the charges in the staff and the staff cannot regain charges for 2d6 days.

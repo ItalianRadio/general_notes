@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T10:55:14-06:00
+
+====== C--Orb of Time ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, common//
+
+While holding this orb, you can use an action to determine whether it is morning, afternoon, evening, or nighttime outside. This property functions only on the Material Plane.

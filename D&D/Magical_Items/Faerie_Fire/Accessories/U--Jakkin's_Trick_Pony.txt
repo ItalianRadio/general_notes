@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:51:46-06:00
+
+====== U--Jakkin's Trick Pony ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, uncommon//
+
+This item resembles a plain hobby horse with a mane of yellowed yarn, worn velvet button eyes, and a rein of soft golden chain. If you spend an action pantomiming riding a horse, complete with self-made horse noises and a name for your mighty beast, you cast phantom steed. Once used, this property can’t be used again until the next dawn. The steed turns back into the hobby horse when the spell ends.

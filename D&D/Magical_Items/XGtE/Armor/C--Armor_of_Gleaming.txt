@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T10:19:54-06:00
+
+====== C--Armor of Gleaming ======
+Created Tuesday 18 June 2019
+
+//Armor (any medium or heavy), common//
+
+This armor never gets dirty.

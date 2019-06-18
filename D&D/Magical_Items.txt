@@ -5,10 +5,15 @@ Creation-Date: 2019-06-03T10:32:43-06:00
 ====== Magical Items ======
 Created Monday 03 June 2019
 
-**Rarity				Char Lvl		Comments**
-C - Common		1+			Plentiful relatively speaking
-U - Uncommon		1+			
-R - Rare				5+
-V - Very Rare			11+
-L - Legendary		17+
-A - Artifact			17+			A legendary item, but there's only 1 of it
+|   | Rarity    | Char Lvl | Comments                                   |
+|---|-----------|----------|--------------------------------------------|
+| C | Common    | 1+       | Plentiful relatively speaking              |
+| U | Uncommon  | 1+       |                                            |
+| R | Rare      | 5+       |                                            |
+| V | Very Rare | 11+      |                                            |
+| L | Legendary | 17+      |                                            |
+| A | Artifact  | 17+      | A legendary item, but there's only 1 of it |
+
+
+
+

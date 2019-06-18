@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T10:20:38-06:00
+
+====== C--Bead of Nourishment ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, common//
+
+This spongy, flavorless, gelatinous bead dissolves on your tongue and provides as much nourishment as 1 day of rations.

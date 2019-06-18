@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:58:45-06:00
+
+====== U--Plucky Gloves ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, uncommon//
+
+When you don this single fingerless glove, you find your hand is instantly well-manicured (with nails that change color to match your mood) and smells faintly of rosewater. Sometimes floating, ethereal fingers seem to shimmer above your own—but that’s likely just a trick of the light.
+Wearing the glove grants proficiency in Dexterity (Sleight of Hand). Furthermore, once per day you can activate the glove’s innate magics to pluck at the strings of life. This can have three effects:
+* You gain proficiency with thieves’ tools, for one hour.
+* You gain advantage on Charisma (Performance) checks when playing an instrument, for one hour.
+* You can spend a bonus action to target a creature’s weak point, tickling them. They subsequently suffer a 1d4 penalty to their next attack or ability check.

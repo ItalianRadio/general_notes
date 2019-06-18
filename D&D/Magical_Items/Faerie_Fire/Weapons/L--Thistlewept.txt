@@ -1,0 +1,39 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:26:15-06:00
+
+====== L--Thistlewept ======
+Created Tuesday 18 June 2019
+
+//Weapon (spear), legendary (requires attunement)//
+
+This magic spear was forged before the schism with primordial and forgotten fey magics. You gain a +1 bonus to attack and damage rolls made with it; this bonus increases to +2 if your character level is 9th or higher, or to +3 at character level 15.
+//Thistlewept// has 6 spines around the blade. When you hit a creature with an attack with this weapon, you can leave one spine lodged in the creature to grant advantage to the next weapon attack made against it; additionally, the lodged spine reduces the creature’s movement by 10 feet until it spends an action to succeed on a DC 13 Strength check. While //Thistlewept// has at least one spine it deals an additional 2d6 piercing damage on a hit, and you have advantage on Strength (Athletics) checks to climb. //Thistlewept //regains 1d6 spines at dawn each day, to a maximum of 6. If a spine is removed from //Thistlwept// by any means other than as part of an attack, the spine immediately loses all special properties.
+**Power of the Primal Beasts.** If the heart-blood or the blessing of a primal beast can be bestowed upon both you and the spear, then you undergo a magical transformation imbued by primordial fey power. The changes to you are permanent, but the changes to the spear only apply for as long as you are its wielder. Receiving one blessing makes you immune to both Wilds exposure and Living Light exposure.
+If you gain blessings from two separate primal beasts, your creature type is permanently changed to fey. If you gain three, work with the GM to wrap up your mortal affairs and transition your character into an NPC under their control, as you transcend the Wilds and the Living light alike and become a being of legendary power.
+
+**Blessings/Blood of the Cawillopard:**
+* Your Strength score increases by 1. Your maximum Strength score is also increased by 1.
+* Your height increases by half of your original height, and harmless, glittering spiders nest in your hair; this transformation remains even if your form is changed.
+* Once per day you can break off a //Thistlewept //spine as an action and conjure a single swarm of //astraneae//. These spiders accompany you until your next long rest. Their aid ends early if they are reduced to 0 hit points or you become seperated from them by more than 100 feet.
+
+**Blessings/Blood of the Urpine:**
+* Your Constitution score increases by 1. Your maximum Constitution score is also increased by 1.
+* All your hair becomes thistle and stinging nettle (if you have no hair, you grow a mane of it); this transformation persists even if your form is changed. You have advantage on checks and saves to avoid or escape grapples, and any creature that attempts to grapple you takes 2d4 piercing damage.
+* //Thistlewept// deals an additional 2d6 piercing damage on hit so long as it has at least one spine.
+
+**Blessings/Blood of the Gylchu:**
+* Your Intelligence score increases by 1. Your maximum Intelligence score is also increased by 1.
+* Your movement makes no sound, regardless of the environment. You grow a pelt of luxurious moss down your spine, and in your wake you leave a trail of tiny, bioluminescent mushrooms that wither and disappear within minutes. This transformation remains even if your form is changed. Once per day you can cast the spell //gaseous form// without expending a spell slot or requiring material components.
+* You gain immunity to both poison damage and the poisoned condition.
+* Creatures hit by //Thistlewept// must succeed on a DC 15 Constitution save or gain the poisoned condition until the end of its next turn.
+
+**Blessings/Blood of the Bee-Hind:**
+* Your Wisdom score increases by 1. Your maximum Wisdom score is also increased by 1.
+* You grow honey-gold stag antlers; this transformation remains even if your form is changed. These antlers are a melee weapon, with which you are proficient, that deal 1d8 piercing damage. If you move at least 10 feet before hitting a creature with your antlers you can make a free attempt to knock the creature prone.
+* Once per day you can break off a //Thistlewept// spine as an action and use it to produce six servings of nutritious honey. Anyone who consumes this honey will be immune from hunger for a full day and regains 1d8 hit points per serving. Any honey left uneaten after 8 hours crystalizes into a lump of hard amber worth 5 gold pieces.
+
+**Blessings/Blood of the Chondrofeyr:**
+* Your Charisma score increases by 1. Your maximum Charisma score is also increased by 1.
+* Your skin turns translucent and you glow softly from within; this transformation remains even if your form is changed. The glow pulses hypnotically, allowing you to cast the //hypnotic pattern// spell without material components. Charisma is your spellcasting ability for this feature and the target space must be centered on you. Once you have used this feature you must complete a short or long rest before using it again.
+* When you leave a //Thistlewept// spine lodged in a creature, the creature must succeed on a DC 15 Constitution save or be paralyzed until the end of its next turn.

@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:18:50-06:00
+
+====== R--Way Darts ======
+Created Tuesday 18 June 2019
+
+//Weapon (darts), rare (requires attunement)//
+
+This set of three magical darts grants a +1 bonus to attack and damage rolls. Once attuned, you develop an intrinsic link to the darts: you can blink to any dart’s location within 60 feet of you as a bonus action, or as a reaction to the dart making impact.
+If you cannot fit in the same space as the dart, you appear in an unoccupied space within 5 feet. If no space is available within 5 feet, you are moved to the next available open space and take 1 point of force damage for every foot removed. If the dart is stuck to a creature or object, the creature or an adjacent creature can remove it as an object interaction on their turn.
+You can will a dart back to you as an bonus action on your turn. Creatures capable of seeing the ethereal can see the tethers between the darts and their owner.

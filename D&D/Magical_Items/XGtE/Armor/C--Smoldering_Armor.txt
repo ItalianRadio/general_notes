@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:01:36-06:00
+
+====== C--Smoldering Armor ======
+Created Tuesday 18 June 2019
+
+//Armor (any), common//
+
+Wisps of harmless, odorless smoke rise from this armor while it is worn.

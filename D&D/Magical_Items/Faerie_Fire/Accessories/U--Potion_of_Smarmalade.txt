@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T12:03:37-06:00
+
+====== U--Potion of Smarmalade ======
+Created Tuesday 18 June 2019
+
+//Potion, uncommon//
+
+Each jar contains 1d4 + 4 spoonfuls. When consumed, one spoonful grants proficiency on Charisma (Persuasion) and Charisma (Deception) checks for one minute. If you are already proficient in the skill, you instead gain double your proficiency bonus.

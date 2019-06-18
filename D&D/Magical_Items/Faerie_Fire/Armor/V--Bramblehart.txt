@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:15:37-06:00
+
+====== V--Bramblehart ======
+Created Tuesday 18 June 2019
+
+//Armor (shield), very rare (requires attunement)//
+
+Wrought from the core of an ancient mother (page 83), this knotwork wooden shield is set with thorny vines and twisting brambles that lash out in your defense. 
+When attuned to this +1 magic shield you gain resistance to lightning damage and the ability to cast the druidcraft cantrip.
+In addition, when a creature misses a melee attack against you, you can use your reaction to make a grapple attempt against them. While wielding this shield, any creature you have grappled takes 1d4 plus your Wisdom modifier in piercing damage at the start of your turn.

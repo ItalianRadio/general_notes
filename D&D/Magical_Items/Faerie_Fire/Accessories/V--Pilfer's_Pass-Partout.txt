@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T11:57:43-06:00
+
+====== V--Pilfer's Pass-Partout ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, very rare//
+
+This elaborate key instantly slides into any door’s lock with a satisfying click; if the door is locked by magical means or otherwise has no keyhole, one appears when the key is passed in front of it. Once the key is turned, the door swings open, revealing a newly-forged passage into the Wilds.
+This magically-created entry connects to a pre-existing door frame somewhere in the Wilds; the doorway in question is different each time the key is used, opening onto an unpredictable location. As soon as the door closes, it returns to its original state. 
+On the underside of the key is the inscription: “To Pilfer, my darling sister: as long as you possess this key, you’ll never lose your way. Or an argument with me.”
+The key is intrinsically attuned to Pilfer, who can summon it to her as an action the moment she notices (or cares) that it’s missing. However, Pilfer is misplacing it almost constantly.

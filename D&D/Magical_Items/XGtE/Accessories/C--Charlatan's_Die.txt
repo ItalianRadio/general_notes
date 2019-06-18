@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-18T10:23:38-06:00
+
+====== C--Charlatan's Die ======
+Created Tuesday 18 June 2019
+
+//Wondrous item, common (requires attunement)//
+
+Whenever you roll this six-sided die, you can control which number it rolls.
