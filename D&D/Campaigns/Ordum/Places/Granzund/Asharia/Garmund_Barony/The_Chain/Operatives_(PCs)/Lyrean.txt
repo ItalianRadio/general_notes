@@ -17,4 +17,6 @@ Asked to join Caius - became clerk
 ==== Combat abilities: ====
 He's a Dex-Eldritch knight. Great with a hand-crossbow and has the **Sharpshooter** feat.
 He's fine with a blade as well and doesn't mind hand-to-hand as he's got CRAZY AC
-Cape of the Antlion so he's got tremorsense 30ft
+[[Magical Items:Homebrew:Accessories:U--Cape of the Antlion|Cape of the Antlion]] so he's got tremorsense 30ft
+
+[[Magical Items:Homebrew:Accessories:A--Empyrion's Coat of the Duelist|Empyrion's Coat of the Duelist]]
