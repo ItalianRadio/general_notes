@@ -3,7 +3,7 @@ Wiki-Format: zim 0.4
 Creation-Date: 2019-06-03T14:44:19-06:00
 
 ====== Mastery Points ======
-Created Monday 03 June 2019 - [[Witchblade - Phys Tank|back]]
+Created Monday 03 June 2019
 
 **Soldier**
 * Mastery 1

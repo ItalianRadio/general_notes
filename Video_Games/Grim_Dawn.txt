@@ -7,3 +7,22 @@ Created Wednesday 29 May 2019
 
 [[+Builds]]
 [[+Mods]]
+[[+Masteries]]
+
+===== Damage Types: =====
+| Normal    | Abbr | Duration        | Abbr | Notes                                                                                                                                                                          <|
+|:----------|:----:|:----------------|:----:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Physical  | Phys | Internal Trauma | Trau | Internal Trauma Damage is //not// reduced by armor, but by physical resistance                                                                                                  |
+| Fire      | Fire | Burn            | Burn | Fire is elemental, both are magical                                                                                                                                             |
+| Cold      | Cold | Frostburn       | Frst | Cold is elemental, both are magical                                                                                                                                             |
+| Lightning | Ltng | Electrocute     | Elec | Lightning is elemental, both are magical                                                                                                                                        |
+| Acid      | Acid | Poison          | Psn  | Both are magical                                                                                                                                                                |
+| Vitality  | Vit  | Vitality Decay  | VitD | Both are magical                                                                                                                                                                |
+| Pierce    | Pier | -               |  -   | Not magical or physical, increased/reduced by pierce damage/resistance only                                                                                                     |
+| -         |  -   | Bleeding        | Bld  | Not magical or physical, increased/reduced by bleed damage/resistance only                                                                                                      |
+| Aether    | Athr | -               |  -   | Magical                                                                                                                                                                         |
+| Chaos     | Chas | -               |  -   | Magical                                                                                                                                                                         |
+| %         |  %   | % Duration      | %Dur | % is permanent damage, % Duration is more like a debuff that makes the target take more damage, this damage type is only resisted by boss/hero monsters and cannot be increased |
+
+
+
