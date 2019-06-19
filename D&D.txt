@@ -9,9 +9,7 @@ Created Friday 07 June 2019
 * Dragons recharge in element. Force dragon? Ethereal plane? 
 * Hillbilly paladin
 * Mask wearing, underneath all eyes
-* Tiddles
 * Medusa princess - magic hair, talk to animals, cursed
-* Janarik Kariktur
 
 Character generator (Even helps w/ backgrounds and such!)
 https://tetra-cube.github.io/dnd/dnd-char-gen.html
