@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-06-12T12:22:21-06:00
 
-====== Homebrew ======
+====== Wyatt Davis ======
 Created Wednesday 12 June 2019
 
 [[+Accessories]] | [[+Armor]] | [[+Weapons]]

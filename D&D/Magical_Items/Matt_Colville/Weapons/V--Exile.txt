@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-20T09:57:24-06:00
+
+====== V--Exile ======
+Created Thursday 20 June 2019
+
+//Weapon (any sword), very rare (requires attunement)//
+
+This two-handed flamberge contains the heart of the Demon Zra’az in its pommel. Zra’az was once a member of the Court of Blood but when he failed to close the Gate of Rhann’szen he was exiled from the Court and swore to destroy it. This is not unusual, the Court of Blood is a court of chaos and only the strong rule there, titles and hierarchy be damned. But Zra’az in his hate and desperation turned to the one ally that would assure he would be forever an enemy of the court. 
+Zra’az made a pact with the Seraph of the Celestial Court.
+Eventually and somewhat unusually, the entire Court of Blood came together to stop Zra’az as he wielded the holy power of the Seraph to obliterate armies of lesser Demons. Zra’az’s heart was extracted from his chest by powerful rituals which bound his essence within, and the heart was expelled from the Abyssal Wasteland.
+The rituals that extracted Zra’az’s heart and expelled it into the Mundane World forbid the heart of Zra’az from ever returning to the Wasteland. It is unknown what would happen should someone attempt to return it.
+This +2 sword has the following properties:
+* //Exile// is a sentient sword and has truesight out to 15 feet.
+* //Exile //has 16 Intelligence, 16 Wisdom, and 16 Charisma or your attributes, whichever is higher.
+* //Exile //shares your proficiency bonus.
+* Secrets cannot be hidden from //Exile//. //Exile// can detect secret passageways and doors in a 15’ radius.
+* As an action, you can request that //Exile// cast //Wall of Fire//. //Exile// casts this spell using the same spellcasting ability as you. Once //Exile// uses this ability they cannot use it again until the next day at dawn.
+* You have +2 on all saving throws while you are attuned to //Exile.//
+* While attuned to //Exile// you can speak Infernal & Celestial as those are the only two languages //Exile// wishes to speak.
+* **Slay Demons.** Exile deals an additional +2d12 radiant damage to demonfolk.
