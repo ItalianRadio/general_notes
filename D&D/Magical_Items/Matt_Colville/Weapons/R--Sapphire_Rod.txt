@@ -8,6 +8,8 @@ Created Thursday 20 June 2019
 //Rod, rare (requires attunement by a warlock)//
 
 This short, smooth metal rod is made of //kollar//, the sinmetal of the duergar. Embedded within the metal are flecks of sapphire causing the rod to glint and gleam in any amount of light. While you are attuned to the rod you do not suffer from //sunlight sensitivity//.
-While holding the rod, you gain a +2 bonus to spell attack rolls and to the saving throw DCs of your warlock spells and gain the ability to cast //thunder step// without using any components once per day without using a spell slot. As a reaction to being targeted by a spell of 5th level or lower, you may make a Charisma saving throw where the DC equals 10 + the spell level. If you suceed, the spell has no effect on you and the energy from that spell is absorbed by the rod. When energy is absorbed in this way, you regain a warlock spell slot. If you fail this saving throw, you may still attempt to save against the spell as you would normally. 
+While holding the rod, you gain a +2 bonus to spell attack rolls and to the saving throw DCs of your warlock spells and gain the following abilities:
+* You gain the ability to cast //thunder step// without using any components without using a spell slot. 
+* As a reaction to being targeted by a spell of 5th level or lower, you may make a Charisma saving throw where the DC equals 10 + the spell level. If you suceed, the spell has no effect on you and the energy from that spell is absorbed by the rod. When energy is absorbed in this way, you regain a warlock spell slot. If you fail this saving throw, you may still attempt to save against the spell as you would normally. 
 You regain both of the use of both of these expended abilities every morning at dawn.
 Additionally, you can regain one warlock spell slot as an action while holding the rod. Once you use this property, you can't use it again until you complete a long rest.
