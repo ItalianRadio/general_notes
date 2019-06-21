@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-21T10:11:37-06:00
+
+====== Harmond Blasseiter ======
+Created Friday 21 June 2019
+
+{{.\Harmond.png}}

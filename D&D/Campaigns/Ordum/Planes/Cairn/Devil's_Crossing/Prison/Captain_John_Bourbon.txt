@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-21T09:41:03-06:00
+
+====== Captain John Bourbon ======
+Created Friday 21 June 2019
+
+Military-cut hair. Scarred face. In a patchwork leather jacket held together with iron scrap pins
+Has a broadsword and a two-handed rifle slung on his back.
+
+{{.\John_Bourbon.png}}
