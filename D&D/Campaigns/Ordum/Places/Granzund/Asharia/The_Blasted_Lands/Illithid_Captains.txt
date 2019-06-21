@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-21T10:45:04-06:00
+
+====== Illithid Captains ======
+Created Friday 21 June 2019
+
+MM Illithids, but their mind blast does 1/2dmg on save +2 AC and max HP

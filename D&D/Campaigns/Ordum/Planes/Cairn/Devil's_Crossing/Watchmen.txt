@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-21T10:52:49-06:00
+
+====== Watchmen ======
+Created Friday 21 June 2019
+
+* Oxley
+	* Big, thinks he's in charge, 2H axe, pistol
+* Brigs 
+	* twin pistols, quiet
+* Mainard
+	* Rifle, quiet, Brigs' brother
+* Chester 
+	* Dolt, swords at his waist, pistol
+* Rose 
+	* Alert, doesn't like to be bothered, most trusted by Bourbon

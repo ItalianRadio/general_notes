@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-21T10:49:53-06:00
+
+====== Uchuulon ======
+Created Friday 21 June 2019
+
+Like chuul, but less health and paralyze on touch
+{{.\Dx20050819a_90764.jpg}}
