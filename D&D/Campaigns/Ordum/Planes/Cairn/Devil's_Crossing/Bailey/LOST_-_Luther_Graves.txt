@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-21T10:26:29-06:00
+
+====== LOST - Luther Graves ======
+Created Friday 21 June 2019
+
+Lost on his way to Burrwitch. Players rescue him and he'll sell them shit for cheap.
+
+{{.\LutherGraves2.png}}

@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-21T10:25:52-06:00
+
+====== Darlet ======
+Created Friday 21 June 2019
+
+{{.\Darlet.png}}

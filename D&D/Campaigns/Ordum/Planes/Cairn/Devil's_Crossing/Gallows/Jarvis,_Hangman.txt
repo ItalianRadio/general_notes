@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-06-21T09:32:42-06:00
 
-====== Hangman Jarvis ======
+====== Jarvis, Hangman ======
 Created Friday 21 June 2019
 
 Grimacing old man, wears a red hankercheif around his neck, padded leather clothing. Wears a sword and pistol on a toolbelt along with a toolpouch out of which you can see a working hammer sticking out.
