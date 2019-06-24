@@ -5,4 +5,4 @@ Creation-Date: 2019-06-19T11:42:51-06:00
 ====== Warder ======
 Created Wednesday 19 June 2019
 
-Soldier/Shaman
+Soldier + Shaman
