@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-06-05T11:10:21-06:00
 
-====== V--Paloma's Backup Blade ======
+====== R--Paloma's Backup Blade ======
 Created Wednesday 05 June 2019
 
 //Weapon (any sword), rare (requires attunement)//

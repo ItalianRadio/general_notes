@@ -5,3 +5,4 @@ Creation-Date: 2019-06-26T14:26:43-06:00
 ====== Elemental Revenant ======
 Created Wednesday 26 June 2019
 
+Skeleton w/ special ability and higher AC

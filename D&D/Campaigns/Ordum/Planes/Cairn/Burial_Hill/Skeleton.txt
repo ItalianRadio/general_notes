@@ -1,8 +1,8 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2019-06-26T14:26:35-06:00
+Creation-Date: 2019-06-26T15:04:55-06:00
 
-====== Zombie ======
+====== Skeleton ======
 Created Wednesday 26 June 2019
 
-MM
+All have bows (MM)

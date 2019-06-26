@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-26T14:54:31-06:00
+
+====== V--Kyzogg's Maul of Reanimation ======
+Created Wednesday 26 June 2019
+
+//Weapon (maul), very rare (requires attunement)//
+
+This +2 maul grants the following abilities while you are attuned:
+**Smash.** As an action you can attack every creature within 5ft. of a creature within your reach, including that creature.
+**Summon.** As an action you may cast //animate dead// on corpses within 30ft. without using spell components. You may have up to 200 hit points of creatures raised at any one time using this maul. You may raise up to 300 hit points of creatures this way if you are also attuned to an //Aether Crystal //and may raise up to two Crystalline Walkers or Elemental Revenants under your control using this maul. 
+**Save.** While you are attuned to this maul you have an additional +2 AC as if from a shield and have a +2 bonus to your saving throws.
