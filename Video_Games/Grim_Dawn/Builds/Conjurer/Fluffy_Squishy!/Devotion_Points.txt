@@ -5,7 +5,7 @@ Creation-Date: 2019-06-14T13:23:31-06:00
 ====== Devotion Points ======
 Created Friday 14 June 2019
 
-* Crossroads [Blue & Yellow]
+* Crossroads **[Blue & Yellow]**
 * Raven
 * Shepherd's Crook  - Curse of Frailty
 * Rhowan's Crown - Summon Skeletal Servant
@@ -15,6 +15,6 @@ Created Friday 14 June 2019
 * Eel
 * Panther
 * Solemn Watcher
-* Amatok the Spirit of Winter (P) - Summon Familiar
-* Tree of Life (P) - Mogdrogen's Pact
+* //Amatok the Spirit of Winter - Summon Familiar//
+* //Tree of Life - Mogdrogen's Pact//
 * Ishtak, the Spring Maiden - Bonds of Bysmiel
