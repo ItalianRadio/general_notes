@@ -5,6 +5,10 @@ Creation-Date: 2019-05-29T11:34:07-06:00
 ====== Builds ======
 Created Wednesday 29 May 2019
 
+==== Current Builds: ====
+[[+Conjurer:Fluffy Squishy!|Culty]]
+[[+Shieldbreaker:FirePhys and Shields|Slunt]]
+
 **Mastery Template:**
 * Mastery 1
 * Mastery 5
