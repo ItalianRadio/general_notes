@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-06-26T14:27:04-06:00
 
-====== Putrid Corpse ======
+====== Ghast (Ghoul) ======
 Created Wednesday 26 June 2019
 
 Ghast. (Ghoul MM) Special ability with poison and paralyze

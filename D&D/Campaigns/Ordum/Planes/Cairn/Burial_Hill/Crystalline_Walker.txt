@@ -5,4 +5,4 @@ Creation-Date: 2019-06-26T14:27:22-06:00
 ====== Crystalline Walker ======
 Created Wednesday 26 June 2019
 
-ogre w/ undead fortitude and toxin aura from Bodak (VGtM)
+Look like ogre. Actually a reskinned Bodak w/ undead fortitude (VGtM)
