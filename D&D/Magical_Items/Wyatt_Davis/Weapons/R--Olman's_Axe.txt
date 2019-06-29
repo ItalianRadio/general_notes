@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-28T23:48:30-06:00
+
+====== R--Olman's Axe ======
+Created Friday 28 June 2019
+
+//Weapon (battleaxe), very rare (requires attunement)//
+
+This +2 battleaxe asks you to roll a d6 on every attack, on a 6 you deal an extra 2d8 cold damage to all creatures of your choice within 10ft of the target you hit.
