@@ -10,3 +10,6 @@ List of items to not sell after you get the mastery:
 
 List of items that I need to get the mastery off of:
 [[https://docs.google.com/spreadsheets/d/1F6sNlofCwKRquLkZB28wVW1iKWwA7V5_lujF4Y8pQ9Y/edit#gid=2112721569|Mastery-Get]]
+
+Mastery Tracker (Doesn't have parts)
+http://framedex.net/8ab299dbcf47e9c85c22280be78721c82ebbd85f
