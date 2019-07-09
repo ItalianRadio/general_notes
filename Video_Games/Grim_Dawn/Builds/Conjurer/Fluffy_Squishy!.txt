@@ -10,10 +10,8 @@ https://www.grimtools.com/calc/4NOnrjoZ
 [[+Mastery Points|Mastery Points]] | [[+Devotion Points|Devotion Points]]
 
 pet user that focuses on:
-* Familiar for damage
-* Skele for devotion
-* Briarthorn & hellhound for defense/aggro!
-* Frailty for devotion
-* BoD & MP for defense
-* Wind devil for -ele resist
-* PB & BoB for pet +
+* Familiar for elemental damage
+* Skele, Briarthorn & Hellhound for defense/aggro!
+* Curse of Frailty & Wind Devil for -ele resist
+* Primal Bond, Blood of Dreeg & Mog's Pact for defense
+* Bonds of Bysmiel for pet +
