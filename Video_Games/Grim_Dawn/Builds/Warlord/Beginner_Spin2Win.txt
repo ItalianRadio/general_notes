@@ -5,36 +5,8 @@ Creation-Date: 2019-07-31T12:37:09-06:00
 ====== Beginner Spin2Win ======
 Created Wednesday 31 July 2019
 
-https://www.grimtools.com/calc/4Vxe69vZ
+Lvl 100 Grimtools: https://www.grimtools.com/calc/4Vxe69vZ
+Crate Forum: https://forums.crateentertainment.com/t/collection-of-malawiglenns-beginner-friendly-builds/82353/111
+PDF Guide: https://drive.google.com/file/d/1VYdijhrH_1F85nEa_2ZW98UNrOK-hfie/view
 
-Beginner's Guide to spin-to-win:
-
-**Devotions:**
-* Crossroads **[Yellow]**
-* Assassin's Blade - Eye of Reckoning
-* Toad
-* Crossroads **[Blue]**
-* Sailor's Guide
-* Bard's Harp - Field Command
-* Crab - Perm/Toggle
-* Ulzaad - War Cry
-* Tortoise - Oleron's Rage
-* Crossroads **[Red]**
-* Ghoul - Presence of Virtue
-* ~~Crossroads [Yellow]~~
-* ~~Crossroads [Red]~~
-* ~~Crossroads [Blue]~~
-* Crossroads **[Purple]**
-* Azkaara - Guardian of Empyrion
-* Solemn Watcher
-* ~~Tortoise (1)~~
-* //Empty Throne (1)//
-* //Jackal (2)//
-* __Floating Point__
-	* Jackal {phy res}
-	* //Ulo (1) //{ele res}
-	* //Dire Bear (1) //{+40% phys dmg}
-	* Tortoise {HP/armor/DA}
-	* //Empty Throne (2)// {pierce res}
-	* //Dryad (1) //{energy/acid res}
-	* //Harvestman (1) //{energy/energy regen}
+[[+Devotion]] | 

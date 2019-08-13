@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-13T12:11:44-06:00
+
+====== Devotion ======
+Created Tuesday 13 August 2019
+
+**Devotions:**
+* Crossroads **[Yellow]**
+* Assassin's Blade - Eye of Reckoning
+* Toad
+* Crossroads **[Blue]**
+* Sailor's Guide
+* Bard's Harp - Field Command
+* Crab - Perm/Toggle
+* Ulzaad - War Cry
+* Tortoise - Oleron's Rage
+* Crossroads **[Red]**
+* Ghoul - Presence of Virtue
+* ~~Crossroads [Yellow]~~
+* ~~Crossroads [Red]~~
+* ~~Crossroads [Blue]~~
+* Crossroads **[Purple]**
+* Azkaara - Guardian of Empyrion
+* Solemn Watcher
+* ~~Tortoise (1)~~
+* //Empty Throne (1)//
+* //Jackal (2)//
+* __Floating Point__
+	* Jackal {phy res}
+	* //Ulo (1) //{ele res}
+	* //Dire Bear (1) //{+40% phys dmg}
+	* Tortoise {HP/armor/DA}
+	* //Empty Throne (2)// {pierce res}
+	* //Dryad (1) //{energy/acid res}
+	* //Harvestman (1) //{energy/energy regen}
