@@ -23,10 +23,6 @@ Sam found a sin-metal dagger with filigree in abyssal saying "Theodore"
 Chance has a ring that gives resistance to magic casted by aetherials
 Sam is a "Mistborn" (Hobgoblin)
 
-
-==== Found: ====
-[[Magical Items:Wyatt Davis:Weapons:R--Olman's Axe|Olman's Axe]]
-
 == Notes/Journals/Logs: ==
 Francis' note: https://grimdawn.fandom.com/wiki/Francis%27_Note
 Harbormaster's Log: https://grimdawn.fandom.com/wiki/Harbormaster's_Log_-_Lower_Crossing
@@ -37,4 +33,5 @@ Journal of Inquisitor Creed:
 ==== Quest Log: ====
 [[Planes:Cairn:Devil's Crossing:Bailey:Harmond Blasseiter|Harmond Blasseiter]] has asked them  to kill the other 3 boss aetherials
 [[Planes:Cairn:Devil's Crossing:Bailey:Kasparov|Kasparov]] has asked them to bring back aetherial crystal nodes
+Bourbon 
 
