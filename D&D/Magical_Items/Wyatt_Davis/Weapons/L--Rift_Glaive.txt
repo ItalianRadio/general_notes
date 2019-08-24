@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-23T22:07:35-06:00
+
+====== L--Rift Glaive ======
+Created Friday 23 August 2019
+
+//Weapon (glaive), legendary (requires attunement)//
+
+The blade of this red-handled naginata looks to be made of gold, but is far more durable. You gain a +3 bonus to attack rolls and damage rolls made with this magic weapon. It has 8 charges, and recovers 1d8 + 1 expended charges daily at dawn.
+**Rift Beam.** You can use an action to expend a charge to perform a Rift Beam attack. Each creature in a 30-foot line that is 5 feet wide must make a Strength saving throw with a DC equal to 8 + your proficiency + attack modifier. On a failed save, the creature takes damage as if they had been attacked and is pushed 5 feet away perpendicular from the line (caster's choice of direction) and cannot make reactions until the start of their next turn.
+The Rift Beam can also create temporary tunnels in nonmagical walls. The tunnels last for 1 minute before closing and extend for up to 30 feet from where the rift beam originated. The tunnels are a distortion of space and do not cause structural damage.

@@ -7,7 +7,7 @@ Created Wednesday 05 June 2019
 
 //Weapon (any sword), legendary (requires attunement)//
 
-This +3 sword has a fearsome aura that when unsheathed will cause creatures with less than 20 HP to be frightened of the wielder while they stand within 30ft.
+This +3 sword has a fearsome aura that when unsheathed will cause creatures with less than 20 HP to be frightened of the wielder while they stand within 30ft unless they pass a saving throw with a DC equal to 8 + your proficiency + your Strength modifier.
 Whenever you kill a foe with the **Bloodraker** in hand you are granted 5 temporary HP. If you already have temporary HP granted by the **Bloodraker** then add 5 temporary HP to your current temporary HP value, otherwise you must replace your current temporary HP with temporary HP granted by the **Bloodraker** to receive the other benefits. Temporary HP granted by the **Bloodraker** is removed when you complete a long rest.
 
 While you have temporary HP granted by the **Bloodraker**, you gain the following benefits:
