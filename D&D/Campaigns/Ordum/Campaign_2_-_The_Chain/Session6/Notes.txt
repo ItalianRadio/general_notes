@@ -1,21 +1,31 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
-Creation-Date: 2019-08-02T15:33:57-06:00
+Creation-Date: 2019-08-23T21:06:40-06:00
 
 ====== Notes ======
-Created Friday 02 August 2019
+Created Friday 23 August 2019
 
 [[Planes:Cairn:Devil's Crossing|Devil's Crossing]] Rift Map: https://www.grimtools.com/map/markers/rifts/565
-[[Planes:Cairn:Burial Hill|Burial Hill]] Rift Map: https://www.grimtools.com/map/markers/rifts/696 (Lower Crossing)
+[[Planes:Cairn:Burial Hill|Buril Hill]] Rift Map: https://www.grimtools.com/map/markers/rifts/696 (Lower Crossing)
 
 In bourbon's room there's a map - haven't seen it
 
 Swamp to the right, big landslide next a mountain
 left is a Gulf, Island a ways out in the gulf.
 
+They start back at Devil's Crossing, they just turned in stuff.
+
 ==== Reminders: ====
 Haven't found the //Hidden Path//
-Haven't "Leveled" from their boons
+They haven't attuned to the Lower Crossing Rift
+They haven't taken the aetherial crystal nodes out of the Aetherial Crystal Growths.
+Sam found a sin-metal dagger with filigree in abyssal saying "Theodore"
+Chance has a ring that gives resistance to magic casted by aetherials
+Sam is a "Mistborn" (Hobgoblin)
+
+
+==== Found: ====
+[[Magical Items:Wyatt Davis:Weapons:R--Olman's Axe|Olman's Axe]]
 
 == Notes/Journals/Logs: ==
 Francis' note: https://grimdawn.fandom.com/wiki/Francis%27_Note
@@ -25,6 +35,6 @@ Journal of Inquisitor Creed:
 * 2nd Entry: https://grimdawn.fandom.com/wiki/Journal_of_Inquisitor_Creed_-_2nd_Entry
 
 ==== Quest Log: ====
-[[Planes:Cairn:Devil's Crossing:Prison:Captain John Bourbon|Bourbon]] has asked them to kill Kyzogg which they have!
 [[Planes:Cairn:Devil's Crossing:Bailey:Harmond Blasseiter|Harmond Blasseiter]] has asked them  to kill the other 3 boss aetherials
-[[Planes:Cairn:Devil's Crossing:Bailey:Kasparov|Kasparov]] has asked them to bring back aetherial crystal nodes and they have 3 of them now
+[[Planes:Cairn:Devil's Crossing:Bailey:Kasparov|Kasparov]] has asked them to bring back aetherial crystal nodes
+

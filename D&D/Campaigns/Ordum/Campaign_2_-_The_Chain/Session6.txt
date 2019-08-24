@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-23T21:06:35-06:00
+
+====== Session6 ======
+Created Friday 23 August 2019
+
