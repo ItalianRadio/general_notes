@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-08-26T14:06:22-06:00
+
+====== Leveling Gear ======
+Created Monday 26 August 2019
+| Slot      | Piece                            | Acquire Method                                |
+|-----------|----------------------------------|-----------------------------------------------|
+| 1H        | Totally Normal Shield            | Easy to get from the hill in Ultimate in FG   |
+| Shield    | Colossal Bulwark                 | MI from all over Malmouth                     |
+| Amulet*   | Empowered Essence of Beronath    | Blueprint Craft                               |
+| Rings*    | Coven Storm Seal                 | Buy from Coven of Ugdenbog                    |
+| Head      | Fettan Mask                      | Freebee from nearby Korvan Sands Rift         |
+| Chest     | Elite Dreeg Combatant Chestguard | Buy from Cult of Dreeg in FG                  |
+| Pants     | Solael-Sect Legguards            | MI from Guardian of Soleal (Hidden Path)      |
+| Shoulders | Korvan Spaulders                 | MI from all over desert & tomb sections of FG |
+| Gloves    | Green w/ resistances)            |                                               |
+| Boots     | Green w/ resistances             |                                               |
+| Belt      | Ugdenbog Girdle                  | MI from Ugdenbog crab-things                  |
+| Medal     | Bysmiel Mark of Storms           | Buy from Cult of Bysmiel                      |
+| Relic     | Endurance                        | Craftable (easy to craft)                     |
+
+

@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-07-31T12:37:09-06:00
+
+====== Spin2Win ======
+Created Wednesday 31 July 2019
+
+Lvl 100 Grimtools for the beginner build portion: 
+https://www.grimtools.com/calc/4Vxe69vZ
+Other Grimtools guidepoints for leveling, these are for use along with the PDF guide listed below:
+[[+Skill Leveling]]
+Devotion path for leveling:
+[[+Devotion Leveling]]
+PDF Guide for leveling: 
+https://drive.google.com/file/d/1VYdijhrH_1F85nEa_2ZW98UNrOK-hfie/view
+Gear Acquisition Guide for the leveling build:
+[[+Leveling Gear]]
+ 
+Everything following is for the transition build into a build that can do high SR and Crucible.
+Grimtools for the build: 
+https://www.grimtools.com/calc/JVlWxdo2
+This build can transition eventually into another build once you acquire the warborn set, the medal, and the relic! 
+Warborn set has the following four items:
+| Slot      | Piece                       | Acquire Method        |
+|-----------|-----------------------------|-----------------------|
+| Head      | Mythical Warborn Visor      | Blueprint Craft       |
+| 1H        | Mythical Warborn Gavel      | Drop/Blueprint Reroll |
+| Chest     | Mythical Warborn Chestguard | Drop/Blueprint Reroll |
+| Shoulders | Mythical Warborn Pauldrons  | Drop/Blueprint Reroll |
+
+Once you have the Visor BP, you can reroll it into the other pieces.
+The other pieces are acquired below:
+| Slot    | Piece                              | Acquire Method             |
+|---------|------------------------------------|----------------------------|
+| Rings   | Coven Storm Seal                   | Buy from Coven of Ugdenbog |
+| Amulet  | Empowered Essence of Beronath      | Blueprint Craft            |
+| Offhand | Mythical Beronath, Reforged        | Blueprint Craft            |
+| Pants   | Mythical Chausses of Barbaros      | Drop                       |
+| Boots   | Mythical Boneshatter Treads        | Drop                       |
+| Belt    | Mythical Reforged Chains of Oleron | Drop                       |
+| Medal   | Mythical Korvaak's Brand           | Drop                       |
+| Relic   | Serenity                           | Blueprint Craft            |
+
+Once you have this  you can transition to this build:
+https://www.grimtools.com/calc/JVlWxdo2
+This build removes Overguard and focuses harder on the passives.
+Devotion removes a couple Circuit Breakers and gets a couple damaging Devotions
+Overall, your gear gives you much more protection, so your build can focus harder on damage. Unfortunately, because the gear is hard to get you'll have to wait until you have the gear before you swap.
+The gear here cuts out a ton of RNG as there are only 4 items that are only gotten from drops! You can craft a large chunk of the build making it really viable! Unfortunately there is only one faction buy :( So you'll have to have all the blueprints ready for this to be truly easy to build.
