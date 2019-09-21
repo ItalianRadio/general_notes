@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-20T23:39:52-06:00
+
+====== R--Rhowari Mantle ======
+Created Friday 20 September 2019
+
+//Wondrous item, rare (requries attunement)//
+
+Expertly crafted mantle filigree of suns on the pauldrons with a fancy attachment chains.
+
+Grant resistance to acid & poison damage
+Once per day you can use an action to regain a spell slot of up to 3rd level. The mantle regains this ability every day at dawn.

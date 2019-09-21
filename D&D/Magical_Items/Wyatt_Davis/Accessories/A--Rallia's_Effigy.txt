@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-21T00:55:45-06:00
+
+====== A--Rallia's Effigy ======
+Created Saturday 21 September 2019
+
+//Wondrous item, artifact (requires attunement)//
+
+While attuned all creatures under your control deal an additional 8 damage whenever they deal damage. (Does not apply to yourself)

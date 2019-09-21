@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-21T02:04:38-06:00
+
+====== A--Kymon's Calamity Relic ======
+Created Saturday 21 September 2019
+
+//Wondrous item, artifact//
+
+If you crit on a melee attack automatically casts //melf's minute meteors//. No concentration. If you crit while you still have meteors, increase your meteors to the maximum amount. You must still use a bonus action to invoke the meteors.
