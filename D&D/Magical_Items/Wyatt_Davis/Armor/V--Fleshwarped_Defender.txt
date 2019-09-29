@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-09-28T23:57:17-06:00
+
+====== V--Fleshwarped Defender ======
+Created Saturday 28 September 2019
+
+//Armor (shield), very rare//
+
++1 shield, 1/day you cast inverse //thunderwave// w/ a range of 20ft as a bonus action.

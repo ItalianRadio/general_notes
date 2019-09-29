@@ -7,4 +7,4 @@ Created Saturday 21 September 2019
 
 //Wondrous item, artifact (requires attunement)//
 
-While attuned all creatures under your control deal an additional 8 damage whenever they deal damage. (Does not apply to yourself)
+While attuned all creatures under your control that are within 120 ft of you deal an additional 8 damage whenever they deal damage. (Does not apply to yourself)
