@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-04T22:30:14-06:00
+
+====== V--Eye of the Beholder ======
+Created Friday 04 October 2019
+
+//Wondrous item, very rare (requires attunement)//
+
+//Rary's telepathic bond //with infinite duration as long as you're attuned to the diadem
