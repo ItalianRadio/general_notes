@@ -18,7 +18,7 @@ Gear Acquisition Guide for the leveling build:
  
 Everything following is for the transition build into a build that can do high SR and Crucible.
 Grimtools for the build: 
-https://www.grimtools.com/calc/JVlWxdo2
+https://www.grimtools.com/cdzimcalc/JVlWxdo2
 This build can transition eventually into another build once you acquire the warborn set, the medal, and the relic! 
 Warborn set has the following four items:
 | Slot      | Piece                       | Acquire Method        |
