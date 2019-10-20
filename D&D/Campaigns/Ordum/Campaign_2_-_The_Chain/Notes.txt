@@ -11,10 +11,10 @@ Created Saturday 28 September 2019
 Lower Crossing Rift
 Wightmire Rift
 Arkovian Foothills Rift
+Prospector's Trail Rift
+Croplands Rift
 
 1/2 iron bit = 1 silver
-
-In bourbon's room there's a map - haven't seen it
 
 Swamp to the right, big landslide next a mountain
 left is a Gulf, Island a ways out in the gulf.
@@ -23,14 +23,18 @@ left is a Gulf, Island a ways out in the gulf.
 Haven't found the //Hidden Path//
 Sam found a sin-metal dagger with filigree in abyssal saying "Theodore"
 Sam is a "Mistborn" (Hobgoblin)
-They saved the Skinner family. They're back in Devil's Crossing
 
 ==== Quest Log: ====
 [[Planes:Cairn:Devil's Crossing:Bailey:Harmond Blasseiter|Harmond Blasseiter]] has asked them  to kill the other 2 boss aetherials (they killed farros)'
 [[Planes:Cairn:Devil's Crossing:Bailey:Kasparov|Kasparov]] has asked them to bring back aetherial crystal nodes
 Bourbon asked them to clear out the Burrwich Rift
+Kill Aetherial Abom = 12000 bits
+Kill Dermapteran Queen = 12000 bits
 
 ==== Blessings: ====
 Gorzogg blessed by Kymon
 Baron blessed by Solael
 Irnbru blessed by Dreeg
+
+==== Enemies: ====
+Aetherials: https://www.dandwiki.com/wiki/Corpse_Gatherer_(5e_Creature)
