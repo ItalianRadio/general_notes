@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-20T01:00:08-06:00
+
+====== 5(N)--Rava's Enervation ======
+Created Sunday 20 October 2019
+
+//Level:// **5**
+//Casting time:// **1 Action**
+//Range:// **Touch**
+//Components:// **V, S**
+//Duration:// **Concentration, up to 1 minute**
+
+Imbue a willing creature you touch with the energy of enervation. As an action you imbue the creature will negative energy with a will that seeks out creatures to heal the imbued host. After imbuement the caster can use a bonus action to cause all creatures of your choice within 10 feet of the host to make a Dexterity saving throw, on a failure, the creatures take 4d8 necrotic damage and the host heals for an amount equal to the damage dealt. On a success the creature takes half damage and the host heals for an amount equal to the damage dealt.
