@@ -5,69 +5,84 @@ Creation-Date: 2019-10-20T01:40:57-06:00
 ====== Necromancer ======
 Created Sunday 20 October 2019
 
-A master of illusion, misdirection, and control, the beguiler subverts their foe's minds, manipulating their perceptions to achieve personal goals.
+Practitioners of the dark arts, necromancers summon minions, wield the power of ritual, and heal themselves with blood magic. Necromancers feed on life force, which they can leverage offensively or use to delay their own demise.
 
 ===== Beguiler Feature Table =====
-| Rank | Features                                                |
-|------|---------------------------------------------------------|
-| 1st  | Afflux's Shame, Vecna's Deception, Obad-Hai's Guidance  |
-| 2nd  | Erythnul's Sacrifice, Garl's Image, Boccob's Feast      |
-| 3rd  | Wee Jas' Mirror                                         |
-| 4th  | Delleb's Reality, Fharlaghn's Shift, Olidammara's Trick |
-| 5th  | Chronomancer                                            |
+| Rank | Features                                                       |
+|------|----------------------------------------------------------------|
+| 1st  | Barbing Hex, Vampiric Touch, Deathly Companion                 |
+| 2nd  | Enfeebling Blood, Touch of Agony, Consume Corpse               |
+| 3rd  | Soul Gathering                                                 |
+| 4th  | Spiteful Spirit, Blood is Power, Deathly Companion Improvement |
+| 5th  | Reaper                                                         |
 
 
 ===== Divine Path Features =====
-As a beguiler, you gain the following path features.
+As a necromancer, you gain the following path features.
 
 === Hit Points ===
-**Hit Dice:** 1d8 per beguiler rank
-**Hit Points at Each Rank:** 1d8 (or 5) + your Constitution modifier per beguiler rank
+**Hit Dice:** 1d8 per necromancer rank
+**Hit Points at Each Rank:** 1d8 (or 5) + your Constitution modifier per necromancer rank
 
 === Proficiencies ===
-**Armor:** Light armor, shields
-**Divine Arms:** Sundial
-**Skills:** Choose one from Arcana, Deception, Investigation, and Nature
+**Weapons:** Quarterstaffs and unarmed strikes (dealing 1d6 bludgeoning damage if you had no prior proficiency)
+**Divine Arms:** Soul edge
+**Skills:** Choose one from Acrobatics, Arcana, Athletics, History, Insight, and Religion
 
-== Sundial ==
-The sundial is a special type of shield. In addition to granting the normal shield bonus, a sundial is a one-handed, finesse weapon that deals 1d10 piercing damage on a hit. Additionally, it can be worn while you wield a two-handed weapon, granting you a +1 shield bonus to AC while you wield a two-handed weapon.
+== Soul Edge ==
+A soul edge is a special type of greatsword. A soul edge is a finesse weapon, a monk weapon, is twohanded, deals 2d6 slashing damage, may be used as a spell focus for any class, and has reach. This massive greatsword is so large that anyone that is not proficient must have a Strength of 18 to wield it.
 
-===== Death Blossom =====
-Starting when you first become an assassin you learn the //Death Blossom//. An assassin is a beautiful storm of destruction in battle. Upon becoming an assassin, you begin to cause more carnage with consecutive strikes. On the third consecutive strike against the same foe with a melee weapon attack made with a finesse weapon, you deal that weapon’s damage plus your assassin rank to all foes within 5 feet of you. This damage is independent from the attack and cannot be a critical attack as it triggers after you hit the foe. These attacks need not necessarily be with the same weapon or on the same turn, but you must successfully hit a foe three times without attacking another foe for this ability to trigger
+===== Barbing Hex =====
+Beginning at 1st rank, you can use an action to hex a creature within 60 feet. Whenever target creature takes bludgeoning, piercing or slashing damage it takes additional damage from this hex. The hex deals a number of d4’s equal to your necromancer rank.
+Once you use this ability you cannot use it again until you have completed a short rest.
 
-===== Shadow's Charge =====
- Starting at 1st rank, you can use half of your movement (rounded up to the nearest 5 feet) to teleport to an enemy within 30 feet of you. If you have less than half of your total health, you regain hit points equal to 3 times your assassin rank. Once you use this ability you cannot use it again until you kill a foe with a melee finesse weapon or until you complete a short or long rest. 
+===== Vampiric Touch =====
+At 1st rank, you can steal the vitality from a foe that you have struck with an unarmed attack. Once per turn when you deal damage with an unarmed strike you can steal health from that foe, both dealing damage to that foe and healing you for the same amount. The amount of health stolen is equal to your necromancer rank.
 
-===== Smoke on the Wind =====
-At 1st rank, if a foe you can see misses you with an attack, during your next turn you have an additional 10 movement speed. This effect does not stack. 
+===== Deathly Companion =====
+Starting at 1st rank, You may spend 10 minutes to summon a flesh golem from the corpses of two or more medium size creatures or one large or larger sized creature. Your flesh golem is described in the **Flesh Golem** block in this section.
+Your flesh golem acts on your initiative as it can only act if you magically command it using a bonus action. A flesh golem may make a single action or bonus action, and move with a single command. A flesh golem has a normal hand with claw-like fingers, a hand that resembles an axe, and a long horn on the top of its head.
 
-===== Black Spider Strike =====
-Beginning at 2nd rank, as a bonus action you can prepare your blade to make an unsuspecting strike until the end of your turn. The first time you hit with a weapon attack on this turn the attack deals double weapon damage. If the attack was poisoned you deal an extra die of weapon damage plus damage equal to your assassin rank. 
+===== Enfeebling Blood =====
+Upon reaching 2nd rank, you can use an action to choose a point you can see within 60 feet. All foes within 20 feet of that point must succeed on a Constitution saving throw or suffer from one additional level of Exhaustion.
+Once you use this ability a number of times equal to your necromancer rank you must finish a long rest before you can use it again.
 
-===== Violent Escape =====
- At 2nd rank, as an action, you can make a melee finesse weapon attack against all foes within 5 feet of you. A creature hit with this attack must succeed on a Constitution saving throw or that creature’s movement is halved until the start of your next turn. After completing your attacks, you teleport to a space within 5 feet of an ally. After teleporting your movement is set to 0 until the end of your turn. Once you use this ability you cannot use it again until you kill a foe with a melee finesse weapon or until you complete a short rest.
+===== Touch of Agony =====
+Starting at 2nd rank, when you use your **Vampiric Touch** ability for the first time each turn, you may redirect the health you would have gained back towards your foe, dealing radiant damage equal to the health you would have gained.
+If you use this feature to deal damage with your **Vampiric Touch** ability you may use it one additional time this turn.
 
-===== Shadow of Haste =====
-When you reach 2nd rank, as a bonus action you become one with your shadow until the end of your turn. While you are one with your shadow you have a +5 foot bonus to your land speed and your Dexterity (Acrobatics) skill has a bonus of +5. At the end of your turn you return to the location that you used this ability at. If that space is now occupied you return to a place as close as you can to that location and take 1d6 force damage for every 5 feet you were shunted. 
+===== Consume Corpse =====
+At 2nd rank you can use an action to teleport to a corpse of a creature you can see within 30 feet. Upon reaching the corpse you eviscerate it, removing its remaining life energy to sustain you. You gain one of the following benefits: 
+* Heal for a number of d8's equal to twice your necromancer rank.
+* Regain a spell slot of a spell level equal to or lower than your necromancer rank.
+You may use this feature a number of times equal to your necromancer rank. When you use this feature to regain spell slots, you use a number of uses equal to the spell level of the spell slot regained.
 
-===== Mantis Fury =====
-At 3rd rank, as a bonus action you enter the Mantis Fury stance until the end of your turn. All attacks you make while in the Locust’s Fury stance hit with both your main hand and your off hand weapon at the same time. In addition, if you take the attack action this turn, you make one extra attack. Once you use this ability you must complete a long rest before you can use it again. 
+===== Soul Gathering =====
+Starting at 3rd rank, each time a creature within 30 feet of you drops below 0 hit points, you gain temporary hit points equal to your necromancer rank.
+Temporary hit points gained with this feature stack on top of all other temporary hit points gained. This means if you gain temporary hit points before activating this feature you may add temporary hit points from this feature on top of your current temporary hit points, but if you gain temporary hit points from another source while you have temporary hit points from this feature, they do not stack.
 
-===== Piercing Strikes =====
-At 4th rank, the sixth consecutive time you hit a foe, your attack will automatically become a critical hit unless the foe is immune to criticals. (This ability doesn’t make you hit, just turns hits into crits.) 
+===== Spiteful Spirit =====
+When you reach 4th rank you can use your action to place the hex of the Spiteful Spirit on target foe you can see within 60 feet. This hex lasts for 10 minutes. Each time a foe starts its turn within 5 feet of the hexed creature, they must succeed on a Wisdom saving throw or take 4d8 necrotic damage.
+Once you use this ability you must complete a short rest before you can use it again.
 
-===== Shroud of Distress =====
-Beginning at 4th rank, the first time your health goes below half while you still have this ability available it activates, healing you for 5 times your assassin rank and granting you bonus AC equal to your assassin rank. Once you use this ability you must complete a short rest before you can use it again. 
+===== Blood is Power =====
+Upon reaching 4th rank you can use an action to trade your life force in exchange for arcane, divine, or martial power.
+When you use this feature, you suffer damage equal to four times your necromancer rank, and you reduce your maximum hit points by an amount equal to that. These lost maximum hit points return once you use your **Consume Corpse** feature and cannot be restored otherwise.
+Additionally, no hit points are regained as part of the restoring of maximum hit points in this way. If you do so you can grant yourself one of the following options: 
+* Regain a spell slot with a spell level equal to or lower than your necromancer rank.
+* Regain ki points equal to your necromancer rank.
+* Regain bardic inspiration die equal to your necromancer rank.
+* Regain superiority die equal to your necromancer rank.
+* Regain all rage uses.
+You cannot use this ability to gain more of a resource than what you can possibly have.
 
-===== Feline Grace =====
-At 4th rank, if you are within 5 feet of any surface that would grant cover while you fall, you do not take fall damage, otherwise, fall damage you take is halved. Additionally, you have Advantage on Dexterity (Acrobatics) checks. 
+===== Reaper =====
+Upon reaching rank 5, you gain the title of Reaper. Intelligent undead will fear your name and you will be known by all necromantic magic users.
+In addition, you will gain the following abilities: 
 
-===== Daredevil =====
-Upon reaching rank 5, you gain the title of Daredevil. You are a legend amongst both theives and their guilds along with monks and their temples. While your guise may not be recognized amongst these folks, that's too be expected as you are the assassin, their hero as well as their nightmare. In addition, you will gain the following abilities:
+==== Your Soul is Mine! ====
+While you are wielding a soul edge, as an action, you may shout //“Your Soul is Mine!”// at all creatures within 10 feet of you. You may then make an attack against all creatures within 10 feet that heard you. For every creature that you strike with an attack when using this ability, both you and your Deathly Companion regain hit points equal to your necromancer rank.
+Once you use this ability you must complete a short rest or consume a corpse before you can use it again.
 
-==== Monkey Strength ====
-If you run in a straight line at least 10 feet before jumping you can use your action on this ability. If you succeed on an Dexterity (Acrobatics) check with a DC of 20, you may choose a location somewhere within 40 feet from where you jumped. After landing you may make a single attack on all enemies within your reach. Upon landing your movement speed is set to 0. If you fail the jump check this ability fails and you may take a different action. You may not use this ability with Locust’s Fury. Once you use this ability, even if you fail, you must complete a long rest before you can use it again. 
-
-==== Mastery of Self ====
-If a foe you can see misses you with an attack, the next time you deal damage with an attack on your next turn you deal bonus damage equal to your weapon die. This effect stacks.
-
+==== Chilled to the Bone ====
+You have an aura of frost caused by all the souls that use your body as a conduit to the Underworld. All creatures you choose that start their turn within 10 feet of you have their speed halved and have disadvantage to attack you until the start of their next turn.

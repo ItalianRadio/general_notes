@@ -5,69 +5,79 @@ Creation-Date: 2019-10-20T01:41:04-06:00
 ====== Priest ======
 Created Sunday 20 October 2019
 
-A master of illusion, misdirection, and control, the beguiler subverts their foe's minds, manipulating their perceptions to achieve personal goals.
+The servant of divine spirits, the priest uses prayer to protect and restore the well-being of companions as well as smiting down their foes.
 
-===== Beguiler Feature Table =====
-| Rank | Features                                                |
-|------|---------------------------------------------------------|
-| 1st  | Afflux's Shame, Vecna's Deception, Obad-Hai's Guidance  |
-| 2nd  | Erythnul's Sacrifice, Garl's Image, Boccob's Feast      |
-| 3rd  | Wee Jas' Mirror                                         |
-| 4th  | Delleb's Reality, Fharlaghn's Shift, Olidammara's Trick |
-| 5th  | Chronomancer                                            |
+===== Priest Feature Table =====
+| Rank | Features                                                       |
+|------|----------------------------------------------------------------|
+| 1st  | Life's Kiss, St. Cuthbert's Favor, Zealot's Speed              |
+| 2nd  | Protective Spirit, St. Cuthbert's Shield, Symbol of Protection |
+| 3rd  | Healer's Boon                                                  |
+| 4th  | Boon Signet, Pelor's Protection, Symbolic Power                |
+| 5th  | Dragonhunter                                                   |
 
 
 ===== Divine Path Features =====
-As a beguiler, you gain the following path features.
+As a priest, you gain the following path features.
 
 === Hit Points ===
-**Hit Dice:** 1d8 per beguiler rank
-**Hit Points at Each Rank:** 1d8 (or 5) + your Constitution modifier per beguiler rank
+**Hit Dice:** 1d8 per priest rank
+**Hit Points at Each Rank:** 1d8 (or 5) + your Constitution modifier per priest rank
 
 === Proficiencies ===
-**Armor:** Light armor, shields
-**Divine Arms:** Sundial
-**Skills:** Choose one from Arcana, Deception, Investigation, and Nature
+**Armor:** Light armor
+**Weapons: **Simple weapons
+**Divine Arms:** Impaler
+**Skills:** Choose one from History, Insight, Medicine, Persuasion, and Religion 
+**Languages:** Draconic
 
-== Sundial ==
-The sundial is a special type of shield. In addition to granting the normal shield bonus, a sundial is a one-handed, finesse weapon that deals 1d10 piercing damage on a hit. Additionally, it can be worn while you wield a two-handed weapon, granting you a +1 shield bonus to AC while you wield a two-handed weapon.
+== Impaler ==
+An impaler is a special type of spear that deals 1d10 piercing damage and has a range of 30/120. Additionally, as a free action, you are able to recall any impaler you have thrown and can see, making it return to your hand instantly. Finally, you may use your spellcasting ability as the modifier for this weapon so long as you have the ability to heal using your spellcasting ability.
 
-===== Death Blossom =====
-Starting when you first become an assassin you learn the //Death Blossom//. An assassin is a beautiful storm of destruction in battle. Upon becoming an assassin, you begin to cause more carnage with consecutive strikes. On the third consecutive strike against the same foe with a melee weapon attack made with a finesse weapon, you deal that weapon’s damage plus your assassin rank to all foes within 5 feet of you. This damage is independent from the attack and cannot be a critical attack as it triggers after you hit the foe. These attacks need not necessarily be with the same weapon or on the same turn, but you must successfully hit a foe three times without attacking another foe for this ability to trigger
+===== Life's Kiss =====
+Starting when you choose this path, you can use an action to kiss target creature. It regains hit points equal to 5 times your priest rank.
+Once you have used this feature a number of times equal to your priest rank, you must complete a long rest to use it again.
 
-===== Shadow's Charge =====
- Starting at 1st rank, you can use half of your movement (rounded up to the nearest 5 feet) to teleport to an enemy within 30 feet of you. If you have less than half of your total health, you regain hit points equal to 3 times your assassin rank. Once you use this ability you cannot use it again until you kill a foe with a melee finesse weapon or until you complete a short or long rest. 
+===== St. Cuthbert's Favor =====
+At 1st rank, whenever you deal radiant damage, you add your priest rank to that damage.
 
-===== Smoke on the Wind =====
-At 1st rank, if a foe you can see misses you with an attack, during your next turn you have an additional 10 movement speed. This effect does not stack. 
+===== Zealot's Speed =====
+Starting at 1st rank, whenever you are not at max health, increase your movement speed by 10.
 
-===== Black Spider Strike =====
-Beginning at 2nd rank, as a bonus action you can prepare your blade to make an unsuspecting strike until the end of your turn. The first time you hit with a weapon attack on this turn the attack deals double weapon damage. If the attack was poisoned you deal an extra die of weapon damage plus damage equal to your assassin rank. 
+===== Protective Spirit =====
+Starting at 2nd rank, you can use an action to place a protective spirit on target ally for until the end of your next turn. While the spirit is in place the ally has resistance to all damage.
 
-===== Violent Escape =====
- At 2nd rank, as an action, you can make a melee finesse weapon attack against all foes within 5 feet of you. A creature hit with this attack must succeed on a Constitution saving throw or that creature’s movement is halved until the start of your next turn. After completing your attacks, you teleport to a space within 5 feet of an ally. After teleporting your movement is set to 0 until the end of your turn. Once you use this ability you cannot use it again until you kill a foe with a melee finesse weapon or until you complete a short rest.
+===== St. Cuthbert's Shield =====
+Upon reaching 2nd rank, you can use an action to place St. Cuthbert's Shield on target ally for 10 minutes. Whenever an ally being guarded by the shield is attacked and the attacker is within 5 feet, the shield deals 1d8 radiant damage to the attacker. Additionally, after the attack is concluded the attacker must make a successful Constitution saving throw or be knocked prone by the shield exploding into light. (Make sure to apply St. Cuthbert's Favor to the damage dealt by this ability)
+Once you use this ability you must complete a short rest before you can use it again.
 
-===== Shadow of Haste =====
-When you reach 2nd rank, as a bonus action you become one with your shadow until the end of your turn. While you are one with your shadow you have a +5 foot bonus to your land speed and your Dexterity (Acrobatics) skill has a bonus of +5. At the end of your turn you return to the location that you used this ability at. If that space is now occupied you return to a place as close as you can to that location and take 1d6 force damage for every 5 feet you were shunted. 
+===== Symbol of Protection =====
+At 2nd rank, you can use an action to smash a radiant symbol into the ground that protects your allies. This symbol has a radius of effect equal to 5 times your priest rank in feet.
+While you or any of your allies are in the symbol, you have resistance to piercing, bludgeoning and slashing damage.
+Once you use this ability you must complete a long rest before you can use it again.
 
-===== Mantis Fury =====
-At 3rd rank, as a bonus action you enter the Mantis Fury stance until the end of your turn. All attacks you make while in the Locust’s Fury stance hit with both your main hand and your off hand weapon at the same time. In addition, if you take the attack action this turn, you make one extra attack. Once you use this ability you must complete a long rest before you can use it again. 
+===== Healer's Boon =====
+At 3rd rank, you can use an action to place the healer's boon on yourself for 10 minutes. While you have the healer's boon on you you can use any spell or ability that would take an action to use will instead require a bonus action.
+Once you use this ability you must complete a long rest before you can use it again.
 
-===== Piercing Strikes =====
-At 4th rank, the sixth consecutive time you hit a foe, your attack will automatically become a critical hit unless the foe is immune to criticals. (This ability doesn’t make you hit, just turns hits into crits.) 
+===== Boon Signet =====
+Once you reach 4th rank, you can use a bonus action to place the boon signet upon yourself until the end of your next turn.
+While you have the boon signet upon you the next spell or ability you use that causes a creature to regain hit points will cause it to heal for an additional amount equal to twice your priest rank.
 
-===== Shroud of Distress =====
-Beginning at 4th rank, the first time your health goes below half while you still have this ability available it activates, healing you for 5 times your assassin rank and granting you bonus AC equal to your assassin rank. Once you use this ability you must complete a short rest before you can use it again. 
+===== Pelor's Protection =====
+At 4th rank, you may choose 2 first level spells that heal you or another target creature. You can cast those spells as 2nd level spells without expending a spell slot.
 
-===== Feline Grace =====
-At 4th rank, if you are within 5 feet of any surface that would grant cover while you fall, you do not take fall damage, otherwise, fall damage you take is halved. Additionally, you have Advantage on Dexterity (Acrobatics) checks. 
+===== Symbolic Power =====
+Upon reaching 4th rank, enemies standing in your symbol of protection take your priest rank in radiant damage at the start of their turn or upon entering your symbol.
+Additionally, you can use your symbol of protection a number of times equal to your priest rank before you must complete a long rest.
 
-===== Daredevil =====
-Upon reaching rank 5, you gain the title of Daredevil. You are a legend amongst both theives and their guilds along with monks and their temples. While your guise may not be recognized amongst these folks, that's too be expected as you are the assassin, their hero as well as their nightmare. In addition, you will gain the following abilities:
+===== Dragonhunter =====
+Upon reaching rank 5, you gain the title of Dragonhunter. All creatures that natively speak Draconic fear you, unrationally even.
+In addition, you will gain the following abilities: 
 
-==== Monkey Strength ====
-If you run in a straight line at least 10 feet before jumping you can use your action on this ability. If you succeed on an Dexterity (Acrobatics) check with a DC of 20, you may choose a location somewhere within 40 feet from where you jumped. After landing you may make a single attack on all enemies within your reach. Upon landing your movement speed is set to 0. If you fail the jump check this ability fails and you may take a different action. You may not use this ability with Locust’s Fury. Once you use this ability, even if you fail, you must complete a long rest before you can use it again. 
+==== Dragon's Maw ====
+As an action you throw a spear of light at a location on the ground within 120 feet. All enemies within 30 feet of your of the spear must succeed on a Wisdom saving throw or be pulled in towards it, have their speed halved and take radiant damage equal to 5 times the number of enemies in range.
+Once you use this ability, you must complete a long rest before you can use it again.
 
-==== Mastery of Self ====
-If a foe you can see misses you with an attack, the next time you deal damage with an attack on your next turn you deal bonus damage equal to your weapon die. This effect stacks.
-
+==== Puncturing Blow ====
+Whenever you make an attack with your impaler inside the first range increment (30 feet), you make an attack against every enemy that’s in that line. In other words, every time you attack, draw a line. You may make an attack against everyone in that line.

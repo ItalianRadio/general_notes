@@ -1,0 +1,35 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-24T12:51:46-06:00
+
+====== Flesh Golem ======
+Created Thursday 24 October 2019
+
+//Large undead, lawful neutral//
+--------------------
+**Armor Class:** 10 + rank + Dexterity modifier
+**Hit Points:** 15 x rank + Constitution modifier
+**Speed:** 30 ft.
+| STR     | DEX    | CON     | INT  | WIS  | CHA  |
+|---------|--------|---------|------|------|------|
+| 15+rank | 5+rank | 15+rank | rank | rank | rank |
+
+**Saving Throws:** Str +rank, Con +rank
+**Damage Immunities:** poison
+**Condition Immunities:** poisoned
+**Senses:** darkvision 60 ft., passive Perception 0
+**Languages:** understands common, but can not speak
+--------------------
+**Undead Fortitude.** If damage reduces the flesh golem to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the flesh golem drops to 1 hit point instead.
+**Shambling Horror.** Upon reaching necromancer rank 4, when a flesh golem dies, it instead becomes a shambling horror, losing all its flesh and regaining all its hitpoints. Upon becoming a shambling horror it loses hitpoints equal to any excess damage beyond what would have killed the flesh golem. It loses the ability Undead Fortitude and gains the following resistances and immunities:
+* **Damage Resistances:** piercing, slashing
+* **Damage Vulnerabilities:** bludgeoning
+* **Condition Immunities:** exhaustion
+
+===== Actions =====
+**Gore.** //Melee Weapon Attack:// Str modifier + rank to hit, reach 5ft., one target. Hit (1d8 + Str modifier) piercing damage
+**Axe Hand.** //Melee Weapon Attack:// Str modifier + rank to hit, reach 5ft., one target. Hit (1d10 + Str modifier) slashing damage
+**Slam.** //Melee Weapon Attack:// Str modifier + rank to hit, reach 5ft., one target. Hit (1d10 + Str modifier) bludgeoning damage
+
+===== Player Actions =====
+**Flesh to Flesh.** You can spend 30 seconds eviscerating a corpse with your flesh golem present to heal it to full health. This ability can be used on a dead flesh golem that died within the last minute to revive it, or on a shambling horror to transform it back into a flesh golem.
