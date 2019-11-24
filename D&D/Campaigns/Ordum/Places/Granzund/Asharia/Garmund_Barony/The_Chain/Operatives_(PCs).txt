@@ -4,13 +4,16 @@ Creation-Date: 2019-06-03T12:38:53-06:00
 
 ====== Operatives (PCs) ======
 Created Monday 03 June 2019
+The B Team
+[[+Viscount]] - Chance
+[[+Gabriel]] - Sam
+[[+Lumpy]] - Nik
 
 The NEW Operatives
 [[+Ironbrew]] - Nik
 [[+Gorzog]] Duniel - Sam
 [[+Baron]] - Chance
-
-
+[[+Chiyo]] - Rach
 
 The OLD Operatives:
 [[+Rib]] Sharpchin - Chance

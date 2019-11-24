@@ -1,0 +1,21 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-11-23T20:09:13-07:00
+
+====== A--Kaloma's Fury ======
+Created Saturday 23 November 2019
+
+This magical battle fan is a +3 finesse weapon that deals 1d8 slashing damage on an attack.
+
+This fan has 15 charges and regains 1d12+3 expended charges daily at dawn.
+You can use the fan to expend the charges in the following ways:
+To use an action to cast the following wind-based spells: 
+1 charge: //thunderwave, warding wind//
+2 charges: //gust of wind//
+3 charges: //wind wall//
+5 charges: //control winds, destructive wave, conjure elemental (air)//
+6 charges: //investiture of wind//
+7 charges: //whirlwind//
+8 charges: //control weather//
+
+Use your own spellcasting ability for these spells, otherwise use Charisma.''s''
