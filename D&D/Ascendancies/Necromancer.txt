@@ -7,7 +7,7 @@ Created Sunday 20 October 2019
 
 Practitioners of the dark arts, necromancers summon minions, wield the power of ritual, and heal themselves with blood magic. Necromancers feed on life force, which they can leverage offensively or use to delay their own demise.
 
-===== Beguiler Feature Table =====
+===== Necromancer Feature Table =====
 | Rank | Features                                                       |
 |------|----------------------------------------------------------------|
 | 1st  | Barbing Hex, Vampiric Touch, Deathly Companion                 |
@@ -17,8 +17,8 @@ Practitioners of the dark arts, necromancers summon minions, wield the power of 
 | 5th  | Reaper                                                         |
 
 
-===== Divine Path Features =====
-As a necromancer, you gain the following path features.
+===== Ascendancy Features =====
+As a necromancer, you gain the following ascendancy features.
 
 === Hit Points ===
 **Hit Dice:** 1d8 per necromancer rank

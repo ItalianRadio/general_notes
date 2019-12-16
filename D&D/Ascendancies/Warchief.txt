@@ -17,8 +17,8 @@ With a commanding voice and charismatic presence, the warchief rallies the valia
 | 5th  | Guardian                                                |
 
 
-===== Divine Path Features =====
-As a warchief, you gain the following path features.
+===== Ascendancy Features =====
+As a warchief, you gain the following ascendancy features.
 
 === Hit Points ===
 **Hit Dice:** 1d8 per warchief rank
@@ -34,7 +34,7 @@ As a warchief, you gain the following path features.
 A meteor is a special type of warhammer. A meteor deals 1d12 bludgeoning damage. You can use a free action during your turn to return it to you if you can see it and it is within 120 feet. While wielding a meteor a Guardian becomes more stoic, thinking more before every decision. A foe hit by a meteor must succeed on a Constitution saving throw or have its speed halved until the end of your next turn.
 
 ===== Brace Yourself! =====
-Starting when you choose this path at 1st rank, you can use an action to shout “Brace Yourself” at an ally that can hear you within 30 feet. Until the end of your next turn, they cannot be forced to go prone. Additionally, the first time they are struck by a foe within 5 feet of them, the damage of that attack is reduced by a number equal to your warchief rank times 3. Additionally, if that attack dealt damage to your ally, they may make a melee weapon attack against that foe as a reaction. If they hit, the attack deals bonus damage equal to your warchief rank times 3.
+Starting when you choose this ascendancy at 1st rank, you can use an action to shout “Brace Yourself” at an ally that can hear you within 30 feet. Until the end of your next turn, they cannot be forced to go prone. Additionally, the first time they are struck by a foe within 5 feet of them, the damage of that attack is reduced by a number equal to your warchief rank times 3. Additionally, if that attack dealt damage to your ally, they may make a melee weapon attack against that foe as a reaction. If they hit, the attack deals bonus damage equal to your warchief rank times 3.
 
 ===== Mighty Throw =====
 Starting as 1st rank, you can use a bonus action to prepare yourself to throw your weapons farther and more accurately than you otherwise feel you could. Your first range increment with thrown weapons are doubled for this turn and you deal an additional weapon die of damage this turn.

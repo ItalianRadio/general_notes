@@ -17,8 +17,8 @@ A swift, silent master of shadows, dual-wielding and death. The assassin can cha
 | 5th  | Daredevil                                          |
 
 
-===== Divine Path Features =====
-As an assassin, you gain the following path features.
+===== Ascendancy Features =====
+As an assassin, you gain the following ascendancy features.
 
 === Hit Points ===
 **Hit Dice:** 1d10 per assassin rank

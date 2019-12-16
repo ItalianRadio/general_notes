@@ -17,8 +17,8 @@ Bolstered by the blessings of the gods, these holy warriors reap the benefits of
 | 5th  | Zealot                                            |
 
 
-===== Divine Path Features =====
-As a vindicator, you gain the following path features.
+===== Ascendancy Features =====
+As a vindicator, you gain the following ascendancy features.
 
 === Hit Points ===
 **Hit Dice:** 1d8 per vindicator rank

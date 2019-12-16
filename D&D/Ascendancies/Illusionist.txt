@@ -17,8 +17,8 @@ A master of illusion, misdirection, and control, the illusionist subverts their 
 | 5th  | Aphotic Form, Continuum Breach |
 
 
-===== Divine Path Features =====
-As a illusionist, you gain the following path features.
+===== Ascendancy Features =====
+As a illusionist, you gain the following ascendancy features.
 
 === Hit Points ===
 **Hit Dice:** 1d8 per illusionist rank

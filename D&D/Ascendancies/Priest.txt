@@ -17,8 +17,8 @@ The servant of divine spirits, the priest uses prayer to protect and restore the
 | 5th  | Dragonhunter                                                   |
 
 
-===== Divine Path Features =====
-As a priest, you gain the following path features.
+===== Ascendancy Features =====
+As a priest, you gain the following ascendancy features.
 
 === Hit Points ===
 **Hit Dice:** 1d8 per priest rank

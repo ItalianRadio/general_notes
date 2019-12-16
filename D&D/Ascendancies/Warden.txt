@@ -17,8 +17,8 @@ An agile and wily survivor, the warden specializes in ranged weapon combat, beas
 | 5th  | Herald                                              |
 
 
-===== Divine Path Features =====
-As a warden, you gain the following path features.
+===== Ascendancy Features =====
+As a warden, you gain the following ascendancy features.
 
 === Hit Points ===
 **Hit Dice:** 1d8 per warden rank

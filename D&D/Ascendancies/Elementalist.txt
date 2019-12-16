@@ -17,8 +17,8 @@ The master of arcane lore and magical aptitude, the Elementalist calls upon the 
 | 5th  | Tempest                   |
 
 
-===== Divine Path Features =====
-As an elementalist, you gain the following path features.
+===== Ascendancy Features =====
+As an elementalist, you gain the following ascendancy features.
 
 === Hit Points ===
 **Hit Dice:** 1d8 per elementalist rank
@@ -32,7 +32,7 @@ As an elementalist, you gain the following path features.
 A warhorn a special type of spell focus. While wielding a warhorn you may add your elementalist rank to the damage of any cantrip that you cast.
 
 ===== Elemental Magic: =====
-For the purpose of this path the following damage types are inherently elemental: Cold, Fire, Lightning, Thunder.
+For the purpose of this ascendancy the following damage types are inherently elemental: Cold, Fire, Lightning, Thunder.
 Additionally, there is Earth (which will deal bludgeoning most of the time). If you are confused if a spell is elemental or what element it is, ask your DM.
 
 ===== Elemental Mastery =====
