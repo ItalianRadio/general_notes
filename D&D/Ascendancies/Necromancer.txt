@@ -26,11 +26,7 @@ As a necromancer, you gain the following ascendancy features.
 
 === Proficiencies ===
 **Weapons:** Quarterstaffs and unarmed strikes (dealing 1d6 bludgeoning damage if you had no prior proficiency)
-**Divine Arms:** Soul edge
 **Skills:** Choose one from Acrobatics, Arcana, Athletics, History, Insight, and Religion
-
-== Soul Edge ==
-A soul edge is a special type of greatsword. A soul edge is a finesse weapon, a monk weapon, is twohanded, deals 2d6 slashing damage, may be used as a spell focus for any class, and has reach. This massive greatsword is so large that anyone that is not proficient must have a Strength of 18 to wield it.
 
 ===== Barbing Hex =====
 Beginning at 1st rank, you can use an action to hex a creature within 60 feet. Whenever target creature takes bludgeoning, piercing or slashing damage it takes additional damage from this hex. The hex deals a number of d4’s equal to your necromancer rank.
@@ -57,7 +53,7 @@ At 2nd rank you can use an action to teleport to a corpse of a creature you can 
 * Regain a spell slot of a spell level equal to or lower than your necromancer rank.
 You may use this feature a number of times equal to your necromancer rank. When you use this feature to regain spell slots, you use a number of uses equal to the spell level of the spell slot regained.
 
-===== Soul Gathering =====
+===== Reaper =====
 Starting at 3rd rank, each time a creature within 30 feet of you drops below 0 hit points, you gain temporary hit points equal to your necromancer rank.
 Temporary hit points gained with this feature stack on top of all other temporary hit points gained. This means if you gain temporary hit points before activating this feature you may add temporary hit points from this feature on top of your current temporary hit points, but if you gain temporary hit points from another source while you have temporary hit points from this feature, they do not stack.
 
@@ -76,13 +72,9 @@ Additionally, no hit points are regained as part of the restoring of maximum hit
 * Regain all rage uses.
 You cannot use this ability to gain more of a resource than what you can possibly have.
 
-===== Reaper =====
-Upon reaching rank 5, you gain the title of Reaper. Intelligent undead will fear your name and you will be known by all necromantic magic users.
-In addition, you will gain the following abilities: 
-
-==== Your Soul is Mine! ====
+===== Your Soul is Mine! =====
 While you are wielding a soul edge, as an action, you may shout //“Your Soul is Mine!”// at all creatures within 10 feet of you. You may then make an attack against all creatures within 10 feet that heard you. For every creature that you strike with an attack when using this ability, both you and your Deathly Companion regain hit points equal to your necromancer rank.
 Once you use this ability you must complete a short rest or consume a corpse before you can use it again.
 
-==== Chilled to the Bone ====
+===== Chilled to the Bone =====
 You have an aura of frost caused by all the souls that use your body as a conduit to the Underworld. All creatures you choose that start their turn within 10 feet of you have their speed halved and have disadvantage to attack you until the start of their next turn.

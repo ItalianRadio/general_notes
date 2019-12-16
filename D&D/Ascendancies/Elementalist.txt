@@ -8,13 +8,13 @@ Created Sunday 20 October 2019
 The master of arcane lore and magical aptitude, the Elementalist calls upon the power of fire, earth, air and water to obliterate enemies.
 
 ===== Elementalist Feature Table =====
-| Rank | Features                  |
-|------|---------------------------|
-| 1st  | Elemental Mastery         |
-| 2nd  | Greater Elemental Mastery |
-| 3rd  | Energy Storage            |
-| 4th  | Elder Elemental Mastery   |
-| 5th  | Tempest                   |
+| Rank | Features                                 |
+|------|------------------------------------------|
+| 1st  | Elemental Mastery                        |
+| 2nd  | Greater Elemental Mastery                |
+| 3rd  | Energy Storage                           |
+| 4th  | Elder Elemental Mastery                  |
+| 5th  | Elemental Attunement, Elemental Overload |
 
 
 ===== Ascendancy Features =====
