@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-16T15:17:26-07:00
+
+====== Weapons ======
+Created Monday 16 December 2019
+
+Weapon List
+https://docs.google.com/spreadsheets/d/1Hi_3ERwjOwmjyLjXOxfaBj8B1m_d7IRcrDboI-dfwiY/
+
+Weapon & Armor Properties:
+https://docs.google.com/document/d/1rNg59-jPLE1Q0fyyNl_cRKssx1gpZqu-NkthXshPiBQ/
+
+Weapon & Armor Special Properties:
+https://docs.google.com/document/d/1vUsvLX4klBQouY1oM0Wc-yqy5jC3gwwIQht1sa8dyCk/

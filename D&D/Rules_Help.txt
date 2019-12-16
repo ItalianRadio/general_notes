@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-16T15:17:15-07:00
+
+====== Rules Help ======
+Created Monday 16 December 2019
+
+Helpful help-y for rules I forget so that it's index search-able
