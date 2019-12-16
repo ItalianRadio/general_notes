@@ -8,13 +8,13 @@ Created Sunday 20 October 2019
 A master of illusion, misdirection, and control, the beguiler subverts their foe's minds, manipulating their perceptions to achieve personal goals.
 
 ===== Beguiler Feature Table =====
-| Rank | Features                                     |
-|------|----------------------------------------------|
-| 1st  | Absorb Magic, Altered Ego, Holy Mantle       |
-| 2nd  | Counterbore, Phantasmal Image, Weave's Feast |
-| 3rd  | Mirror Match                                 |
-| 4th  | Alter Reality, Adephage, Trick of the Light  |
-| 5th  | Chronomancer                                 |
+| Rank | Features                       |
+|------|--------------------------------|
+| 1st  | Absorb Magic, Altered Ego      |
+| 2nd  | Counterbore, Phantasmal Image  |
+| 3rd  | Alter Reality, Mirror Match    |
+| 4th  | Adephage, Trick of the Light   |
+| 5th  | Aphotic Form, Continuum Breach |
 
 
 ===== Divine Path Features =====
@@ -46,26 +46,17 @@ Starting at 1st rank, you can use an action to conjure a clone at your location 
  Once you have used this ability a number of times equal to you beguiler rank you cannot use it again until you have completed a short rest.
  
 
-===== Holy Mantle =====
-At 1st rank, you can use a bonus action to cause all friendly creatures within 30 feet to regain hit points equal to five times the number of clones that you currently have conjured.
-Once you have used this ability you must complete a long rest before you can use it again.
- 
-
 ===== Counterbore =====
 Starting at 2nd rank, you can use a bonus action to shatter a clone that you can see within 60 feet. This deals a number of d8's equal to your beguiler rank as psychic damage to all foes within 15 feet of the clone. After the clone is shattered, it dissipates.
 
 ===== Phantasmal Image =====
 At 2nd rank, you can use an action to conjure a clone in an unoccupied space you can see within 5 feet.
 
-===== Weave's Feast =====
-When you reach 2nd rank, you can use a reaction when a foe you can see within 60 feet casts a spell to regain hit points equal to 4 times your beguiler rank.
-Once you use this ability you must complete a short rest before you may use it again.
+===== Alter Reality =====
+At 3rd rank you can cause your illusions to momentarily become reality. As an action you cause a clone to become more real than usual for a turn. Until the end of this turn your clone may make an Attack action, cast a cantrip, or take the Dash or Dodge actions. If the clone deals damage to a creature on this turn, you may make a Charisma (Deception) check contested by the target's Wisdom (Insight) check. The target makes this check with Disadvantage. If you succeed, the target believes that the clone is the real you.
 
 ===== Mirror Match =====
 At 3rd rank, if a foe causes you to suffer from a condition you can use your reaction to force them to succeed on a Charisma saving throw or suffer the same condition. This ability does not work if the creature has immunity to said condition.
-
-===== Alter Reality =====
-At 4th rank you can cause your illusions to momentarily become reality. As an action you cause a clone to become more real than usual for a turn, it takes your attack action on a creature that you can see and is within range of the clone. If the clone hits the creature, it must succeed on an Wisdom (Insight) check contested by your Charisma (Deception) check to recognize that the clone is not you. It has Disadvantage on its Insight check.
 
 ===== Adephage =====
 Starting at 4th rank, whenever you take bludgeoning, slashing, or piercing damage you can use your reaction to conjure a clone within 10 feet of you.
@@ -74,15 +65,9 @@ Starting at 4th rank, whenever you take bludgeoning, slashing, or piercing damag
 Upon reaching 4th rank, you can use a bonus action to swap places with a clone you can see within 30 feet.
 Once you use this ability a number of times equal to your beguiler rank you must finish a long rest before you can use it again.
 
-===== Chronomancer =====
-Upon reaching rank 5, you gain the title of Chronomancer.
-Wizards around the world will know your name and the more magically inclined races will know your work.
-In addition, you will gain the following abilities: 
+===== Aphotic Form =====
+At 5th rank, your land speed increases by 5 feet, you cannot be slowed by anything, and you cannot be restrained except by grappling and similar physical effects (You cannot be restrained by spells, even those that use force to restrain you like Bigby's hand.)
 
-==== Yondalla's Split ====
-You can use an action to active a continuum split, destroying all the clones that you have conjured. For every clone that you destroyed you gain 1 turn in the continuum split. When you leave the continuum split, your body reverts back to the way that it was before the split. Your health returns to the number it was at before the split and all spells and abilities that you used in the split are not used. If you are knocked unconscious or die during the Continuum Split, at the end you return like nothing happened. You remember dying, but not what comes after.
+===== Continuum Split =====
+Once you reach 5th rank, you may use an action to active a continuum breach, destroying all clones you have conjured. For every clone that you destroyed in this way you gain 1 turn in the continuum breach. When you leave the continuum breach, your body reverts back to the way that it was before the breach. Your health returns to the number it was at before the breach and all spells and abilities that you used in the split are not used. If you are knocked unconscious or die during the Continuum Breach, at the end you return like nothing happened. You remember dying, but not what comes after.
 Once you use this ability you must complete a long rest before you use it again.
-
-==== Innoruuk's Legacy ====
-Your land speed increases by 5 feet, you cannot be slowed by anything, and you cannot be restrained except by grappling and similar physical effects (You cannot be restrained by spells, even those that use force to restrain you like Bigby's hand.)
- 
