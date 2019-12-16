@@ -7,7 +7,7 @@ Created Tuesday 28 May 2019
 
 [[..\Deity Path.pdf|Link to pdf]] v1.0 up-to-date versions will be listed here:
 [[+Assassin]]
-[[+Beguiler]]
+[[+Illusionist]]
 [[+Elementalist]]
 [[+Priest]]
 [[+Necromancer]]

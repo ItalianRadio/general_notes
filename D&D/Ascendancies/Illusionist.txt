@@ -2,12 +2,12 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-10-20T01:35:00-06:00
 
-====== Beguiler ======
+====== Illusionist ======
 Created Sunday 20 October 2019
 
-A master of illusion, misdirection, and control, the beguiler subverts their foe's minds, manipulating their perceptions to achieve personal goals.
+A master of illusion, misdirection, and control, the illusionist subverts their foe's minds, manipulating their perceptions to achieve personal goals.
 
-===== Beguiler Feature Table =====
+===== Illusionist Feature Table =====
 | Rank | Features                       |
 |------|--------------------------------|
 | 1st  | Absorb Magic, Altered Ego      |
@@ -18,11 +18,11 @@ A master of illusion, misdirection, and control, the beguiler subverts their foe
 
 
 ===== Divine Path Features =====
-As a beguiler, you gain the following path features.
+As a illusionist, you gain the following path features.
 
 === Hit Points ===
-**Hit Dice:** 1d8 per beguiler rank
-**Hit Points at Each Rank:** 1d8 (or 5) + your Constitution modifier per beguiler rank
+**Hit Dice:** 1d8 per illusionist rank
+**Hit Points at Each Rank:** 1d8 (or 5) + your Constitution modifier per illusionist rank
 
 === Proficiencies ===
 **Armor:** Light armor, shields
@@ -30,24 +30,23 @@ As a beguiler, you gain the following path features.
 **Skills:** Choose one from Arcana, Deception, Investigation, and Nature
 
 ==== Clones: ====
- A beguiler conjures and uses clones to its advantage. Clones dissipate after being struck by any damage a number of times equal to your beguiler rank. Clones share your statistics. They automatically pass all Constitution, Intelligence, Wisdom, and Charisma saving throws and do not take damage from a passed saving throw. Clones automatically dissipate after 1 minute.
+ An illusionist conjures and uses clones to its advantage. Clones dissipate after being struck by any damage. Clones share your statistics. They automatically pass all Constitution, Intelligence, Wisdom, and Charisma saving throws and do not take damage from a passed saving throw. Clones automatically dissipate after 1 minute.
 If you are not within sight, a clone is indistinguishable from you and would act as you would act. While you can say that they will attack someone, cast a spell, or something else, while they will appear to take that action, they cannot deal damage.
-They can perform no actions other than movement options like jumping or climbing.
-When you are present creatures that know you will innately be able to tell which is you and your closest friends will always be able to tell that your clones are not you. You can never have more clones than you beguiler rank.
+They can perform no actions other than movement options like jumping or climbing unless specified otherwise in an ability.
+When you are present creatures that know you will innately be able to tell which is you and your closest friends will always be able to tell that your clones are not you.
 
 ===== Absorb Magic =====
-Starting when you first become a beguiler you can use an action to cast counterspell as a 3rd level spell. If a spell is successfully countered using this feature you can choose one of the following benefits:
-* Heal for a number of d8's equal to twice your beguiler rank.
-* Regain a spell slot of a spell level equal to or lower than your beguiler rank.
+Starting when you first become an illusionist you can use an action to cast counterspell as a 3rd level spell. If a spell is successfully countered using this feature you can choose one of the following benefits:
+* Heal for a number of d8's equal to twice your illusionist rank.
+* Regain a spell slot of a spell level equal to or lower than your illusionist rank.
 Once you use this ability you must complete a long rest before you can use it again.
 
 ===== Altered Ego =====
 Starting at 1st rank, you can use an action to conjure a clone at your location and teleport up to 15 feet away. Foes that were within 5 feet of you make an Wisdom (Insight) check contested by your Charisma (Deception) check to recognize that the clone is not you.
- Once you have used this ability a number of times equal to you beguiler rank you cannot use it again until you have completed a short rest.
- 
+ Once you have used this ability a number of times equal to your illusionist rank you cannot use it again until you have completed a short rest.
 
 ===== Counterbore =====
-Starting at 2nd rank, you can use a bonus action to shatter a clone that you can see within 60 feet. This deals a number of d8's equal to your beguiler rank as psychic damage to all foes within 15 feet of the clone. After the clone is shattered, it dissipates.
+Starting at 2nd rank, you can use a bonus action to shatter a clone that you can see within 60 feet. This deals a number of d8's equal to your illusionist rank as psychic damage to all foes within 15 feet of the clone. After the clone is shattered, it dissipates.
 
 ===== Phantasmal Image =====
 At 2nd rank, you can use an action to conjure a clone in an unoccupied space you can see within 5 feet.
@@ -63,7 +62,7 @@ Starting at 4th rank, whenever you take bludgeoning, slashing, or piercing damag
 
 ===== Trick of the Light =====
 Upon reaching 4th rank, you can use a bonus action to swap places with a clone you can see within 30 feet.
-Once you use this ability a number of times equal to your beguiler rank you must finish a long rest before you can use it again.
+Once you use this ability a number of times equal to your illusionist rank you must finish a long rest before you can use it again.
 
 ===== Aphotic Form =====
 At 5th rank, your land speed increases by 5 feet, you cannot be slowed by anything, and you cannot be restrained except by grappling and similar physical effects (You cannot be restrained by spells, even those that use force to restrain you like Bigby's hand.)
