@@ -25,11 +25,7 @@ As an elementalist, you gain the following ascendancy features.
 **Hit Points at Each Rank:** 1d8 (or 5) + your Constitution modifier per elementalist rank
 
 === Proficiencies ===
-**Divine Arms:** Warhorn
 **Skills:** Arcana and Religion. If you are already proficient in either skill, you instead gain expertise in said skill.
-
-== Sundial ==
-A warhorn a special type of spell focus. While wielding a warhorn you may add your elementalist rank to the damage of any cantrip that you cast.
 
 ===== Elemental Magic: =====
 For the purpose of this ascendancy the following damage types are inherently elemental: Cold, Fire, Lightning, Thunder.
@@ -49,15 +45,11 @@ When you reach 3rd rank, you can choose a 1st Level Spell that either interacts 
 ===== Elder Elemental Mastery =====
 At 4th rank, you can choose a 2nd Level Spell and a 3rd Level Spell that either interacts with the elements or deals elemental damage. You learn these spells and can cast them using any spellcasting class. (You choose which class when you gain this ability and can only change the class if in the future you gain a level in a spellcasting class. At that point you may change to that class.) Additionally you have 1 more 3rd Level Spell Slot.
 
-===== Tempest =====
- Upon reaching rank 5, you gain the title of Tempest. Magic users around the world will know your name and elementals will fear you on sight.
- In addition, you will gain the following abilities: 
-
-==== Elemental Attunement ====
+===== Elemental Attunement =====
 As a bonus action, you can become attuned to an element.
 While you are attuned to an element you deal bonus damage on any spell that uses that element equal to your Elementalist rank. This attunement lasts until you change it, or until you lose consciousness.
 
-==== Elemental Overload ====
+===== Elemental Overload =====
 As a bonus action, if you are attuned to an element, you overload that element. If an element is overloaded you may not attune to an element until you complete a short rest.
 Overloading causes the following effects:
 **Cold:** Cast mass healing word as a 5th level spell 
