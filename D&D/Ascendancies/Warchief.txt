@@ -8,13 +8,13 @@ Created Sunday 20 October 2019
 With a commanding voice and charismatic presence, the warchief rallies the valiant through inspiration, motivation, and leadership, while also bringing mayhem to their foes through thrown weapons.
 
 ===== Warchief Feature Table =====
-| Rank | Features                                                |
-|------|---------------------------------------------------------|
-| 1st  | Brace Yourself!, Mighty Throw, Vigorous Precision       |
-| 2nd  | Incoming!, Chest Thumper, Empowering Might              |
-| 3rd  | There's Nothing to Fear!, Commanding Presence           |
-| 4th  | Find Their Weaknesses!, Vicious Attack, Mighty Critical |
-| 5th  | Guardian                                                |
+| Rank | Features                                             |
+|------|------------------------------------------------------|
+| 1st  | Mighty Throw, Strong-Arm                             |
+| 2nd  | "Incoming!", Chest Thumper                           |
+| 3rd  | "Find Their Weaknesses!", "There's Nothing to Fear!" |
+| 4th  | Vicious Attack, Mighty Critical                      |
+| 5th  | Battlefield Commander, Anthem of Flame               |
 
 
 ===== Ascendancy Features =====
@@ -27,55 +27,35 @@ As a warchief, you gain the following ascendancy features.
 === Proficiencies ===
 **Armor:** Shields
 **Weapons:** Simple and martial weapons
-**Divine Arms:** Meteor
 **Skills:** Choose one from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
-
-== Meteor ==
-A meteor is a special type of warhammer. A meteor deals 1d12 bludgeoning damage. You can use a free action during your turn to return it to you if you can see it and it is within 120 feet. While wielding a meteor a Guardian becomes more stoic, thinking more before every decision. A foe hit by a meteor must succeed on a Constitution saving throw or have its speed halved until the end of your next turn.
-
-===== Brace Yourself! =====
-Starting when you choose this ascendancy at 1st rank, you can use an action to shout “Brace Yourself” at an ally that can hear you within 30 feet. Until the end of your next turn, they cannot be forced to go prone. Additionally, the first time they are struck by a foe within 5 feet of them, the damage of that attack is reduced by a number equal to your warchief rank times 3. Additionally, if that attack dealt damage to your ally, they may make a melee weapon attack against that foe as a reaction. If they hit, the attack deals bonus damage equal to your warchief rank times 3.
 
 ===== Mighty Throw =====
 Starting as 1st rank, you can use a bonus action to prepare yourself to throw your weapons farther and more accurately than you otherwise feel you could. Your first range increment with thrown weapons are doubled for this turn and you deal an additional weapon die of damage this turn.
-Once you use this ability a number of times equal to your warchief rank, you must complete a short rest before you can use it again.
 
-===== Vigorous Precision =====
-At 1st rank, whenever you score a critical hit, you and all allies within 30 feet of you that can see and hear you regain hit points equal to four times your Paragon rank.
+===== Strong-Arm =====
+Starting when you first become a warchief you gain the ability to draw a weapon as a free action whenever you throw a weapon as part of an attack.
 
-===== Incoming! =====
+===== "Incoming!" =====
 Upon reaching 2nd rank, you can use a bonus action to shout “Incoming” to all allies that can hear you within 30 feet. You and all allies that heard you have a +10 bonus to land speed until the end of your next turn.
-Once you use this ability a number of times equal to your warchief rank, you must complete a short rest before you can use it again.
 
 ===== Chest Thumper =====
 At 2nd rank, whenever you make a thrown weapon attack on a foe within 5 feet of you, you can make a Strength (Athletics) check with a bonus equal to your warchief rank opposed by your foe’s Strength (Athletics) or Dexterity (Acrobatics) check.
-If you win the contest, you may push the foe up to 10 feet away from you.
+If you win the contest, your mighty throw pushes the foe a number of feet equal to 5 * your warchief rank away from you.
 
-===== Empowering Might =====
-Starting at 2nd rank, whenever you score a critical hit, all allies within 30 feet of you that can hear you deal bonus damage on the next weapon attack they make equal to three times your warchief rank.
+===== "Find Their Weaknesses!" =====
+Starting at 3rd rank, you can use a bonus action to shout “Find Their Weaknesses” to an ally (not yourself) within 30 feet. If they heard you, the next time that ally makes a weapon attack, they may reroll all 1’s and 2’s on their damage dice, keeping the result of the new roll.
 
-===== There's Nothing to Fear! =====
+===== "There's Nothing to Fear!" =====
 At 3rd rank, you can use a bonus action to shout “There’s Nothing to Fear” to all allies within 30 feet. You and all allies that heard you have Resistance to bludgeoning, piercing, slashing, and force damage until the end of your next turn.
-Once you use this ability, you cannot use it again until you complete a short or long rest.
-
-===== Commanding Presence =====
-At 3rd rank, whenever you use a shout, (an ability with a '!' at the end of its name) if it effected you and at least 2 other allies you gain temporary hit points equal to your warchief rank.
-
-===== Find Their Weaknesses! =====
-Starting at 4th rank, you can use a bonus action to shout “Find Their Weaknesses” to an ally (not yourself) within 30 feet. If they heard you, the next time that ally makes a weapon attack, they may reroll all 1’s and 2’s on their damage dice, keeping the result of the new roll.
 
 ===== Vicious Attack =====
-Upon reaching 4th rank, you can use a bonus action to cause a thrown weapon you’re holding to become imbued with a violent magic. Until the end of your next turn the first time you hit a foe with that thrown weapon it deals a number of d8’s in slashing damage equal to your warchief rank.
+Upon reaching 4th rank, whenever you use your //Mighty Throw //ability, your thrown weapon attacks deal an additional number of d8's as slashing damage equal to your warchief rank.
 
 ===== Mighty Critical =====
-At 4th rank, your thrown weapon attacks deal a critical strike on a 19. If you already land critical strikes on a 19, instead deal an extra die of weapon damage on a critical strike.
+At 4th rank, your thrown weapon attacks deal a critical strike on a 19. If you already land critical strikes on a 19, instead deal two extra dice of weapon damage on a critical strike.
 
-===== Guardian =====
-Upon reaching rank 5, you gain the title of Guardian. You are feared by all the war-making races. Simply your name will cause the weaker races to bow before your orders.
-In addition, you will gain the following abilities: 
+===== Battlefield Commander =====
+When you reach 5th rank your command of the battlefield is absolute. You can use a shout as a free action on each of your turns.
 
-==== Begone ====
-As an action you make an attack with a thrown weapon. If it hits you deal normal weapon damage in addition to launching your foe a number of feet equal to 5 times your warchief rank.
-
-==== Anthem of Flame ====
-Your attacks with thrown weapons cause foes to become alight with holy flame. You deal bonus radiant damage on all thrown weapon attacks equal to your warchief rank.
+===== Anthem of Flame =====
+At 5th rank, your attacks with thrown weapons cause foes to become alight with holy flame. You deal a bonus 1d8 radiant damage on all thrown weapon attacks.
