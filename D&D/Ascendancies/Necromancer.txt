@@ -8,13 +8,13 @@ Created Sunday 20 October 2019
 Practitioners of the dark arts, necromancers summon minions, wield the power of ritual, and heal themselves with blood magic. Necromancers feed on life force, which they can leverage offensively or use to delay their own demise.
 
 ===== Necromancer Feature Table =====
-| Rank | Features                                                       |
-|------|----------------------------------------------------------------|
-| 1st  | Barbing Hex, Vampiric Touch, Deathly Companion                 |
-| 2nd  | Enfeebling Blood, Touch of Agony, Consume Corpse               |
-| 3rd  | Soul Gathering                                                 |
-| 4th  | Spiteful Spirit, Blood is Power, Deathly Companion Improvement |
-| 5th  | Reaper                                                         |
+| Rank | Features                                       |
+|------|------------------------------------------------|
+| 1st  | Barbing Hex, Vampiric Touch, Deathly Companion |
+| 2nd  | Enfeebling Hex, Touch of Agony                 |
+| 3rd  | Reaper, Spiteful Hex                           |
+| 4th  | Blood is Power, Deathly Companion Improvement  |
+| 5th  | "Your Soul is Mine!", Chilled to the Bone      |
 
 
 ===== Ascendancy Features =====
@@ -29,52 +29,45 @@ As a necromancer, you gain the following ascendancy features.
 **Skills:** Choose one from Acrobatics, Arcana, Athletics, History, Insight, and Religion
 
 ===== Barbing Hex =====
-Beginning at 1st rank, you can use an action to hex a creature within 60 feet. Whenever target creature takes bludgeoning, piercing or slashing damage it takes additional damage from this hex. The hex deals a number of d4’s equal to your necromancer rank.
-Once you use this ability you cannot use it again until you have completed a short rest.
+Beginning at 1st rank, you can use a bonus action to hex a creature within 60 feet. Until the end of your next turn, whenever the target takes bludgeoning, piercing or slashing damage you deal a number of d4's of slashing damage equal to your necromancer rank.
+Once you use this ability you cannot use it again until you have completed a short or long rest.
 
 ===== Vampiric Touch =====
-At 1st rank, you can steal the vitality from a foe that you have struck with an unarmed attack. Once per turn when you deal damage with an unarmed strike you can steal health from that foe, both dealing damage to that foe and healing you for the same amount. The amount of health stolen is equal to your necromancer rank.
+At 1st rank, you can steal the vitality from a foe that you have struck with an unarmed attack. Once per turn when you deal damage with an unarmed strike you can steal health from that foe, both dealing damage to that foe and healing you for the same amount. The amount of health stolen is dealt as necrotic damage equal to a number of d8's equal to your necromancer rank.
+Additionally, you may use a bonus action to make an unarmed attack.
 
 ===== Deathly Companion =====
 Starting at 1st rank, You may spend 10 minutes to summon a flesh golem from the corpses of two or more medium size creatures or one large or larger sized creature. Your flesh golem is described in the **Flesh Golem** block in this section.
 Your flesh golem acts on your initiative as it can only act if you magically command it using a bonus action. A flesh golem may make a single action or bonus action, and move with a single command. A flesh golem has a normal hand with claw-like fingers, a hand that resembles an axe, and a long horn on the top of its head.
 
-===== Enfeebling Blood =====
-Upon reaching 2nd rank, you can use an action to choose a point you can see within 60 feet. All foes within 20 feet of that point must succeed on a Constitution saving throw or suffer from one additional level of Exhaustion.
-Once you use this ability a number of times equal to your necromancer rank you must finish a long rest before you can use it again.
+===== Enfeebling Hex =====
+Upon reaching 2nd rank, victims of your //Barbing Hex// must succeed on a Constitution saving throw or suffer from one additional level of Exhaustion.
+You may use //Barbing Hex// an additional time before resting.
 
 ===== Touch of Agony =====
-Starting at 2nd rank, when you use your **Vampiric Touch** ability for the first time each turn, you may redirect the health you would have gained back towards your foe, dealing radiant damage equal to the health you would have gained.
-If you use this feature to deal damage with your **Vampiric Touch** ability you may use it one additional time this turn.
-
-===== Consume Corpse =====
-At 2nd rank you can use an action to teleport to a corpse of a creature you can see within 30 feet. Upon reaching the corpse you eviscerate it, removing its remaining life energy to sustain you. You gain one of the following benefits: 
-* Heal for a number of d8's equal to twice your necromancer rank.
-* Regain a spell slot of a spell level equal to or lower than your necromancer rank.
-You may use this feature a number of times equal to your necromancer rank. When you use this feature to regain spell slots, you use a number of uses equal to the spell level of the spell slot regained.
+Starting at 2nd rank, when you use your //Vampiric Touch// ability for the first time each turn, you may redirect the health you would have gained back towards your foe, dealing radiant damage equal to the health you would have gained.
 
 ===== Reaper =====
 Starting at 3rd rank, each time a creature within 30 feet of you drops below 0 hit points, you gain temporary hit points equal to your necromancer rank.
 Temporary hit points gained with this feature stack on top of all other temporary hit points gained. This means if you gain temporary hit points before activating this feature you may add temporary hit points from this feature on top of your current temporary hit points, but if you gain temporary hit points from another source while you have temporary hit points from this feature, they do not stack.
 
-===== Spiteful Spirit =====
-When you reach 4th rank you can use your action to place the hex of the Spiteful Spirit on target foe you can see within 60 feet. This hex lasts for 10 minutes. Each time a foe starts its turn within 5 feet of the hexed creature, they must succeed on a Wisdom saving throw or take 4d8 necrotic damage.
-Once you use this ability you must complete a short rest before you can use it again.
+===== Spiteful Hex =====
+When you reach 3rd rank, victims of your //Barbing Hex// hurt their allies simply by being nearby. The victim screams upon receiving the //Hex// and deal psychic damage equal to a number of d8's equal to your necromancer rank to each foe within a number of feet equal to 5 * your necromancer rank.
+You may use //Barbing Hex// an additional time before resting.
 
 ===== Blood is Power =====
 Upon reaching 4th rank you can use an action to trade your life force in exchange for arcane, divine, or martial power.
-When you use this feature, you suffer damage equal to four times your necromancer rank, and you reduce your maximum hit points by an amount equal to that. These lost maximum hit points return once you use your **Consume Corpse** feature and cannot be restored otherwise.
-Additionally, no hit points are regained as part of the restoring of maximum hit points in this way. If you do so you can grant yourself one of the following options: 
+When you use this feature, you suffer damage equal to 4 * your necromancer rank, and you reduce your maximum hit points by an amount equal to that. These lost maximum hit points return once you complete a long rest or are cured by the spell //Heal//. If you do so you can grant yourself one of the following options: 
 * Regain a spell slot with a spell level equal to or lower than your necromancer rank.
-* Regain ki points equal to your necromancer rank.
-* Regain bardic inspiration die equal to your necromancer rank.
-* Regain superiority die equal to your necromancer rank.
+* Regain all ki points.
+* Regain all bardic inspiration dice.
+* Regain all superiority dice.
 * Regain all rage uses.
 You cannot use this ability to gain more of a resource than what you can possibly have.
 
-===== Your Soul is Mine! =====
-While you are wielding a soul edge, as an action, you may shout //“Your Soul is Mine!”// at all creatures within 10 feet of you. You may then make an attack against all creatures within 10 feet that heard you. For every creature that you strike with an attack when using this ability, both you and your Deathly Companion regain hit points equal to your necromancer rank.
+===== "Your Soul is Mine!" =====
+Starting at 5th rank, as an action, you may shout //“Your Soul is Mine!”// at all creatures within 10 feet of you. You may then make a weapon attack against all creatures within 10 feet that heard you. For every creature that you strike with an attack when using this ability, both you and your **Flesh Golem** regain hit points equal to your necromancer rank.
 Once you use this ability you must complete a short rest or consume a corpse before you can use it again.
 
 ===== Chilled to the Bone =====
-You have an aura of frost caused by all the souls that use your body as a conduit to the Underworld. All creatures you choose that start their turn within 10 feet of you have their speed halved and have disadvantage to attack you until the start of their next turn.
+When you reach 5th rank, you gain an aura of frost caused by all the souls that use your body as a conduit to the Underworld. All creatures you choose that start their turn within 10 feet of you have their speed halved and have disadvantage to attack you until the start of their next turn.
