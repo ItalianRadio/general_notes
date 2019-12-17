@@ -5,3 +5,12 @@ Creation-Date: 2019-12-16T15:17:30-07:00
 ====== Armor ======
 Created Monday 16 December 2019
 
+Armor List
+https://docs.google.com/spreadsheets/d/1wCP9cSpOEFp1l709Y7TBfSJlWhlzPmbwM3AFhHcXs08/
+
+Weapon & Armor Properties:
+https://docs.google.com/document/d/1rNg59-jPLE1Q0fyyNl_cRKssx1gpZqu-NkthXshPiBQ/
+
+Weapon & Armor Special Properties:
+https://docs.google.com/document/d/1vUsvLX4klBQouY1oM0Wc-yqy5jC3gwwIQht1sa8dyCk/
+

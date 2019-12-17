@@ -25,7 +25,7 @@ As a necromancer, you gain the following ascendancy features.
 **Hit Points at Each Rank:** 1d8 (or 5) + your Constitution modifier per necromancer rank
 
 === Proficiencies ===
-**Weapons:** Quarterstaffs and unarmed strikes (dealing 1d6 bludgeoning damage if you had no prior proficiency)
+**Weapons:** Quarterstaffs and unarmed strikes (dealing 1d6 bludgeoning damage)
 **Skills:** Choose one from Acrobatics, Arcana, Athletics, History, Insight, and Religion
 
 ===== Barbing Hex =====
