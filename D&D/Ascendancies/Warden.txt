@@ -8,13 +8,13 @@ Created Sunday 20 October 2019
 An agile and wily survivor, the warden specializes in ranged weapon combat, beast mastery, and attunement to nature.
 
 ===== Warden Feature Table =====
-| Rank | Features                                            |
-|------|-----------------------------------------------------|
-| 1st  | Animal Companion, Disrupting Accuracy, Rapid Strike |
-| 2nd  | Maiming Strike, Read the Wind, Seeking Attack       |
-| 3rd  | Tailwind                                            |
-| 4th  | Symbiosis, Heironeous's Arrow, Ehlonna's Strikes    |
-| 5th  | Herald                                              |
+| Rank | Features                                      |
+|------|-----------------------------------------------|
+| 1st  | Animal Companion, Combat Expert, Rapid Strike |
+| 2nd  | Maiming Strike, Read the Wind, Seeking Attack |
+| 3rd  | Assassin's Arrow, Skirmish Navigator          |
+| 4th  | Guerrilla Blow, Symbiosis, Tailwind           |
+| 5th  | You Are Always Prepared, Zephyrite's Blessing |
 
 
 ===== Ascendancy Features =====
@@ -26,60 +26,53 @@ As a warden, you gain the following ascendancy features.
 
 === Proficiencies ===
 **Armor:** Medium armor, shields
-**Divine Arms:** Buckler
 **Skills:** Choose one from Acrobatics, Arcana, Insight, Perception, and Religion
 
-== Buckler ==
-A buckler is a special type of shield. A buckler does not interfere with you wielding two-handed weapons, but it will not allow you to wield two onehanded weapons. You can use a bonus action while wielding it to make a finesse attack that deals 1d6 bludgeoning damage.
-
 ==== Preparations ====
-A Ranger focuses its mind letting it perform shots with unerring accuracy. Using 10 minutes you can focus yourself, focusing your energy, causing your attacks to have further effects. A Preparation lasts until you start a short or long rest, but you can apply a new one during a short or long rest.
+A warden focuses its mind letting it perform shots with unerring accuracy. Using 10 minutes you can focus yourself, focusing your energy, causing your attacks to have further effects. A Preparation lasts until you start a short or long rest, but you can apply a new one during a short or long rest.
 Preparations only apply to ranged weapon attacks or attacks with finesse weapons.
 
 ===== Animal Companion =====
-Starting at 1st rank, you obtain a hawk that you can command as an action. The hawk has the statistics from the Monster Manual. While it is touching you, you can communicate telepathically, but as it cannot speak you communicate more on instinct and feelings rather than through language. Additionally, while it is touching you, it does not have to make saving throws and attacks made against it will target you instead as if by magic. Finally, while it is touching you, you have Advantage on Wisdom (Perception) checks.
-If you fall unconscious it takes to the skies to circle you. If it dies you can perform an hour long ritual to revive it. Doing so does not require its corpse, but if you do not have its corpse, the ritual takes 2 hours instead.
+Starting at 1st rank, you obtain a hawk that you can command as an action. The hawk has the statistics from the Monster Manual. 
+While it is touching you, you can communicate telepathically, but as it cannot speak you communicate more on instinct and feelings rather than through language. Additionally, while it is touching you, it does not have to make saving throws and attacks made against it will target you instead as if by magic. Finally, while it is touching you, you have Advantage on Wisdom (Perception) checks.
+If you fall unconscious it takes to the skies to circle you. If it dies you can perform an hour long ritual to revive it.
 
-===== Disrupting Accuracy =====
-At 1st rank, damage you deal with ranged weapon attacks counts doubly toward your foe’s concentration saving throw damage total
+===== Combat Expert =====
+Beginning when you first become a warden you gain the ability to call your weapons to you. You gain the ability to stow or draw weapons as many times as you like on your turn as a free action.
 
 ===== Rapid Strike =====
-**Preparation.** Upon choosing this path at 1st rank you learn this preparation. Expending this preparation allows you to make a full attack action using your bonus action.
+**Preparation.** Upon choosing this path at 1st rank you learn this preparation. Expending this preparation allows you to make an attack using your bonus action.
 
 ===== Maiming Strike =====
-Starting at 2nd rank, you can use an action to command your hawk to strike at a foe within 30 feet. To do so you roll a finesse attack against the creature using your statistics in place of your hawk’s. You have proficiency with this attack.
-This attack deals 1d10 piercing damage + your Dexterity modifier. If the attack hits, the creature makes a Strength saving throw. If it fails its speed is halved until the start of your next turn.
+Starting at 2nd rank, you can use an action to command your hawk to strike at a foe within 30 feet. This attack has the following bonuses:
+**Your proficiency + your dexterity or wisdom modifier**
+This attack deals 1d10 + your warden rank in piercing damage. If the attack hits a creature of the size Large or smaller, the creature makes a Strength saving throw. If it fails, the creature is knocked prone.
 
 ===== Read the Wind =====
-At 2nd rank, whenever you make a ranged weapon attack, until the end of your next turn, your next melee weapon attack deals additional damage equal to twice your warden rank.
+At 2nd rank, whenever you make a ranged weapon attack, until the end of your next turn, your next melee weapon attack deals an additional 1d12 thunder damage as you gather the wind into your blow.
 
 ===== Seeking Attack =====
 **Preparation.** Upon reaching 2nd rank you learn this preparation. Expending this preparation allows you to cause one attack that missed to hit instead.
- 
 
-===== Tailwind =====
-Starting at 3rd rank, whenever you make a ranged weapon attack and the turn after making a melee weapon attack and vice versa, your land speed increases by 10 feet and your next attack crits on a 19 or 20. This effect expires at the end of your next turn.
+===== Assassin's Arrow =====
+**Preparation.** Upon reaching 3rd rank you learn this preparation. Expending this preparation allows you to cause a ranged weapon attack that you hit with to against a surprised creature to be a critical hit.
+Once you expend this preparation, you may ready another preparation that is not already prepared.
+
+===== Skirmish Navigator =====
+Beginning at 3rd rank, whenever you make a melee attack, you may take the Disengage action as a free action.
+
+===== Guerrilla Blow =====
+**Preparation.** When you reach 4th rank you learn this preparation. You may expend this preparation upon scoring a successful melee attack. When you expend this preparation you may move up to your movement speed an then make a Dexterity (Stealth) check as a free action.
 
 ===== Symbiosis =====
-At 4th rank, while you are touching your hawk your ranged attacks do not have disadvantage in melee. Additionally, when you make a ranged attack in melee, as a bonus action you may have your hawk perform a maiming strike.
+At 4th rank, while you are touching your hawk your ranged attacks do not have disadvantage in melee. Additionally, when you make a ranged attack in melee, as a bonus action you may have your hawk perform a //maiming strike//.
 
-===== Heironeous's Arrow =====
-**Preparation.** Upon reaching 4th rank you learn this preparation. Expending this preparation allows you to cause a ranged weapon attack that you hit with to deal an additional amount of radiant damage equal to twice your Ranger rank.
-Once you expend this preparation, you may instantly ready a preparation that is not this one.
+===== Tailwind =====
+Starting at 4th rank, whenever you make a ranged weapon attack and the turn after making a melee weapon attack and vice versa, your land speed increases by 10 feet and your next attack crits on a 19 or 20. This effect expires at the end of your next turn.
 
-===== Ehlonna's Strikes =====
-Starting at 4th rank, whenever you deal damage with a melee finesse weapon, you can convert the damage to cold, fire, thunder, piercing, lightning, or acid damage. Additionally, whenever you critically hit a foe with a melee finesse weapon you deal an extra die of weapon damage.
+===== You Are Always Prepared =====
+Starting at 5th rank you can prepare all your known preparations at once, expending them all separately.
 
-===== Herald =====
- Upon reaching rank 5, you gain the title of Herald. The denizens of the fae and forest revere you as their protector and will rise to your call for aid.
- In addition, you will gain the following
- abilities:
-
-==== Legendary Dragon Stance ====
-As an action, you can invoke the Legendary Dragon Stance for 1 minute. While in the Legendary Dragon Stance you have immunity to lightning, thunder, and radiant damage.
-Additionally, while in the Legendary Dragon Stance your ranged weapon attacks deal an additional 4d6 lightning damage and if you do not make a ranged weapon attack on your turn, at the end of your turn all creatures you choose within a 5 foot radius circle centered on you must succeed on a Dexterity saving throw or suffer 2d6 lightning damage.
-Once you use this ability you must complete a long rest before you can use it again.
-
-==== Zephyrite's Blessing ====
- On your turn as a free action you can choose one creature within 30 feet. Until the start of your next turn that creature can fly. Unless you choose yourself as the target, this flying movement must end with that creature touching the ground.
+===== Zephyrite's Blessing =====
+At 5th rank, on your turn as a free action you can choose one creature within 30 feet. Until the start of your next turn that creature can fly. Unless you choose yourself as the target, this flying movement must end with that creature touching the ground, if you do end your turn not touching the ground, you must choose yourself with the next use of this ability.
  
