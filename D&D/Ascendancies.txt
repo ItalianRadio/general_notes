@@ -15,11 +15,8 @@ Created Tuesday 28 May 2019
 [[+Warchief]]
 [[+Warden]]
 
-===== Notes about Path vs Level =====
+===== Notes about Rank vs Level =====
 While a path does grant you hit die and hit points, it does not grant you effective character level. You may not 'multi-path'. Once you select a path, you must follow it to its conclusion.
 
 ===== Difficulty Class =====
-Difficulty class for abilities set by path features is decided by: 8 + proficiency + your path rank.
-
-===== Achieving the Divine =====
-To become on of the Divine you must first start at the bottom. To become a demigod you must acquire a conduit. A conduit is an artifact with which you can kill those with the divine spark and use to funnel the spark into your soul. The more divine spark you collect the farther down your divine path you progress and the higher deity rank you will attain.
+Difficulty class for abilities set by path features is decided by: 8 + proficiency + your ascendancy rank.

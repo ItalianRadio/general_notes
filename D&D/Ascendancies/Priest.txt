@@ -8,13 +8,13 @@ Created Sunday 20 October 2019
 The servant of divine spirits, the priest uses prayer to protect and restore the well-being of companions as well as smiting down their foes.
 
 ===== Priest Feature Table =====
-| Rank | Features                                                       |
-|------|----------------------------------------------------------------|
-| 1st  | Life's Kiss, St. Cuthbert's Favor, Zealot's Speed              |
-| 2nd  | Protective Spirit, St. Cuthbert's Shield, Symbol of Protection |
-| 3rd  | Healer's Boon                                                  |
-| 4th  | Boon Signet, Pelor's Protection, Symbolic Power                |
-| 5th  | Dragonhunter                                                   |
+| Rank | Features                             |
+|------|--------------------------------------|
+| 1st  | Kiss of Life, Zealot's Speed         |
+| 2nd  | Angelic Mantra, Symbol of Protection |
+| 3rd  | Healing Mastery, Runic Symbols       |
+| 4th  | Circle of Healing, Protective Spirit |
+| 5th  | Healer's Boon, Master of Symbols     |
 
 
 ===== Ascendancy Features =====
@@ -26,58 +26,41 @@ As a priest, you gain the following ascendancy features.
 
 === Proficiencies ===
 **Armor:** Light armor
-**Weapons: **Simple weapons
-**Divine Arms:** Impaler
 **Skills:** Choose one from History, Insight, Medicine, Persuasion, and Religion 
-**Languages:** Draconic
+**Languages:** Celestial
 
-== Impaler ==
-An impaler is a special type of spear that deals 1d10 piercing damage and has a range of 30/120. Additionally, as a free action, you are able to recall any impaler you have thrown and can see, making it return to your hand instantly. Finally, you may use your spellcasting ability as the modifier for this weapon so long as you have the ability to heal using your spellcasting ability.
-
-===== Life's Kiss =====
-Starting when you choose this path, you can use an action to kiss target creature. It regains hit points equal to 5 times your priest rank.
-Once you have used this feature a number of times equal to your priest rank, you must complete a long rest to use it again.
-
-===== St. Cuthbert's Favor =====
-At 1st rank, whenever you deal radiant damage, you add your priest rank to that damage.
+===== Kiss of Life =====
+Your blessed kiss can heal wounds. You have a pool of Healing power that replenishes when you take a Long Rest. With that pool, you can restore a total number of Hit Points equal to your Priest Rank * 5.
+As an action, you can kiss a creature and draw power from the pool to restore a number of Hit Points to that creature, up to the maximum amount remaining in your pool.
+Alternatively, you can expend 5 Hit Points from your pool of Healing to cure the target of one disease or neutralize one poison affecting it. You can cure multiple Diseases and neutralize multiple Poisons with a single use of Kiss of Life expending Hit Points separately for each one.
 
 ===== Zealot's Speed =====
-Starting at 1st rank, whenever you are not at max health, increase your movement speed by 10.
+Starting at 1st rank, whenever you cause a creature to regain hit points, your movement speed increases by 10 feet for each creature you healed until the end of your turn. 
+This effect stacks.
 
-===== Protective Spirit =====
-Starting at 2nd rank, you can use an action to place a protective spirit on target ally for until the end of your next turn. While the spirit is in place the ally has resistance to all damage.
-
-===== St. Cuthbert's Shield =====
-Upon reaching 2nd rank, you can use an action to place St. Cuthbert's Shield on target ally for 10 minutes. Whenever an ally being guarded by the shield is attacked and the attacker is within 5 feet, the shield deals 1d8 radiant damage to the attacker. Additionally, after the attack is concluded the attacker must make a successful Constitution saving throw or be knocked prone by the shield exploding into light. (Make sure to apply St. Cuthbert's Favor to the damage dealt by this ability)
-Once you use this ability you must complete a short rest before you can use it again.
+===== Angelic Mantra =====
+Once you reach 2nd rank, you have become so proficient in healing that you can cause your spells to restore more than the normal amount of vitality. Whenever you cause a creature to regain hit points you can choose to restore the maximum number of hit points. You can use this ability a number of times equal to your Priest rank before you need to complete a long rest to use it again.
 
 ===== Symbol of Protection =====
 At 2nd rank, you can use an action to smash a radiant symbol into the ground that protects your allies. This symbol has a radius of effect equal to 5 times your priest rank in feet.
 While you or any of your allies are in the symbol, you have resistance to piercing, bludgeoning and slashing damage.
 Once you use this ability you must complete a long rest before you can use it again.
 
+===== Healing Mastery =====
+At 3rd rank, you may choose a 1st-level spell that you know that can cause another creature to regain hit points. You may cast that spell without using a spell slot or using material components.
+
+===== Runic Symbols =====
+When you reach 3rd rank, you begin to integrate your knowledge of the ancient healing runes into your //Symbol of Protection//. Foes consider your //Symbol of Protection// to be difficult terrain and allies that start their turn standing on your //Symbol// have an additional 10 feet of movement speed until the end of their turn.
+
+===== Circle of Healing =====
+When you reach 4th rank, your //Symbol// gains the ability to spread out the healing spells that you cast. Whenever you cast a spell targeting a creature standing on your //Symbol// that causes that creature to regain hit points or gain temporary hit points, you may cause any number of other creatures also standing on your //Symbol// to get regain an equal number of hit points or temporary hit points.
+
+===== Protective Spirit =====
+Starting at 4th rank, you can use an action to place a protective spirit on target ally within 120 feet until the end of your next turn. While the spirit is in place the ally has resistance to all damage.
+
 ===== Healer's Boon =====
-At 3rd rank, you can use an action to place the healer's boon on yourself for 10 minutes. While you have the healer's boon on you you can use any spell or ability that would take an action to use will instead require a bonus action.
-Once you use this ability you must complete a long rest before you can use it again.
+At 5th rank, you can use an action to place the healer's boon on yourself for 10 minutes. While you have the healer's boon on you, you can use any spell or ability that targets an ally as a bonus action instead of an action. Additionally, if you cast a spell in this way, you may cast another spell that uses an action that is not a cantrip so long as it does not target an ally.
+Once you use this ability you must complete a long rest before you can use it again.	
 
-===== Boon Signet =====
-Once you reach 4th rank, you can use a bonus action to place the boon signet upon yourself until the end of your next turn.
-While you have the boon signet upon you the next spell or ability you use that causes a creature to regain hit points will cause it to heal for an additional amount equal to twice your priest rank.
-
-===== Pelor's Protection =====
-At 4th rank, you may choose 2 first level spells that heal you or another target creature. You can cast those spells as 2nd level spells without expending a spell slot.
-
-===== Symbolic Power =====
-Upon reaching 4th rank, enemies standing in your symbol of protection take your priest rank in radiant damage at the start of their turn or upon entering your symbol.
-Additionally, you can use your symbol of protection a number of times equal to your priest rank before you must complete a long rest.
-
-===== Dragonhunter =====
-Upon reaching rank 5, you gain the title of Dragonhunter. All creatures that natively speak Draconic fear you, unrationally even.
-In addition, you will gain the following abilities: 
-
-==== Dragon's Maw ====
-As an action you throw a spear of light at a location on the ground within 120 feet. All enemies within 30 feet of your of the spear must succeed on a Wisdom saving throw or be pulled in towards it, have their speed halved and take radiant damage equal to 5 times the number of enemies in range.
-Once you use this ability, you must complete a long rest before you can use it again.
-
-==== Puncturing Blow ====
-Whenever you make an attack with your impaler inside the first range increment (30 feet), you make an attack against every enemy that’s in that line. In other words, every time you attack, draw a line. You may make an attack against everyone in that line.
+===== Master of Symbols =====
+Upon reaching 5th rank, you have mastered your //Symbol//, gaining the strength of those that created them. Allies you choose within your //Symbol// gain resistance to all damage while standing within your //Symbol//.

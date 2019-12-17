@@ -27,33 +27,33 @@ As an elementalist, you gain the following ascendancy features.
 === Proficiencies ===
 **Skills:** Arcana and Religion. If you are already proficient in either skill, you instead gain expertise in said skill.
 
-===== Elemental Magic: =====
-For the purpose of this ascendancy the following damage types are inherently elemental: Cold, Fire, Lightning, Thunder.
-Additionally, there is Earth (which will deal bludgeoning most of the time). If you are confused if a spell is elemental or what element it is, ask your DM.
+==== Elemental Magic: ====
+For the purpose of this ascendancy the following damage types are inherently elemental: Cold, Fire, Lightning, Thunder. Additionally, there is Earth (which will deal bludgeoning most of the time). If you are confused if a spell is elemental or what element it is, ask your DM.
 
 ===== Elemental Mastery =====
-Starting when you become an elementalist, you can choose a Cantrip and a 1st Level Spell that either interacts with the elements or deals elemental damage. You learn these spells and can cast them using any spellcasting class.
-Additionally, you have an extra 1st Level Spell Slot.
+Starting when you become an elementalist, you can choose a Cantrip, 1st, and 2nd Level Spell that either interacts with the elements or deals elemental damage. You learn these spells and can cast them using any spellcasting class.
+Additionally, you have an extra 1st and 2nd Level Spell Slot.
 
 ===== Greater Elemental Mastery =====
-At 2nd rank, you can choose a 1st Level Spell and a 2nd Level Spell that either interacts with the elements or deals elemental damage. You learn these spells and can cast them using any spellcasting class.
-Additionally, you have an extra 2nd Level Spell Slot.
+At 2nd rank, you can choose a 2nd, 3rd, and 4th Level Spell that either interacts with the elements or deals elemental damage. You learn these spells and can cast them using any spellcasting class.
+Additionally, you have an extra 3rd and 4th Level Spell Slot.
 
 ===== Energy Storage =====
-When you reach 3rd rank, you can choose a 1st Level Spell that either interacts with the elements or deals elemental damage and that you can cast. You can cast that spell a number of times equal to your elementalist rank without expending Spell Slots
+When you reach 3rd rank, you can choose a 1st Level Spell that either interacts with the elements or deals elemental damage and that you can cast. You can cast this spell without using a Spell Slot.
 
 ===== Elder Elemental Mastery =====
-At 4th rank, you can choose a 2nd Level Spell and a 3rd Level Spell that either interacts with the elements or deals elemental damage. You learn these spells and can cast them using any spellcasting class. (You choose which class when you gain this ability and can only change the class if in the future you gain a level in a spellcasting class. At that point you may change to that class.) Additionally you have 1 more 3rd Level Spell Slot.
+At 4th rank, you can choose a 3rd, 4th, and 5th Level Spell that either interacts with the elements or deals elemental damage. You learn these spells and can cast them using any spellcasting class. (You choose which class when you gain this ability and can only change the class if in the future you gain a level in a spellcasting class. At that point you may change to that class.) 
+Additionally you have an extra 5th Level Spell Slot.
 
 ===== Elemental Attunement =====
-As a bonus action, you can become attuned to an element.
+At 5th rank you are more aware of the magic that permeates the world. As a bonus action, you can become attuned to an element.
 While you are attuned to an element you deal bonus damage on any spell that uses that element equal to your Elementalist rank. This attunement lasts until you change it, or until you lose consciousness.
 
 ===== Elemental Overload =====
-As a bonus action, if you are attuned to an element, you overload that element. If an element is overloaded you may not attune to an element until you complete a short rest.
+When you reach 5th rank, as a bonus action, if you are attuned to an element, you overload that element. If an element is overloaded you may not attune to an element until you complete a short rest.
 Overloading causes the following effects:
-**Cold:** Cast mass healing word as a 5th level spell 
-**Fire:** Cast fireball as a 5th level spell
-**Lightning:** Cast lightning bolt as a 5th level spell 
-**Thunder:** Cast destructive wave as a 5th level spell 
-**Earth:** Cast malestrom as a 5th level spell 
+**Cold:** Cast //mass healing word// as a 5th level spell 
+**Fire:** Cast //fireball// as a 5th level spell
+**Lightning:** Cast //lightning bolt// as a 5th level spell 
+**Thunder:** Cast //destructive wave// as a 5th level spell 
+**Earth:** Cast //malestrom// as a 5th level spell 
