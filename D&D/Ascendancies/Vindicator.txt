@@ -8,13 +8,13 @@ Created Sunday 20 October 2019
 Bolstered by the blessings of the gods, these holy warriors reap the benefits of the blessings from the Gods. With a large enough weapon, the vindicator can unleash a whirlwind of destruction.
 
 ===== Vindicator Feature Table =====
-| Rank | Features                                          |
-|------|---------------------------------------------------|
-| 1st  | Pious Upheaval, Eremite's Slash, Heaven's Defense |
-| 2nd  | Aura of Thorns, Twin Moon Sweep, Zealot's Embrace |
-| 3rd  | Heart of Fury                                     |
-| 4th  | Dust Cloak, Chilling Victory, Heaven's Embrace    |
-| 5th  | Zealot                                            |
+| Rank | Features                           |
+|------|------------------------------------|
+| 1st  | Eremite's Slash, Heaven's Defense  |
+| 2nd  | Twin Moon Sweep, Zealot's Embrace  |
+| 3rd  | Heart of Fury                      |
+| 4th  | Chilling Victory, Heaven's Embrace |
+| 5th  | Zealot Avatar                      |
 
 
 ===== Ascendancy Features =====
@@ -27,16 +27,7 @@ As a vindicator, you gain the following ascendancy features.
 === Proficiencies ===
 **Armor:** All armor
 **Weapons: **Simple and martial weapons
-**Divine Arms:** Sundial
 **Skills:** Choose one from Arcana, Deception, Investigation, and Nature
-
-== Hellgrasp ==
-A hellgrasp is a special type of scythe. A hellgrasp shares properties with a scythe, but with changed damage die, dealing 1d10, versatile 1d12 damage of either slashing or piercing damage. Additionally, whenever you hit a foe with an attack the hellgrasp deals its weapon damage to foes that are both within 5 feet of both you and the foe struck.
-
-===== Pious Upheaval =====
-Starting at 1st rank, while wearing armor you can use an action to allow the Gods to remove damage you have taken.
-You heal for a number equal to 5 times your vindicator rank.
-Once you use this ability you cannot use it again until you have completed a short rest.
 
 ===== Eremite's Slash =====
 At 1st rank, if you drop a foe below 0 hit points with a melee weapon wielded in two hands, you can make an attack on a foe that is both within your reach and within 5 feet of the foe you have just reduced below 0 hit points as a free action.
@@ -45,12 +36,9 @@ At 1st rank, if you drop a foe below 0 hit points with a melee weapon wielded in
 Upon choosing this path at 1st rank, the first time you would drop below 0 hit points you instead drop to 1 hit point.
 Once this ability has triggered, it cannot be used again until you complete a short rest.
 
-===== Aura of Thorns =====
-Starting at 2nd rank, While wearing armor your enemies will break themselves upon your body. Whenever you are hit with a melee attack the attacker takes piercing damage equal to your vindicator rank.
-
 ===== Twin Moon Sweep =====
-Beginning at 2nd rank, while you are wielding a melee weapon in two hands, you may use an action to attack each enemy within 5 feet of you. For each foe hit with this ability, you regain hit points equal to your vindicator rank.
-Once you use this ability you cannot use it again until you complete a short rest.
+Beginning at 2nd rank, while you are wielding a melee weapon in two hands, you may use an action to attack each enemy within the reach of your weapon. For each foe hit with this ability, you regain hit points equal to your vindicator rank.
+Once you use this ability you cannot use it again until you complete a long or short rest.
 
 ===== Zealot's Embrace =====
 At 2nd rank, you can use an action to send a wave of immobilization in a line 5 feet wide from your position. The wave is a number of feet long equal to 5 times your vindicator rank. Creatures struck by this wave must succeed a Constitution saving throw or all attacks against them will have advantage and their movement speed will be set to 0 until the end of your next turn.
@@ -60,32 +48,12 @@ Once you use this ability you cannot use it again until you complete a short or 
 Starting at 3rd rank, you can use a bonus action to enter a zealous state of mind for 1 minute. While you are in this state you can use your bonus action to make an additional attack with a weapon you are wielding in two hands if you used your action to attack.
 Once you use this ability you cannot use it again until you complete a long rest.
 
-===== Dust Cloak =====
-Starting at 4th rank, while you are wearing armor you can use an action to transform it into a dust cloak. Upon activation your armor releases rocks at all creatures within 10 feet. You can make a spell attack against all creatures within range. The bonus for this spell attack is proficiency + your highest attribute modifier. Upon a hit this attack deals a number of d8’s in bludgeoning damage equal to your vindicator rank. At the start of your next turn these rocks explode and all creatures within 20 feet of you must make a Constitution saving throw or be blinded for 1 minute. An effected creature can repeat this saving throw at the end of each of their turns. Creatures with at least 4 Intelligence recognize that the floating rocks will cause them harm on the next turn and are likely to flee.
-
 ===== Chilling Victory =====
 At 4th rank, while wielding a weapon with two hands, your weapon attacks deal bonus cold damage equal to your vindicator rank.
 
 ===== Heaven's Shield =====
 Additionally at 4th level, you can use a bonus action to surround you and all allies within 10 feet in heaven’s shield, granting all affected creatures a shield bonus to AC until the start of your next turn. This bonus does not affect creatures already wielding a shield, nor does it stack upon itself or similar effects.
 
-===== Zealot =====
-Upon reaching rank 5, you gain the title of Zealot. You are a defender of the people and they will recognize that. The layman will do anything for their hero. Finally, those that worship a god that you do will immediately recognize you and offer assistance.
-In addition, you will gain the following abilities:
-
-==== Avatar ====
- A Zealot can allow the Gods to work through them, allowing them to become a conduit for the heavens. As an action you can assume the form of a God’s avatar. While you are in an avatar state, you resist a type of damage, your attacks that would deal some form of physical damage (piercing, slashing, and bludgeoning) now deal an additional 1d12 of a second type of damage, and foes that end their turn within 5 feet of you take damage of the second type equal to your vindicator rank. An avatar lasts until you fall unconscious and changes your appearance entirely, but does nothing to change your demeanor. You can assume the following avatars where the first type is the damage resisted, and the second type is the damage dealt:
-
-=== Zealot Avatar States ===
-| Avatar    | Resistance          | Damage Type   |
-|-----------|---------------------|---------------|
-| War       | Fire                | Fire          |
-| Light     | Radiant             | Radiant       |
-| Death     | Poison & Acid       | Poison & Acid |
-| Deception | Psychic             | Force         |
-| Wilds     | Lightning & Thunder | Poison        |
-| Lies      | Cold                | Acid          |
-| Hell      | Necrotic            | Necrotic      |
-| Truth     | Force               | Psychic       |
-
+===== Avatar =====
+ At 5th rank a vindicator can allow the Gods to work through them, allowing them to become a conduit for the heavens. As an action you can assume the form of a God’s avatar. While you are in an avatar state, you resist a type of damage, your attacks that would deal some form of physical damage (piercing, slashing, and bludgeoning) now deal an additional 1d12 of a second type of damage. An avatar lasts until you fall unconscious and changes your appearance entirely, but does nothing to change your demeanor. You may choose two damage types to gain resistance to when you assume the avatar state.
  
