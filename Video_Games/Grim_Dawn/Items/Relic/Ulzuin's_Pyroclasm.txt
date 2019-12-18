@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T15:52:25-07:00
+
+====== Ulzuin's Pyroclasm ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+1 Ancient Heart
+9 Blood of Ch'thon
+2 Manticore Eye
+5 Tainted Brain Matter
+1 Blesssed Whetstone
+1 Bristly Fur
+1 Chains of Oleron
+3 Chipped Claw
+1 Cracked Lodestone
+1 Dense Fur
+1 Devil-Touched Ammo
+1 Enchanted Flint
+2 Flintcore Bolts
+1 Focusing Prism
+3 Polished Emerald
+1 Roiling Blood
+3 Rigid Shell
+4 Scavenged Plating
+4 Searing Ember
+3 Serrated Spike
+1 Unholy Inscription
+1 Vicious Jawbone
+
+__Actual Components List:__
+3 Blood of Ch'thon
+1 Flintcore Bolts
+1 Focusing Prism
+[[Relic:Desolation]]
+[[Relic:Inferno]]
+[[Relic:Slaughter]]

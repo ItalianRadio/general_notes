@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T14:47:56-07:00
+
+====== Scourge ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+**Troll Bonecrusher**
+3 Ancient Heart
+5 Blood of Ch'thon
+2 Manticore Eye
+6 Tainted Brain Matter
+1 Black Tallow
+1 Bloody-Whetstone
+2 Chilled Steel
+4 Chipped Claw
+1 Consecreated Wrappings
+1 Deathchill Bolts
+2 Frozen Heart
+1 Polished Emerald
+1 Mark of Dreeg
+3 Molten Skin
+1 Mutagenic Ichor
+2 Polished Emerald
+1 Resilient Plating
+1 Restless Remains
+2 Roiling Blood
+3 Scavenged Plating
+1 Searing Ember
+2 Serrated Spike
+1 Silvercore Bolts
+1 Soul Shard
+1 Void-Touched Ammo
+
+__Actual Components List:__
+3 Tainted Brain Matter
+1 Black Tallow
+1 Restless Remains
+[[Relic:Blight]]
+[[Relic:Deathchill]]
+[[Relic:Ruination]]

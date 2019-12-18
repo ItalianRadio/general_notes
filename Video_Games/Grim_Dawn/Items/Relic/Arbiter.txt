@@ -8,11 +8,11 @@ Created Wednesday 18 December 2019
 __Total Components List:__
 3 Ancient Heart
 2 Tainted Brain Matter
+1 Ballistic Plating
+1 Battered Shell
 2 Chilled Steel
 1 Chipped Claw
 2 Cracked Lodestone
-1 Ballistic Plating
-1 Battered Shell
 1 Hallowed Ground
 1 Leathery Hide
 1 Polished Emerald

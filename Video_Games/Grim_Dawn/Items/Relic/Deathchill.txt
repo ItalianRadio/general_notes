@@ -22,7 +22,6 @@ __Total Components List:__
 1 Silvercore Bolts
 1 Soul Shard
 
-
 __Actual Components List:__
 2 Manticore Eye
 1 Deathchill Bolts

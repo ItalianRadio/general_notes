@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T14:44:57-07:00
+
+====== A Relic Template ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+
+
+
+
+__Actual Components List:__
