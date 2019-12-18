@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T12:02:58-07:00
+
+====== Bladesdancer's Talisman ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+**Troll Bonecrusher**
+2 Manticore Eye
+2 Tainted Brain Matter
+1 Blessed Steel
+1 Bloody Whetstone
+3 Chipped Claw
+2 Polished Emerald
+1 Resilient Plating
+2 Roiling Blood
+1 Scavenged Plating
+1 Serrated Spike
+
+__Actual Components List:__
+2 Manticore Eye
+1 Blessed Steel
+1 Bloody Whetstone
+1 Roiling Blood
+[[Relic:Bladesworn_Talisman]]
+[[Relic:Mistborn_Talisman]]
+[[Relic:Ruination]]
