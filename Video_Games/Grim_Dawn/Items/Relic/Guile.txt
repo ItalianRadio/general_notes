@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T11:56:52-07:00
+
+====== Guile ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+1 Ancient Heart
+1 Chipped Claw
+1 Roiling Blood
+1 Scavenged Plating
