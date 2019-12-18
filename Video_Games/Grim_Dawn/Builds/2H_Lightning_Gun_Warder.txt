@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-06-07T13:25:55-06:00
 
-====== 2H Lightning GUN! - Warder ======
+====== 2H Lightning Gun Warder ======
 Created Friday 07 June 2019
 
 https://www.grimtools.com/calc/4ZDzKq12

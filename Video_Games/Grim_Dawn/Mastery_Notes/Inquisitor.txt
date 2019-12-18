@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-06-26T10:12:49-06:00
-
-====== Inquisitor ======
-Created Wednesday 26 June 2019
-
-Dual wielding ranged weapons I think?
