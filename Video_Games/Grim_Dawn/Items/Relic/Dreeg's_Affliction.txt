@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T16:21:46-07:00
+
+====== Dreeg's Affliction ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+**Troll Bonecrusher**
+5 Ancient Heart
+13 Blood of Ch'thon
+2 Manticore Eye
+4 Tainted Brain Matter
+1 Black Tallow
+1 Blood of Ch'thon
+1 Bloody-Whetstone
+2 Chilled Steel
+6 Chipped Claw
+2 Consecreated Wrappings
+1 Cracked Lodestone
+1 Deathchill Bolts
+1 Dense Fur
+2 Frozen Heart
+1 Kilrian's Shattered Soul
+2 Mark of Dreeg
+4 Molten Skin
+2 Mutagenic Ichor
+4 Polished Emerald
+1 Resilient Plating
+3 Roiling Blood
+1 Rotten Heart
+6 Scavenged Plating
+2 Searing Ember
+2 Serrated Spike
+1 Silvercore Bolts
+1 Soul Shard
+1 Venom-Tipped Ammo
+1 Void-Touched Ammo
+
+__Actual Components List:__
+3 Blood of Ch'thon
+1 Mark of Dreeg
+[[Relic:Calamity]]
+[[Relic:Deathchill]]
+[[Relic:Malediction]]

@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T16:11:43-07:00
+
+====== Belogthian's Carnage ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+**Troll Bonecrusher**
+2 Ancient Heart
+5 Blood of Ch'thon
+6 Manticore Eye
+9 Tainted Brain Matter
+1 Ancient Armor Plate
+1 Attuned Lodestone
+2 Battered Shell
+1 Bloody Whetstone
+3 Bristly Fur
+3 Chilled Steel
+4 Chipped Claw
+4 Cracked Lodestone
+1 Deathchill Bolts
+2 Frozen Heart
+1 Mark of Illusions
+1 Oleron's Blood
+4 Polished Emerald
+2 Purified Salt
+1 Reinforced Shell
+4 Resilient Plating
+1 Roiling Blood
+2 Scavenged Plating
+5 Searing Ember
+1 Serrated Shell
+1 Serrated Spike
+1 Spined Carapace
+1 Vicious Jawbone
+
+__Actual Components List:__
+3 Manticore Eye
+1 Bloody Whetstone
+[[Relic:Bladesworn_Talisman]]
+[[Relic:Juggernaut]]
+[[Relic:Nemesis]]

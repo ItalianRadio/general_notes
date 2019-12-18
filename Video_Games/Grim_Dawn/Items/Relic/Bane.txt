@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T16:08:03-07:00
+
+====== Bane ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+**Troll Bonecrusher**
+3 Ancient Heart
+11 Blood of Ch'thon
+3 Manticore Eye
+9 Tainted Brain Matter
+1 Bloody-Whetstone
+1 Bristly Fur
+3 Chilled Steel
+6 Chipped Claw
+2 Cracked Lodestone
+1 Consecreated Wrappings
+1 Dense Fur
+2 Devil-Touched Ammo
+2 Enchanted Flint
+2 Flintcore Bolts
+1 Focusing Prism
+3 Frozen Heart
+1 Hell's Bane Ammo
+2 Molten Skin
+5 Polished Emerald
+1 Resilient Plating
+2 Rigid Shell
+1 Roiling Blood
+4 Scavenged Plating
+6 Searing Ember
+2 Serrated Spike
+1 Unholy Inscription
+1 Void-Touched Ammo
+
+__Actual Components List:__
+3 Blood of Ch'thon
+[[Relic:Conflagration]]
+[[Relic:Eye_of_the_Storm]]
+[[Relic:Fortitude]]
+[[Relic:Glacier]]

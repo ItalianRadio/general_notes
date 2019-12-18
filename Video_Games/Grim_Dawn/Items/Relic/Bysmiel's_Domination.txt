@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T16:14:30-07:00
+
+====== Bysmiel's Domination ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+**2** **Troll Bonecrusher**
+4 Ancient Heart
+10 Blood of Ch'thon
+4 Manticore Eye
+6 Tainted Brain Matter
+1 Bindings of Bysmiel
+1 Black Tallow
+1 Bloody-Whetstone
+1 Bristly Fur
+2 Chilled Steel
+6 Chipped Claw
+1 Consecreated Wrappings
+1 Deathchill Bolts
+1 Dread Skull
+2 Frozen Heart
+1 Polished Emerald
+1 Mark of Dreeg
+1 Mark of the Traveler
+3 Molten Skin
+1 Mutagenic Ichor
+2 Polished Emerald
+1 Resilient Plating
+1 Restless Remains
+1 Rigid Shell
+5 Roiling Blood
+6 Scavenged Plating
+3 Searing Ember
+4 Serrated Spike
+1 Silvercore Bolts
+1 Soul Shard
+1 Vitriolic Gallstone
+1 Void-Touched Ammo
+
+__Actual Components List:__
+3 Blood of Ch'thon
+1 Bindings of Bysmiel
+[[Relic:Guile]]
+[[Relic:Savage]]
+[[Relic:Scourge]]
