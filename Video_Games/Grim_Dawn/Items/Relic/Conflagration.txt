@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T12:06:01-07:00
+
+====== Conflagration ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+3 Blood of Ch'thon
+2 Tainted Brain Matter
+2 Chipped Claw
+1 Devil-Touched Ammo
+1 Enchanted Flint
+1 Flintcore Bolts
+2 Polished Emerald
+1 Rigid Shell
+1 Scavenged Plating
+2 Searing Ember
+1 Serrated Spike
+
+__Actual Components List:__
+2 Blood of Ch'thon
+1 Devil-Touched Ammo
+1 Enchanted Flint
+1 Flintcore Bolts
+[[Relic:Calamity]]
+[[Relic:Inferno]]
+[[Relic:Ruination]]
