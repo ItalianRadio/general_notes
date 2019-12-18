@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T12:34:47-07:00
+
+====== Ancestor ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+**2 Spectral Longsword** 
+**Troll Bonecrusher**
+3 Ancient Heart
+1 Blood of Ch'thon
+1 Tainted Brain Matter
+1 Aether Soul
+1 Aethersteel Bolts
+2 Chilled Steel
+1 Chipped Claw
+1 Cracked Lodestone
+1 Frozen Heart
+1 Haunted Steel
+1 Mark of Mogdrogen
+2 Molten Skin
+1 Mutagenic Ichor
+1 Roiling Blood
+2 Scavenged Plating
+1 Searing Ember
+
+__Actual Components List:__
+2 Ancient Heart
+1 Mark of Mogdrogen
+[[Relic:Haunt]]
+[[Relic:Mistborn_Talisman]]

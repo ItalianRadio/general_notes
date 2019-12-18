@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T12:41:51-07:00
+
+====== Zeal ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+**Troll Bonecrusher**
+2 Ancient Heart
+2 Blood of Ch'thon
+2 Manticore Eye
+1 Tainted Brain Matter
+1 Bloody Whetstone
+1 Bristly Fur
+2 Chipped Claw
+1 Dread Skull
+1 Mark of the Traveler
+1 Polished Emerald
+1 Resilient Plating
+1 Rigid Shell
+2 Roiling Blood
+2 Scavenged Plating
+1 Searing Ember
+1 Serrated Spike
+1 Vitriolic Gallstone
+
+__Actual Components List:__
+2 Ancient Heart
+1 Bloody Whetstone
+[[Relic:Bladesworn_Talisman]]
+[[Relic:Savage]]

@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T12:38:48-07:00
+
+====== Desolation ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+1 Ancient Heart
+3 Blood of Ch'thon
+4 Tainted Brain Matter
+2 Chipped Claw
+1 Cracked Lodestone
+1 Dense Fur
+1 Devil-Touched Ammo
+1 Enchanted Flint
+1 Flintcore Bolts
+2 Polished Emerald
+1 Rigid Shell
+2 Scavenged Plating
+2 Searing Ember
+1 Serrated Spike
+1 Unholy Inscription
+
+__Actual Components List:__
+2 Tainted Brain Matter
+1 Unholy Inscription
+[[Relic:Conflagration]]
+[[Relic:Squall]]

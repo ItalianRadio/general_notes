@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T12:28:12-07:00
+
+====== Slaughter ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+2 Blood of Ch'thon
+2 Manticore Eye
+1 Tainted Brain Matter
+1 Blesssed Whetstone
+1 Bristly Fur
+1 Chains of Oleron
+1 Chipped Claw
+1 Polished Emerald
+1 Rigid Shell
+1 Roiling Blood
+1 Scavenged Plating
+1 Searing Ember
+2 Serrated Spike
+1 Vicious Jawbone
+
+__Actual Components List:__
+2 Manticore Eye
+1 Blesssed Whetstone
+1 Chains of Oleron
+1 Vicious Jawbone
+[[Relic:Inferno]]
+[[Relic:Rampage]]
+[[Relic:Ruination]]

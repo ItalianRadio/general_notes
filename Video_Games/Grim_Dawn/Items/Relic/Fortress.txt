@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T12:12:44-07:00
+
+====== Fortress ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+4 Ancient Heart
+1 Tainted Brain Matter
+1 Ancient Armor Plate
+1 Ballistic Plating
+1 Battered Shell
+1 Blessed Steel
+1 Chilled Steel
+2 Cracked Lodestone
+1 Dense Fur
+1 Polished Emerald
+1 Resilient Plating
+1 Scavenged Plating
+1 Searing Ember
+1 Serrated Spike
+
+__Actual Components List:__
+2 Ancient Heart
+1 Ancient Armor Plate
+1 Ballistic Plating
+1 Blessed Steel
+[[Relic:Gunslinger's_Talisman]]
+[[Relic:Sanctuary]]
+[[Relic:Squall]]

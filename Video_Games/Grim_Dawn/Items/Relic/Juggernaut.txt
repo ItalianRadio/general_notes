@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T12:18:23-07:00
+
+====== Juggernaut ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+**Troll Bonecrusher**
+1 Ancient Heart
+3 Tainted Brain Matter
+1 Battered Shell
+1 Chilled Steel
+2 Chipped Claw
+1 Cracked Lodestone
+1 Oleron's Blood
+1 Polished Emerald
+1 Reinforced Shell
+1 Roiling Blood
+1 Scavenged Plating
+2 Searing Ember
+1 Spined Carapace
+
+__Actual Components List:__
+2 Tainted Brain Matter
+1 Oleron's Blood
+1 Reinforced Shell
+1 Spined Carapace
+[[Relic:Calamity]]
+[[Relic:Mistborn_Talisman]]
+[[Relic:Sanctuary]]
