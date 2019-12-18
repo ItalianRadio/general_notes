@@ -8,5 +8,5 @@ Created Wednesday 29 May 2019
 ==== Current Builds: ====
 [[+Fluffy Squishy! a Conjurer|Culty]] - Birb Summon
 [[+Spin2Win Warlord|Rhonx]] - Spin2Win
-[[+Flames & Shield Shieldbreaker|Slunt]] - FireOath
+[[+Shield FirePhys Shieldbreaker|Slunt]] - FireOath
 

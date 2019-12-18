@@ -5,8 +5,37 @@ Creation-Date: 2019-12-18T09:55:25-07:00
 ====== DW Acid Dervish ======
 Created Wednesday 18 December 2019
 
-Build Guide:
+Leveling Build Guide:
 https://forums.crateentertainment.com/t/dw-melee-beginners-virulent-dervish/51168
 
-Grimtools:
+Pre-Gear Final Grimtools:
 https://www.grimtools.com/calc/q2mPr8nN
+
+Build Guide w/ Gear:
+https://forums.crateentertainment.com/t/doombaby-dw-dervish-superboss-killer-c-sr-g3/50315
+
+Final Grimtools w/ Gear:
+https://www.grimtools.com/calc/nZo6rqoV
+
+Basic Gear:
+| Type      | Name                          | Location     | Lvl   |
+|-----------|-------------------------------|--------------|-------|
+| Weapons   | Wendigo Claw                  | Barrowholm   | 84    |
+| Head      | Elite Dreeg Venomshroud Hood  | Dreeg        | 90    |
+| Chest     | Elite Wendigo Vile Chestguard | Barrowholm   | 90    |
+| Shoulders | Elite Wendigo Vile Spaulders  | Barrowholm   | 90    |
+| Ring      | Viloth's Ring                 | Drop: Viloth | 84/94 |
+| Ring Alt  | Mythical Widow's Sting        | Craftable    | 94    |
+| Amulet    | Coven Darkener Pendant        | Coven        | 90    |
+| Medal     | Mark of Lethal Intents        | Craftable    | 90    |
+| Belt      | Mythical Alchemist Belt       | Craftable    | 94    |
+| Gloves    | Green Heavy Gloves            | Craftable    | 90    |
+| Gloves    | Mythical Vilescorn Bracers    | Random Drop  | 94    |
+| Pants     | Green Pants                   | Craftable    | 90    |
+| Boots     | Green Heavy Boots             | Craftable    | 90    |
+| Relic     | Blight                        | Craftable    | 50    |
+| Relic Alt | Nidalla's Outbreak            | Craftable    | 90    |
+| Relic Alt | Meditation                    | Craftable    | 60    |
+| Relic Alt | Serenity                      | Craftable    | 90    |
+
+
