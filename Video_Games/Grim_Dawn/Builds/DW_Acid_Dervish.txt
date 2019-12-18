@@ -39,3 +39,47 @@ Basic Gear:
 | Relic Alt | Serenity                      | Craftable    | 90    |
 
 
+Final Gear: (removed "Mythical") 
+//You will NEED the Venomblade set to even consider transitioning to this build//
+| Type      | Name                        | Location  | Alternative             | Location  |
+|-----------|-----------------------------|-----------|-------------------------|-----------|
+| Weapon    | Venomblade Set              | Craftable | N/A                     | N/A       |
+| Weapon    | Venomblade Set              | Craftable | N/A                     | N/A       |
+| Head      | Venomblade Set              | Craftable | N/A                     | N/A       |
+| Chest     | Venomblade Set              | Craftable | N/A                     | N/A       |
+| Shoulders | Perdition Set               | Craftable | -Look at guide-         | -         |
+| Ring 1    | Deathguard Sigil            | Drop      | Widow's Sting           | Craftable |
+| Ring 2    | Ring of the Black Matriarch | Drop      | -                       | -         |
+| Amulet    | Peerless Eye of Beronath    | Drop      | Pestilence of Dreeg     | Craftable |
+| Medal     | Mark of Lethal Intents      | Craftable | -                       | -         |
+| Belt      | Pack of Deadly Means        | Drop      | Spellbreaker Waistguard | Craftable |
+| Gloves    | Iceskorn Talons             | Craftable | Perdition Set           | Craftable |
+| Pants     | Chausses of Barbaros        | Drop      | Nidalla's Legwraps      | Drop      |
+| Boots     | Stonetreaders               | Drop      | Venomspine Greaves      | Drop      |
+| Relic     | Meditation                  | Craftable | Nidalla's Outbreak      | Craftable |
+
+
+After you have the //Venomblade Set// stuff you can swap builds. Here's the devotion changes:
+**Lose the following:**
+* 4-Yugol
+* Abomination
+* Manticore
+* Hawk
+* Toad
+* Scorpion
+* Chariot
+* Crossroads (Purple & Blue)
+
+**Add the following:**
+* Viper
+* Lizard
+* Hound
+* Watcher
+* Dying God
+* Revenant
+* Hourglass
+* Crossroads (Green)
+* 3-Spear
+
+
+

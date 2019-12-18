@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T11:22:09-07:00
+
+====== Items ======
+Created Wednesday 18 December 2019
+
+Some items are hard as fuck to craft. Here's some of the ones I want and their crafting guides:
+
+[[+Relic:Meditation]]

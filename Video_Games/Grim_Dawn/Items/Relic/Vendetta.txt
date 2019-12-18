@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T11:32:42-07:00
+
+====== Vendetta ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+2 Blood of Ch'thon
+3 Tainted Brain Matter
+1 Attuned Lodestone
+1 Bristly Fur
+1 Chipped Claw
+1 Deathchill Bolts
+1 Frozen Heart
+2 Polished Emerald
+1 Purified Salts
+2 Resilient Plating
+1 Searing Ember
+1 Serrated Spike
+
+__Actual Components List:__
+2 Blood of Ch'thon
+1 Attuned Lodestone
+1 Deathchill Bolts
+1 Purified Salts
+[[Relic:Calamity]]
+[[Relic:Fortitude]]
+[[Relic:Gunslinger's_Talisman]]

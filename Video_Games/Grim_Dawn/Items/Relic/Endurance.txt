@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T11:25:43-07:00
+
+====== Endurance ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+3 Blood of Ch'thon
+2 Tainted Brain Matter
+1 Ancient Armor Plate
+2 Bristly Fur
+1 Chilled Steel
+2 Cracked Lodestone
+1 Frozen Heart
+1 Purified Salt
+1 Resilient Plating
+1 Scavenged Plating
+1 Searing Ember
+1 Serrated Shell
+
+__Actual Components List:__
+2 Blood of Ch'thon
+1 Ancient Armor Plate
+1 Serrated Shell
+1 Purified Salt
+[[Relic:Fervor]]
+[[Relic:Fortitude]]
+[[Relic:Equilibrium]]
