@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T14:33:21-07:00
+
+====== Nemesis ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+1 Ancient Heart
+5 Blood of Ch'thon
+3 Manticore Eye
+5 Tainted Brain Matter
+1 Ancient Armor Plate
+1 Attuned Lodestone
+1 Battered Shell
+3 Bristly Fur
+2 Chilled Steel
+1 Chipped Claw
+3 Cracked Lodestone
+1 Deathchill Bolts
+2 Frozen Heart
+1 Mark of Illusions
+2 Polished Emerald
+2 Purified Salt
+3 Resilient Plating
+1 Scavenged Plating
+3 Searing Ember
+1 Serrated Shell
+1 Serrated Spike
+1 Vicious Jawbone
+
+__Actual Components List:__
+3 Manticore Eye
+1 Mark of Illusions
+1 Vicious Jawbone
+[[Relic:Vendetta]]
+[[Relic:Sanctuary]]
+[[Relic:Endurance]]

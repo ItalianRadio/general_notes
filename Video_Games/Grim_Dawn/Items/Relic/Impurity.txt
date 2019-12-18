@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T14:25:03-07:00
+
+====== Impurity ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+**Troll Bonecrusher**
+4 Ancient Heart
+1 Aethersteel Bolts
+3 Blood of Ch'thon
+2 Manticore Eye
+4 Tainted Brain Matter
+1 Attuned Lodestone
+1 Blessed Steel
+1 Bristly Fur
+2 Chipped Claw
+1 Deathchill Bolts
+1 Frozen Heart
+1 Mutagenic Ichor
+3 Polished Emerald
+1 Purified Salts
+3 Resilient Plating
+1 Rigid Shell
+1 Roiling Blood
+2 Scavenged Plating
+2 Searing Ember
+1 Silvercore Bolts
+3 Serrated Spike
+2 Roiling Blood
+1 Vengeful Wraith
+
+__Actual Components List:__
+3 Ancient Heart
+1 Aethersteel Bolts
+1 Vengeful Wraith
+[[Relic:Gluttony]]
+[[Relic:Marauder's_Talisman]]
+[[Relic:Vendetta]]

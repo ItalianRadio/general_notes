@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2019-12-18T12:02:58-07:00
 
-====== Bladesdancer's Talisman ======
+====== Bladedancer's Talisman ======
 Created Wednesday 18 December 2019
 
 __Total Components List:__

@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-18T14:30:06-07:00
+
+====== Malediction ======
+Created Wednesday 18 December 2019
+
+__Total Components List:__
+**Troll Bonecrusher**
+3 Ancient Heart
+10 Blood of Ch'thon
+2 Tainted Brain Matter
+1 Black Tallow
+1 Blood of Ch'thon
+1 Bloody-Whetstone
+1 Chilled Steel
+4 Chipped Claw
+2 Consecreated Wrappings
+1 Cracked Lodestone
+1 Dense Fur
+1 Frozen Heart
+1 Kilrian's Shattered Soul
+1 Mark of Dreeg
+3 Molten Skin
+2 Mutagenic Ichor
+2 Polished Emerald
+2 Roiling Blood
+1 Rotten Heart
+5 Scavenged Plating
+1 Searing Ember
+1 Serrated Spike
+1 Venom-Tipped Ammo
+1 Void-Touched Ammo
+
+__Actual Components List:__
+3 Blood of Ch'thon
+1 Rotten Heart
+1 Venom-Tipped Ammo
+[[Relic:Blight]]
+[[Relic:Ruination]]
+[[Relic:Torment]]
