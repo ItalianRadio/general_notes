@@ -1,8 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-12-18T11:50:56-07:00
-
-====== Bone Talisman ======
-Created Wednesday 18 December 2019
-
-__Given thru the Rover's quest__

@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-12-18T11:23:00-07:00
-
-====== Relic ======
-Created Wednesday 18 December 2019
-
