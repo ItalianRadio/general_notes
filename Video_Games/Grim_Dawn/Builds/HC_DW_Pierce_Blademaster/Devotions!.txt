@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-20T11:10:12-07:00
+
+====== Devotions! ======
+Created Friday 20 December 2019
+
+* Crossroads (purple)
+* Harpy
+* Empty Throne
+* Blades of Nadaan
+* Crossroads (blue)
+* Eel
+* Ulzaad (bind proc to Shadow Strike)
+* Panther
+* Remove Crossroads (blue)
+* Lion
+* Azrakaa (bind proc to Cadence)
+* Crossroads (red)
+* Mantis
+* Remove Empty Throne
+* Ghoul
+* Remove Crossroads (red)
+* Assasin’s Blade (see below about proc)
+* Remove Lion
+* Jackal
+* Revenant (bind proc to Ring of Steel)
+* Remove Harpy
+* Harp
+* Remove Panther
+* 4 into Targo the Builder

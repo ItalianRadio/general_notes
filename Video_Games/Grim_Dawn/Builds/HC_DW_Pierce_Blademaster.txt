@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-12-20T11:06:17-07:00
+
+====== HC DW Pierce Blademaster ======
+Created Friday 20 December 2019
+
+Hardcore build for Blademaster
+
+== Grimtools: ==
+https://www.grimtools.com/calc/JVlRQg5N
+
+== Build Guide: ==
+https://forums.crateentertainment.com/t/dw-melee-beginners-forgotten-blademaster/50586
