@@ -5,6 +5,5 @@ Creation-Date: 2019-06-04T16:27:27-06:00
 ====== Caster Lightning Druid ======
 Created Tuesday 04 June 2019
 
+Grimtools:
 https://www.grimtools.com/calc/62a9lyE2
-
-[[+Mastery Points|Mastery Points]] | [[+Devotion Points|Devotion Points]]

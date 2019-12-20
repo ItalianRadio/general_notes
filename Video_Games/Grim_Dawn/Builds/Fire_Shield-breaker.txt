@@ -7,8 +7,6 @@ Created Wednesday 29 May 2019
 
 https://www.grimtools.com/calc/lNkKa7RN
 
-[[+Mastery Points|M]][[+Mastery Points|astery Points]] | [[+Devotion Points|Devotion Points]]
-
 Leveling Gear wants:
 * Fire Damage %
 * Burn Damage %

@@ -1,7 +1,0 @@
-Content-Type: text/x-zim-wiki
-Wiki-Format: zim 0.4
-Creation-Date: 2019-06-03T14:44:03-06:00
-
-====== Devotion Points ======
-Created Monday 03 June 2019
-
