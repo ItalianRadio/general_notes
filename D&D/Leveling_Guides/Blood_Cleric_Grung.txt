@@ -71,7 +71,7 @@ Cleric Level 8:
 * **ASI: Wisdom +2 (20)**
 * Destroy Undead (CR 1)
 * Blood Domain feature: Sanguine Recall
-* Choose the spell //Spirit Shroud//
+* Choose the spells //Spirit Shroud, Greater Restoration//
 Cleric Level 9:
 * Choose the spell //Mass Cure Wounds//
 * Exchange the spells: //Hold Person// for //Flame Strike//, //Revivify// for //Raise Dead//
@@ -79,13 +79,13 @@ Cleric Level 9:
 Cleric Level 10:
 * Divine Intervention
 * Choose the cantrip //Spare the Dying//
-* Choose the spell //Greater Restoration//
+* Choose the spell //Blade Barrier//
 Cleric Level 11:
 * Destroy Undead (CR 2)
 * Choose the spell //Heal//
 Cleric Level 12:
 * **Feat: Medium Armor Master**
-* Choose the spells: //Blade Barrier, Create Undead//
+* Choose the spell //Create Undead//
 Cleric Level 13:
 * Choose the spell //Conjure Celestial//
 * Exchange the spell //Raise Dead// for //Resurrection//
