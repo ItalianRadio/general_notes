@@ -6,15 +6,17 @@ Creation-Date: 2020-07-22T12:04:36-06:00
 Created Wednesday 22 July 2020
 
 Build guide specifically built for Frugglesworth VII
+Spells are wrong. Right kind of spells, but wrong levels.
 
 **27 Point Buy gives you:**
 STR 8 (0) DEX 14 (7) CON 15 (9) INT 8 (0) WIS 15 (9) CHA 10 (2)
 
 **Choosing the Grung race gives you:**
 * Dex +2, Con +1
-* Poison Immunity
 * 25 Walking, 25 Climbing
 * Proficiency with Perception
+* Amphibious
+* Poison Immunity
 * Poisonous Skin
 * Standing Leap
 * Secrete Poison
@@ -22,85 +24,90 @@ STR 8 (0) DEX 14 (7) CON 15 (9) INT 8 (0) WIS 15 (9) CHA 10 (2)
 * Languages: Common and Grung
 
 **Choose the Bodyguard Background:**
-* Proficiency with Persuasion and Intimidation
-* Proficiency with an instrument (Banjo)
+* Proficiency with Insight and Intimidation
 * Languages: Naga
-* **Feature: **
+* **Feature: Guardian's Presence**
+
+**Free Feat (DM Fiat)**
+* Feat: Observant - Wisdom +1 (16)
 
 **Take twenty (20) levels of Cleric**
 Cleric Level 1:
-* Proficiency with History and Religion
+* Proficiency with Religion and Persuaison
 * Proficiency with Medium Armor, Shields, and Simple Weapons
 * Proficiency with Wisdom and Charisma saving throws
-* Choose the cantrips: //Thaumaturgy, Toll the Dead, Guidance//
+* Choose the cantrips: //Thaumaturgy, Toll the Dead, Light//
 * Choose the spells: //Bless, Command, Detect Magic, Healing Word//
-* Gain the spells: //Identify, Searing Smite//
-* Choose the **Forge Domain** subclass:
-	* Proficiency with Heavy Armor and Smith’s Tools
-	* Blessing of the Forge
+* Gain the spells: //Ray of Sickness, Sleep//
+* Choose the **Blood Domain** subclass:
+	* Proficiency with martial weapons
+	* Bloodletting Focus
 Cleric Level 2:
 * Channel Divinity (1/rest)
-* Artisan’s Blessing
+* Blood Puppet
 * Turn Undead
 * Choose the spell //Guiding Bolt//
 Cleric Level 3:
 * Choose the spell //Spiritual Weapon//
-* Exchange the spell //Guiding Bolt// for //Hold Person//
-* Gain the spells: //Heat Metal, Magic Weapon//
+* Exchange the spell //Command// for //Hold Person//
+* Gain the spells: //Ray of Enfeeblement, Crown of Madness//
 Cleric Level 4:
 * **ASI: Wisdom +2 (18)**
-* Choose the spells: //Blindness/Deafness, Aid//
+* Choose the cantrip //Guidance//
+* Choose the spells: //Lesser Restoration, Warding Bond//
 Cleric Level 5:
 * Destroy Undead (CR ½)
 * Choose the spell //Revivify//
-* Exchange the spell //Blindness/Deafness// for //Spirit Guardians//
-* Gain the spells: //Elemental Weapon, Protection from Energy//
+* Exchange the spell //Guiding Bolt// for //Spirit Guardians//
+* Gain the spells: //Haste, Slow//
 Cleric Level 6:
 * Channel Divinity (2/rest)
-* Forge Domain feature: Soul of the Forge
+* Blood Domain feature: Crimson Bond
 * Choose the spell //Dispel Magic//
 Cleric Level 7:
 * Choose the spell //Guardian of Faith//
-* Gain the spells: //Fabricate, Wall of Fire//
+* Gain the spells: //Blight, Stoneskin//
 Cleric Level 8:
-* **Feat: War Caster**
+* **ASI: Wisdom +2 (20)**
 * Destroy Undead (CR 1)
-* Forge Domain feature: Divine Strike
-* Choose the spell //Banishment//
+* Blood Domain feature: Sanguine Recall
+* Choose the spell //Spirit Shroud//
 Cleric Level 9:
 * Choose the spell //Mass Cure Wounds//
-* Exchange the spells: //Command// for //Geas//, //Revivify// for //Raise Dead//
-* Gain the spells: //Animate Objects, Creation//
+* Exchange the spells: //Hold Person// for //Flame Strike//, //Revivify// for //Raise Dead//
+* Gain the spells: //Dominate Person, Hold Monster//
 Cleric Level 10:
 * Divine Intervention
-* Choose the spell //Flame Strike//
+* Choose the cantrip //Spare the Dying//
+* Choose the spell //Greater Restoration//
 Cleric Level 11:
 * Destroy Undead (CR 2)
-* Choose the spell //Heroes’ Feast//
+* Choose the spell //Heal//
 Cleric Level 12:
-* **ASI: Wisdom +2 (20)**
-* Choose the spells: //Heal, True Seeing//
+* **Feat: Medium Armor Master**
+* Choose the spells: //Blade Barrier, Create Undead//
 Cleric Level 13:
-* Choose the spell //Plane Shift//
+* Choose the spell //Conjure Celestial//
+* Exchange the spell //Raise Dead// for //Resurrection//
 Cleric Level 14:
 * Destroy Undead (CR 3)
-* Choose the spell //Resurrection//
+* Choose the spell //Fire Storm//
 Cleric Level 15:
 * Choose the spell //Antimagic Field//
 Cleric Level 16:
-* **Feat: Heavy Armor Master (Str +1 [16])**
-* Choose the spell //Fire Storm//
+* **ASI: Dexterity +2 (18)**
+* Choose the spell //Divine Word//
 Cleric Level 17:
 * Destroy Undead (CR 4)
-* Forge Domain feature: Saint of Forge and Fire
+* Blood Domain feature: Order's Wrath
 * Choose the spell //Mass Heal//
 * Exchange the spell //Resurrection// for //True Resurrection//
 Cleric Level 18:
 * Channel Divinity (3/rest)
-* Choose the spell //Revivify//
+* Choose the spell //Gate//
 Cleric Level 19:
-* **ASI: Strength +2 (18)**
-* Choose the spell //Create Undead//
+* **ASI: Dexterity +2 (20)**
+* Choose the spell //Temple of the Gods//
 Cleric Level 20:
 * Divine Intervention Improvement
 * Choose the spell //Regenerate//
