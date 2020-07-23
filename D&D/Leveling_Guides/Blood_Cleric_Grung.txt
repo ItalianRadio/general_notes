@@ -6,7 +6,6 @@ Creation-Date: 2020-07-22T12:04:36-06:00
 Created Wednesday 22 July 2020
 
 Build guide specifically built for Frugglesworth VII
-Spells are wrong. Right kind of spells, but wrong levels.
 
 **27 Point Buy gives you:**
 STR 8 (0) DEX 14 (7) CON 15 (9) INT 8 (0) WIS 15 (9) CHA 10 (2)
