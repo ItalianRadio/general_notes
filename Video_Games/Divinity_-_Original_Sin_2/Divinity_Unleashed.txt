@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-29T12:08:18-06:00
+
+====== Divinity Unleashed ======
+Created Wednesday 29 July 2020
+
+[[https://docs.google.com/document/d/1qnECB8DZVt7s_O2_TbEbGzipfdg1zLqtj9mtFNyaFFk/edit|Here is a link to the very well written google doc]]

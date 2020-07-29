@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-29T12:03:01-06:00
+
+====== Ranger ======
+Created Wednesday 29 July 2020
+
+Ifan, Crossbow > Bow
+Finesse > Wits | Con
+Hunt (2-3) > Sum (10) > War (1) > Scou [1] > Rang (5-10) > Lead [5]
+
+==== \\\\\ TALENTS \\\\\ ====
+Elemental Ranger > Far Out Man > Arrow Recovery > Executioner > Hothead
+
+==== \\\\\ SKILLS \\\\\ ====
+
+=== Hunt ===
+First Aid, Ricochet*, Tactical Retreat, Sky Shot, Ballistic Shot, Markman’s Fang, Arrow Spray
+
+=== Sum ===
+Conjure Incarnate, Farsight Infusion, Power Infusion, Soul Mate, Dominate Mind
+
+=== Scou ===
+Adrenaline
+
+==== \\\\\ MISC \\\\\ ====
+Crossbows are generally better than bows as they do more damage, but limit movement speed. You won’t be moving much so go with crossbows. Leadership applies to summons, that means it’s the only ability in your non-casting arsenal that can buff your summons without being Summoner related. If you take a point in Warfare earlier pick up the Executioner talent earlier, as it’s fantastic for a ranged character. The 1 point in Scoundrel is considered because of how amazing Adrenaline is for Summoners who need a lot of setting up on their initial turn, but can be squishy because of their low gear priority.

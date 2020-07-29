@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-29T12:04:07-06:00
+
+====== Death Knight ======
+Created Wednesday 29 July 2020
+
+Human, One-Handed & Shield
+Strength > Con > Wits > Mem
+War (3-10) > Necro (2) > Poly (2) > Scou (2) > Hydro [1] > Sing (10)
+
+==== \\\\\ TALENTS \\\\\ ====
+Living Armor > Opportunist > Picture of Health > The Pawn > Leech > What a Rush > Comeback Kid
+
+==== \\\\\ SKILLS \\\\\ ====
+
+=== Necro ===
+Blood Sucker, Mosquito Swarm, Decaying Touch, Raining Blood, Death Wish, Shackles of Pain, Living on the Edge
+
+=== War ===
+Battle Stomp, Bouncing Shield, Whirlwind, Blitz Attack, Deflective Barrier, Guardian Angel, Overpower
+
+=== Scou ===
+Adrenaline, Backlash
+
+=== Poly ===
+Chicken Claw, Tentacle Lash, Spread your Wings, Forced Exchange
+
+=== Geo ===
+Fortify, Reactive Armor
+
+==== \\\\\ MISC \\\\\ ====
+Tank. You’re a tank.

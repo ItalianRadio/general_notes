@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-29T12:02:40-06:00
+
+====== Rogue ======
+Created Wednesday 29 July 2020
+
+Dwarf, Dual Daggers
+Finesse > Wits > Memory | Con
+Scou (2-3)[5] > War (5-10) | Poly [2] > Dual (10)
+
+==== \\\\\ TALENTS \\\\\ ====
+Parry Master > Opportunist > The Pawn > Picture of Health > Hothead
+
+==== \\\\\ SKILLS \\\\\ ====
+
+=== Scou ===
+Adrenaline, Backlash, Throwing Knife, Corrupted Blade, Rupture Tendons, Sawtooth Knife, Sleeping Arms, Mortal Blow
+
+=== War ===
+Battle Stomp, Whirlwind, Crippling Blow
+
+=== Poly ===
+Chicken Claw, Chameleon Cloak, Bull Horns, Spread Your Wings
+
+==== \\\\\ MISC \\\\\ ====
+Stack Dodge on your gear as you will be near un-hit-able in the late game. If someone in your party has high Leadership you will be un-hit-able by attacking moves in the late game! The 5 in Scoundrel is considered solely for the Mortal Blow ability, so do not consider it if you do not have the ability yet. The polymorph transformation abilities are only good with mods that even the playing field as NPC’s can use these abilities as toggles and PC’s cannot without mods.

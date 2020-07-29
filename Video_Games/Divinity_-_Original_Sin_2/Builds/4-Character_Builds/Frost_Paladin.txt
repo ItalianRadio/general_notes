@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-29T12:03:38-06:00
+
+====== Frost Paladin ======
+Created Wednesday 29 July 2020
+
+Elf, One-Handed & Shield
+Strength > Wits | Con
+War (3-10) > Hydro (2-10) > Poly (2) > Necro (2) > Scou (2)
+
+==== \\\\\ TALENTS \\\\\ ====
+Opportunist > Executioner > Living Armor > Hothead > Picture of Health > Elemental Affinity
+
+==== \\\\\ SKILLS \\\\\ ====
+
+=== War ===
+Battle Stomp, Bouncing Shield, Battering Ram, Blitz Attack, Whirlwind, Phoenix Dive, Deflective Barrier, Guardian Angel, Enrage
+
+=== Hydro ===
+Armour of Frost, Rain, Restoration, Cleanse Wounds, Cryotherapy, Global Cooling, Healing Ritual, Mass Cleanse Wounds, Ice Breaker
+
+=== Scou ===
+Adrenaline, Cloak and Dagger
+
+=== Poly ===
+Tentacle Lash, Spread your Wings
+
+=== Necro ===
+Bone Cage
+
+==== \\\\\ MISC \\\\\ ====
+Use Rain then Global Cooling to knock down everyone, then Ice Breaker to do massive Water damage.

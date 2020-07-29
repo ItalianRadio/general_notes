@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-29T12:00:44-06:00
+
+====== Searing Soldier ======
+Created Wednesday 29 July 2020
+
+Lizard - Staves (Fire)
+Int > Con | Wits > Str
+Pyro (3-10) > War (3) > Poly (10)
+
+==== \\\\\ TALENTS \\\\\ ====
+Elemental Affinity > Opportunist > Executioner > Savage Sortilege > Far Out Man > Torturer > Demon
+
+==== \\\\\ SKILLS \\\\\ ====
+
+=== Pyro ===
+Supernova, Flaming Tongues, Master of Sparks, Laser Ray, Epidemic of Fire, Ignition*, Fireball, Spontaneous Combustion
+
+=== War ===
+Whirlwind, Phoenix Dive, Thick of the Fight
+
+=== Poly ===
+Flay Skin, Flaming Skin, Skin Graft
+	
+
+==== \\\\\ MISC \\\\\ ====
+Although you want a fire staff, don’t prioritize stave damage over stave bonuses, a stave with +Int is better than a stave that does 5 more damage.

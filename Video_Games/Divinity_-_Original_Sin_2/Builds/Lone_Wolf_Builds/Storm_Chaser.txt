@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-29T12:04:40-06:00
+
+====== Storm Chaser ======
+Created Wednesday 29 July 2020
+
+Dwarf, Wand & Shield
+Int > Wits | Mem
+Aero (3-10) > Hunt (2) > Necro (1) > Hydro (1) > War (1) > Poly (10)
+
+==== \\\\\ TALENTS \\\\\ ====
+Lone Wolf > Executioner > Savage Sortilege > Mnemonic > Hothead > Far Out Man > Elemental Affinity
+
+==== \\\\\ SKILLS \\\\\ ====
+
+=== Aero ===
+Blinding Radiance, Electric Discharge, Shocking Touch, Erratic Wisp, Vacuum Touch, Uncanny Evasion, Teleportation, Evasive Aura, Vacuum Aura, Dazing Bolt, Superconductor, Chain Lightning
+
+=== Hydro ===
+Rain, Armor of Frost
+
+=== Hunt ===
+Tactical Retreat
+
+==== \\\\\ MISC \\\\\ ====
+Use Rain then buff yourself, then shock EVERYTHING

@@ -11,7 +11,7 @@ Build guide specifically built for Frugglesworth VII
 STR 8 (0) DEX 14 (7) CON 15 (9) INT 8 (0) WIS 15 (9) CHA 10 (2)
 
 **Choosing the Grung race gives you:**
-* Dex +2, Con +1
+* Dex +2 (16), Con +1 (16)
 * 25 Walking, 25 Climbing
 * Proficiency with Perception
 * Amphibious

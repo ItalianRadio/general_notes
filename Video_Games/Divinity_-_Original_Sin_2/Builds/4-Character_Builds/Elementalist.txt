@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-07-29T12:01:58-06:00
+
+====== Elementalist ======
+Created Wednesday 29 July 2020
+
+Human, Wand & Shield
+Int > Con | Mem
+Choose 3-4 of these: Pyro (2-3)[5] | Geo (2-3)[5] | Aero (2-3)[5] | Hydro (2-3)[5] | Necro (2-3)[5]
+> Poly (5-10) | Hunt(1-3)
+
+==== \\\\\ TALENTS \\\\\ ====
+Mnemonic > Elemental Affinity > Savage Sortilege > Far Out Man > Hothead
+
+==== \\\\\ SKILLS \\\\\ ====
+
+=== Geo ===
+Fossil Strike, Impalement, Pyroclastic Eruption
+
+=== Aero ===
+Teleportation, Chain Lightning
+
+=== Hydro ===
+Armour of Frost, Winter Blast, Hail Storm
+
+=== Pyro ===
+Fireball, Meteor Shower
+
+=== Necro ===
+Mosquito Swarm, Summons, Blood Storm
+
+=== Hunt ===
+Tactical Retreat, Farsight
+
+=== Poly ===
+Apotheosis
+
+==== \\\\\ MISC \\\\\ ====
+You will almost never be attacking with your wand after level 9, so before then you can look at the damage figures on the wand, but after level 9, just completely ignore damage and go with attributes on the wand. Apotheosis lets you cast all the different elemental crazy source spells for free and thus makes it your most valuable ability in your arsenal after you attain 3 source points.
