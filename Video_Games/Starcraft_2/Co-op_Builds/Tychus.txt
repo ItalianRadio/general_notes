@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-28T19:09:09-06:00
+
+====== Tychus ======
+Created Monday 28 September 2020
+
+===== BUILD ORDER =====
+
+===== Build Order 1: 2x Auto-Turret fast expand (for non-contested expansions) =====
+17 Command Center
+18 Refinery
+19 Refinery
+20 Engineering Bay (+1 attack, +2 attack, +3 attack)
+22 Auto-Turret, Auto-Turret (destroy Rocks then Salvage)
+//Tychus destroys the Rocks, then the attack wave//
+27 Gun's Hideout or Muscle Armory
+30 Outlaw
+41 Engineering Bay (ITC-E Triggers, +1 armor, Big Red Button)
+45 Refinery, Refinery
+51 Medivac Platform
+53 Remaining Outlaw structures
+55 Medivac Platform, Gear
+
+===== Build Order 2: Outlaw rush fast expand (for contested expansions) =====
+17 Command Center
+18 Refinery
+21 Guns’ Hideout or Muscle Armory
+23 Outlaw
+//Outlaws clear out the expansion, then the attack wave//
+33 Refinery
+37 Engineering Bay (+1 attack, +2 attack, +3 attack)
+40 Engineering Bay (ITC-E Triggers, +1 armor, Big Red Button)
+45 Refinery, Refinery
+50 Medivac Platform
+53 Remaining Outlaw structures
+57 Medivac Platform, Gear
+
+//While the 2x Auto-Turret build is slightly better economically, the difference isn't huge. //
+//You could comfortably use the Outlaw rush build for every map if you so wished.//
