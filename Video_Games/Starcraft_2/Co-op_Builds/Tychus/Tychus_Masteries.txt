@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-29T10:57:52-06:00
+
+====== Tychus Masteries ======
+Created Tuesday 29 September 2020
+
+====== MASTERIES ======
+
+===== POWER SET 1: =====
+**Tychus Attack Speed: +1% - 30%**
+**Tychus Shredder Grenade Cooldown: +1% - 30%**
+Both options are at a competitive power level. Note that Tri-Outlaw and Tychus Attack Speed do not synergize, and with both at max mastery the effective difference will be that Tychus Attack Speed really provides a +21% increase, instead of +30%, though the increase in DPS is the same compared to the base value.
+
+Shredder Grenade is a powerful option, especially with early Tychus Gear upgrades. Grenade Cooldown lets you be more likely to get away with using two Grenades against a group of enemies in the early game more readily by throwing a Grenade, running away, and finishing the enemy off with another Grenade. Certain enemy compositions and maps are better or worse for Grenade mastery, while Tychus Attack Speed is universally great.
+
+**A 5:25 split results in a 15 second cooldown on Shredder Grenade, which perfectly matches Cannonball’s Heavy Impact cooldown. Useful for a Tychus and Cannonball composition on maps with many attack waves, such as Malwarfare and Mist Opportunities.**
+
+===== POWER SET 2 =====
+**Tri-Outlaw Research Improvement: -0.5% - 15%**
+**Outlaw Availability: -2s - 60s**
+Tri-Outlaw mastery provides Outlaws with a flat buff to health, attack speed, or vision radius once their Engineering Bay upgrade has been researched, increasing the benefit of ITC-E Triggers and Endurance Supplements to 40% (from 25%), and adding a 15% vision range bonus to Flashforce GDM Visor. Sirius’ turrets do not receive any benefit from ITC-E Triggers, but Sirius’ increased attack speed can help him to inflict his area effect Fear more often.
+
+The Outlaw Availability mastery doesn’t apply to Tychus’ initial spawn time or the first Outlaw, and is a flat reduction in recruitment cooldown between each subsequent Outlaw. Maxed out, it will enable you to recruit the final Outlaw 180 seconds sooner. However, as it does not actually make Outlaws cheaper, the price of recruiting earlier Outlaws will require sacrificing earlier Gear choices, which may or may not be worth the trade-off.
+
+A wide strategy that rushes all five Outlaws favors the Powerset 1 Attack Speed as it causes Tychus’ Ultimate Gear to become stronger earlier in the game. This has some synergy between Tychus Attack Speed and Outlaw Availability masteries.
+
+A tall strategy that favors focusing on Outlaw Gear while having only a few Outlaws favors the Powerset 1 Shredder Grenade Cooldown and Powerset 2 Tri-Outlaw masteries. A focus on Outlaw Gear means that you will be slower to recruit all five Outlaws, which means less benefit from Tychus’ Ultimate Gear, which is a Gear that synergizes with Tychus Attack Speed mastery, while many of the Gear you will be pursuing if going for such a strategy will provide increased single target damage, making it more important to have the additional area damage from Power Set 1.
+
+**Overall, Tri-Outlaw is a much safer choice, but certain builds may benefit from Outlaw Availability.**
+
+===== POWER SET 3: =====
+**Medivac Pickup Cooldown: -1.5s - 45s**
+**Odin Cooldown: -2s - 120s**
+Medivac Pickup provides more healing and more mobility, and is the better option—the flexibility it allows you is significant. Be careful not to have your wounded units targeted within the 10-second interval after drop, though.
+
+**Odin Cooldown does not have any effect on the initial Odin coolup, and therefore provides a smaller benefit. On certain maps, this mastery can let you squeeze out one extra use of Odin, which may be worthwhile for specific speedruns. It is generally not worthwhile for regular use.**

@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-29T11:39:41-06:00
+
+====== Nova ======
+Created Tuesday 29 September 2020
+
+====== BUILD ORDER ======
+
+14 Refinery
+15 Refinery
+18 Command Center (Beside Rocks)
+19 Barracks
+22 Marines (break gas Rocks first, build Refineries thereafter, followed by breaking the main Rock)
+Continue SCV production off both Command Centers until both bases are fully saturated
+Relocate Command Center once the main Rock is down

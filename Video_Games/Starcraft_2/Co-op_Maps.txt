@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-29T10:19:12-06:00
+
+====== Co-op Maps ======
+Created Tuesday 29 September 2020
+
+| Map Name               | What map is this again?      | Consistent Spawns |
+|------------------------|------------------------------|-------------------|
+| Chain of Ascension     | Push the Protoss Chick       | -                 |
+| Cradle of Death        | Artifact Trucks              | Big Buildings     |
+| Dead of Night          | Destroy Infested             | LOTS of infested  |
+| Lock & Load            | 5 CP                         | -                 |
+| Malwarfare             | Download the Protoss         | -                 |
+| Miner Evacuation       | Protect Evac Ships           | LOTS of infested  |
+| Mist Opportunities     | Harvest Terrazine            | -                 |
+| Oblivion Express       | Trains                       | -                 |
+| Part and Parcel        | Build Mech                   | -                 |
+| Rifts to Korhal        | Shards & Pirates             | Pirate Ship(Air)  |
+| Scythe of Amon         | Slivers & Evacuation Ship    | Big Buildings     |
+| Temple of the Past     | Temple Defense               | -                 |
+| The Vermillion Problem | Lava                         | -                 |
+| Void Launch            | Destroy Shuttles             | LOTS of air       |
+| Void Thrashing         | Sgt. Hammer & Void Thrashers | -                 |
+
+

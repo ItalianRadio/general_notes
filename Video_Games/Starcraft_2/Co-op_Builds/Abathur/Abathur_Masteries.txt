@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-29T11:35:51-06:00
+
+====== Abathur Masteries ======
+Created Tuesday 29 September 2020
+
+====== MASTERIES ======
+
+===== POWER SET 1: =====
+**Toxic Nest Damage (+2% to +60%)**
+**Mend Healing Duration (+10% to +300%)**
+The Toxic Nest Damage mastery is absolutely essential in ensuring maximum efficiency with Toxic Nests—Toxic Nests are one of the most important features of Abathur, so this is significant. With 30 points invested in this mastery, Toxic Nests deal 200 splash damage, which is sufficient to one-shot most enemy ground units. On the other hand, you hardly need Mend Healing to keep your army alive, as the sustaining abilities of Ultimate Evolutions and Swarm Queens are more than sufficient. However, you could put just enough points into Toxic Nest Damage to hit certain breakpoints, such as one-shotting Stalkers and Zealots, and put the remainder into Mend Healing to have improved sustain during the early phases during which the Ultimate Evolutions have little to no support from other units.
+
+===== POWER SET 2 =====
+**Symbiote Ability Improvement: (+3.33% to +99.99%)**
+**Double Biomass Chance (+1% to +30%)**
+Symbiote Ability Improvement benefits both the Stab and Shell abilities of the Symbiotes that are attached to your Ultimate Evolutions, massively increasing their damage output, from 20.00 to 40.00 DPS, as well as their damage mitigation, providing a 400 HP shield instead of a 200 HP one every 20s. Symbiotes are a crucial part in allowing your six Ultimate Evolutions to act as an entire army on their own, capable of ravaging entire bases even without support. While the DPS of their base attacks are hardly impressive, they are greatly enhanced by the Symbiote Stab ability. On the other hand, the benefit from Double Biomass Chance is not as significant, especially when the potential DPS output from the extra Biomass is compared to that of the Symbiote Stab ability. It is a reasonable choice if you do not intend to evolve any Ultimate Evolutions or if you intend to aim for a powerful late game army instead of upfront power, neither of which is recommended save on mutations such as Black Death.
+
+===== POWER SET 3: =====
+**Toxic Nest Maximum Charges and Cooldown (+1 to +30; -1% to -30%)**
+**Structure Morph and Evolution Rate: (-2% to -60%)**
+Both masteries are viable. A 10/20 split in favor of the Structure Morph and Evolution Rate mastery is recommended in most scenarios, and can be adjusted up to 5/25 if you do not require the additional maximum charges, or down to 20/10 if you are planning heavier Toxic Nest usage throughout the game. The actual split will heavily depend on the map and one’s efficiency in using Toxic Nests, so each player should decide based on skill level and playstyle. On the other hand, Structure Morph and Evolution Rate mastery provides a significant boost in a number of areas. The mastery provides you with earlier Spore Crawler and Roach for earlier luring, faster morph times for Toxic Nests, faster economy due to the faster morph times of your initial Spine Crawlers and Hatchery, and faster tech-up, particularly to Mutalisks, which are important for evolving the powerful Leviathans. Evolution Rate additionally reduces the time it takes to research upgrades, which is very useful for getting attack upgrades for the Ultimate Evolutions.

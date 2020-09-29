@@ -5,7 +5,7 @@ Creation-Date: 2020-09-28T19:09:09-06:00
 ====== Tychus ======
 Created Monday 28 September 2020
 
-===== BUILD ORDER =====
+====== BUILD ORDER ======
 
 ===== Build Order 1: 2x Auto-Turret fast expand (for non-contested expansions) =====
 17 Command Center

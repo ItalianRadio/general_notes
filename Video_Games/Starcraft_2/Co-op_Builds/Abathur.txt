@@ -1,0 +1,99 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-29T11:32:10-06:00
+
+====== Abathur ======
+Created Tuesday 29 September 2020
+
+====== BUILD ORDER ======
+
+These build orders assume about 20 points put into the Structure Morph Speed mastery, with the Temple of the Past build order being the exception. Varying the mastery by +/-5 points shouldn’t affect the build order by any significant margin. Build orders are followed while doing Toxic Nest luring, so it will take some practice to be able to multitask effectively while executing the build orders.
+
+===== Basic Build: 3 Brutalisks -> 3 Leviathans =====
+This is a standard build which gives a faster ramp-up of power for pushing into all but the heaviest of defenses. Use this when there are plenty of areas with weak anti-armor defenses that the Brutalisks can assault before the Leviathans are needed, or if you need the Brutalisks’ superior mobility.
+12 Save all initial minerals for a quick Roach Warren
+12 Send one Drone directly towards the first luring area
+12 Roach Warren
+11 Spore Crawler
+10 Roach
+14 Overlord
+14 Roach
+19 2x Extractor
+18 Roach
+20 Lair
+20 Spire
+19 Overlord
+19 Mutalisk
+21 Mutalisk
+23 Mutalisk
+
+
+===== 2 Brutalisks -> 3 Leviathans =====
+This is a common build, providing enough early power to gather Biomass from deeper encampments while also getting 3 Leviathans out in time for when proper pushing is needed.
+12 Save all initial minerals for a quick Roach Warren
+12 Send one Drone directly towards the first luring area
+12 Roach Warren
+11 Spore Crawler
+10 Roach
+14 Overlord
+14 2x Extractor
+14 Roach
+19 Lair
+19 Overlord
+19 Spire
+18 Mutalisk
+20 Mutalisk
+22 Mutalisk
+24 Roach
+
+
+===== 1 Brutalisk -> 3 Leviathans =====
+This build order is not very standard but is useful when Leviathans’ pushing power is needed quickly due to mutators or other factors that hinder Brutalisks. Going 0 Brutalisk -> 3 Leviathans is not recommended because the initial Spore Crawler is typically only enough to get one Leviathan, which cannot farm Biomass as effectively. The single Brutalisk’s job is to Toxic Nest lure as much as it can so that you morph Leviathans one after the other. After the 3 Leviathans, you may add 2 more Roaches if you see some use for Brutalisks, or you may expand to build a modest army to help the Leviathans.
+12 Save all initial minerals for a quick Roach Warren
+12 Send one Drone directly towards the first luring area
+12 Roach Warren
+11 Spore Crawler
+10 Roach
+14 Overlord
+14 2x Extractor
+16 Lair
+16 Spire
+15 Mutalisk
+17 Mutalisk
+20 Mutalisk
+22 Overlord
+22 2x Roach OR 1x Spine Crawler + Deep Tunnel Brutalisk at expansion
+
+
+===== Economic Ultimate Evolutions =====
+This build is meant for supplementing Ultimate Evolutions with an army for late game power, particularly for mutations. It emphasizes rushing Brutalisks while slightly delaying Leviathans in favor of economy. Use Brutalisks and Toxic Nests to hold off the enemy until the Leviathans are out and army production begins.
+12 Save all initial minerals for a quick Roach Warren
+12 Send one Drone directly towards the first luring area
+12 Send Overlord to expansion, spawn Toxic Nest by Rocks
+11 Roach Warren
+10 Spore Crawler
+14 Roach
+14 Overlord
+17 Roach
+18 Spine Crawlers at expansion Rocks
+18 Overlord
+20 Roach
+20 2x Extractor
+Tech up towards Mutalisks as gas income allows
+
+
+===== Temple of the Past =====
+Note that this assumes little to no points in Structure Morph Speed mastery. You cannot Toxic Nest lure to rush Brutalisks on this map, because all the enemies aside from the handful guarding the bonus objectives come from attack waves. Therefore, the goal is to invest into economy while making sure to get Roaches/Mutalisks to the Biomass as soon as the next bunch of 100 is available.
+12 Send Overlord down one lane for spawn point vision
+13 Overlord, rally down another lane
+20 2x Extractor
+21 Roach Warren
+21 Overlord, rally down final lane
+22 x3 Roach once Overload hatches, rally to Rocks blocking the center lane
+28 Evolution Chamber
+28 Overlord
+30 Lair
+30 +1 Missile Attack
+32 Overlord
+32 Spire
+From here, morph Spine Crawlers at the expansion to work on your economy. Once the Spire completes, you should have enough gas for three Mutalisks, and enough for +1 Air Attack upgrade shortly after. It is also recommended to build some Spore Crawlers near the first Void Thrasher’s spawn point.

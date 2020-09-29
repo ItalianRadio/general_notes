@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-09-29T11:39:47-06:00
+
+====== Nova Masteries ======
+Created Tuesday 29 September 2020
+
+====== MASTERIES ======
+
+===== POWER SET 1: =====
+**Nuke and Holo Decoy Cooldown (-1s to -30s)**
+**Griffin Airstrike Cost (-10 minerals to -300 minerals)**
+Griffin Airstrike Cost is the clear winner here. Nuke and Holo Decoy cooldowns are too long for the 30 seconds of reduction to allow you an additional use of these abilities in all but the longest of missions. Meanwhile, a 30% discount is significant for a powerful and versatile ability such as the Griffin Airstrike, whose usage is primarily limited by cost rather than cooldown.
+
+===== POWER SET 2 =====
+**Nova Attack Speed (+1% to +30%)**
+**Combat Unit Attack Speed (+0.5% to +15%)**
+Opt for the Combat Unit Attack Speed mastery, as the bulk of damage is dealt by Nova’s army units. On the other hand, Nova has very low auto attack damage in both Stealth and Assault Mode, making the Nova Attack Speed mastery rarely beneficial.
+
+===== POWER SET 3: =====
+**Nova Energy Regeneration (+1% to +30%)**
+**Unit Life Regeneration (+0.2 to +6)**
+Both are useful mastery options to have. Unit Life Regeneration mastery provides a passive heal to all of Nova’s combat units once they have been out of combat for 10 seconds, which serves to refill their health bars in between engagements. While the Raven’s Bio-Mechanical Repair Drones are useful for healing units during combat, it is difficult to continue healing them while your army is on the move, or when you split units away from your main army. However, maximum points in this mastery can be excessive, and +3 HP/second life regeneration may be sufficient for most situations. Therefore, a 15/15 split in this mastery category is suggested, which allows you to have additional energy for using Nova’s Snipe and Penetrating Blast abilities more often.
