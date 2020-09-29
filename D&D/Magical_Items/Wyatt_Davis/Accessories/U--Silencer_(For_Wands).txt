@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-08-24T14:10:22-06:00
+
+====== U--Silencer (For Wands) ======
+Created Monday 24 August 2020
+
+//Wondrous item, uncommon//
+
+This wondrous item has 4 charges. When this cylindrical metal tube is screwed on top of a magical wand it allows the user to cast //silence// from said wand by using an action to expend 1 charge. Each morning at dawn the silencer regains 1d4 charges.
