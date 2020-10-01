@@ -6,7 +6,7 @@ Creation-Date: 2019-05-29T11:33:38-06:00
 Created Wednesday 29 May 2019
 
 Notes Landing Page
-[[+Stuff]]
++Stuff
 
 [[D&D:Campaigns:Ordum:Campaign 2 - The Chain|DMing_D&D]] (The Chain)
 [[Video Games:Grim Dawn:Builds|Grim_Dawn]]
