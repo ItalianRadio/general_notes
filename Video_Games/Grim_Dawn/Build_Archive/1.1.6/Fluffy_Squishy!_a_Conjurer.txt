@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-14T13:15:22-06:00
+
+====== Fluffy Squishy! a Conjurer ======
+Created Friday 14 June 2019
+
+https://www.grimtools.com/calc/4NOnrjoZ
+
+pet user that focuses on:
+* Familiar for elemental damage
+* Skele, Briarthorn & Hellhound for defense/aggro!
+* Curse of Frailty & Wind Devil for -ele resist
+* Primal Bond, Blood of Dreeg & Mog's Pact for defense
+* Bonds of Bysmiel for pet +
