@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-06T12:12:42-06:00
+
+====== Rush Level Shaman ======
+Created Tuesday 06 October 2020
+
+{{.\pasted_image.png?width=500}}
+The Level 10 Build
+
+{{.\pasted_image001.png?width=500}}
+Demonic Spectre Build
+
+=== Build Variations ===
+* 4-6 Savage With 4-6 Shamans, can use a ★★★ spectre with BKB
+
+=== Strength/Weakness ===
+* Minimum or no requirement for ★★, high chance of top 4/3/2 with average RNG
+* Need to level up fast and luck into key shamans like Lone Druid, weak after round 30
+
+=== Key Unit/Items: ===
+* Necronomicon & Horn of the Alpha Best Zoo items!

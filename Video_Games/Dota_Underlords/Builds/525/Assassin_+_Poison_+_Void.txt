@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-06T12:03:48-06:00
+
+====== Assassin + Poison + Void ======
+Created Tuesday 06 October 2020
+
+{{.\pasted_image.png?width=500}}
+PA/Ember/QoP replaceable if not at ★★★
+
+=== Build Variations ===
+3 Poisoner Early Game, 3 Void for Late Game, 2 Scaled with tide optional Vs spell casters
+
+=== Strength/Weakness ===
+* Great Vs most builds, especially with enough ★★★ to 1-2 shot ★★ Enemies
+* Must have little or no contest in the lobby (Need to roll at lvl 4/5 or lvl 7 for ★★★)
+
+=== Key Unit/Items: ===
+* AOE Stun lets for crazy Enno!
+* Mask of madness on PA/Slark
+* Moonshard on Slark/Queen
+* Battle Fury on Ember/PA
+* Refresher on Tide

@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-06T12:15:09-06:00
+
+====== 6 Swordsman OHKO ======
+Created Tuesday 06 October 2020
+
+{{.\pasted_image.png?width=500}}
+
+=== Build Variations ===
+Must Have 2-4 ★★★ Units (preferably PA & Ember)
+
+=== Strength/Weakness ===
+* With Up to 200% DMG and 400 base DMG on Ember ★★★, its one punch man time!
+* Pray to RNGesus!
+
+=== Key Unit/Items: ===
+* Mask of Madness PA
+* Battle Fury/Refresher Ember
