@@ -1,0 +1,56 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-06T16:53:55-06:00
+
+====== Karax ======
+Created Tuesday 06 October 2020
+
+====== BUILD ORDER ======
+
+Karax should try to expand as early as possible by taking advantage of the Spear of Adun Energy mastery to destroy expansion Rocks or enemy defenses with Spear of Adun abilities. If you do not have access to enough mastery points to pull this off, you can still use your instant warp-in Photon Cannons to clear out Rocks or enemy defenses. Securing an early expansion is absolutely critical as Karax requires a lot of resources to get started. The following builds are recommended on maps where your natural is blocked by Rocks. For all other maps, refer to the map-specific section and the attached replays. The first two build orders assume 30/0 in Spear of Adun Energy mastery.
+
+===== Build Order #1: Carrier/Static Defense Opening =====
+- Use 20 Orbitial Strike to destroy your expansion's Rocks
+15 Nexus
+15 Pylon (at Rocks)
+17 Assimilator
+18 Assimilator
+20 Forge
+26 Photon Cannon
+32 Photon Cannon
+36 Gateway
+37 Assimilator
+38 Pylon
+40 Assimilator
+46 Pylon
+
+===== Build Order #2: Sentinel Opening =====
+- Use 20 Orbitial Strike to destroy your expansion's Rocks
+15 Nexus
+15 Pylon (at Rocks)
+17 Assimilator
+18 Assimilator
+20 Gateway
+28 Sentinel (Chrono Boost Gateway)
+- Use excess Spear of Adun Energy on gas Rocks.
+32 Cybernetics Core
+33 Sentinel (Chrono Boost Nexus after Sentinel is done)
+37 Pylon
+40 Assimilator
+44 Pylon
+46 Assimilator
+
+===== Build Order #3: Two Cannon Opening (Use if you don't have 90 Mastery points) =====
+15 Pylon (at Rocks)
+15 Forge
+19 Photon Cannon
+20 Photon Cannon
+21 Assimilator
+22 Assimilator
+23 Nexus
+23 Pylon
+26 Gateway
+28 Assimilator
+28 Assimilator
+32 Cybernetics Core
+34 Pylon
