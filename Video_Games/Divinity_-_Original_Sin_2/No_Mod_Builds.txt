@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2020-07-29T11:17:17-06:00
 
-====== Builds ======
+====== No Mod Builds ======
 Created Wednesday 29 July 2020
 
 These are builds for base-game Divinity
