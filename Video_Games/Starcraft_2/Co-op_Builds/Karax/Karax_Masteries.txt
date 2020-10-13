@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-06T16:54:17-06:00
+
+====== Karax Masteries ======
+Created Tuesday 06 October 2020
+
+====== MASTERIES ======
+
+===== POWER SET 1: =====
+**Combat Unit Resource Cost (-1% - -30%)**
+**Structure Life and Shields (+2% - +60%)**
+Both of these masteries change Karax’s game in impactful ways. Structure Life and Shields is useful when you plan to play extremely defensively and rely on static defense as your primary strategy, which can be viable on defensive maps and certain mutations. However, Combat Unit Resource Cost is better in most situations, and absolutely essential for executing an army-based build effectively, and hence much more versatile. Where a defense-based build can be counted upon only in a defensive situation, an army-based build can be effective both offensively and defensively.
+
+===== POWER SET 2: =====
+**Repair Beam Healing Rate: (+1% - +30%)**
+**Chrono Wave Energy Generation (+1 - +30)**
+Though neither mastery is greatly impactful, they both have their uses. Chrono Wave Energy Generation allows you to save resources on Solar Efficiency upgrades, and is often the superior choice for a mass Carrier composition, as Repair Beam Healing Rate is less useful for the highly resilient Carriers. Meanwhile, a ground army-based army build appreciates Repair Beam Healing Rate more than the extra energy due to the extra damage absorbed by the ground units. Finally, a static defense build can better afford the gas for Solar Efficiency upgrades, making the Chrono Wave Energy Generation less of a relative improvement. It is worth noting that the base healing provided by the Reconstruction Beam is 5 per second, increasing to 10 on structures and affecting up to three targets at once, with the Solar Forge containing an upgrade that increases it to four targets.
+
+===== POWER SET 3: =====
+**Chrono Boost Efficiency (+1% - +30%)**
+**Initial and Maximum Spear of Adun Energy: (+3 - +90)**
+Initial and Maximum Spear of Adun Energy significantly increases Karax’s early game power. This energy can be spent in many different ways, but most notably giving Karax the fastest possible expansion of any commander on most maps. Should you research multiple Solar Efficiency upgrades, being able to store an extra 90 energy can allow you more freedom to bank your energy, and can provide you with extra burst damage which you may need in the late game. Max mastery in Chrono Boost Efficiency has niche uses, however, such as on Dead of Night where Spear of Adun energy is less impactful as you cannot expand.
