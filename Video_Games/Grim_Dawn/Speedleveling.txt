@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-12-15T17:48:08-07:00
+
+====== Speedleveling ======
+Created Tuesday 15 December 2020
+
+==== Crucible ====
+Grab your Merit, Leveling gear, & XP potions
+
+==== Collect Lore Notes on Normal ====
+6 - Conclave of the Three
+1 - Vanguard of the Three
+2 - Coven's Refuge
+2 - Barrowholm
+2 - Fort Ikon
+
+==== First Quest on Ultimate ====
+Collect 4 Lore notes 
+Save Faldis
+Walk into //The Burial Cave//
+Pop XP potion & all lore notes
+Kill Kyzogg
+Complete convenient quests
+Get last lore note
+
+==== Devotion Hop on Normal ====
+{{.\pasted_image.png}}
+{{.\pasted_image001.png}}
+{{.\pasted_image002.png}}
+{{.\pasted_image003.png}}
+{{.\pasted_image004.png}}
+{{.\pasted_image005.png}}
+{{.\pasted_image006.png}}
+
+==== Level as normal in Elite ~ level 70 ====
+
+==== Level as normal in Ultimate ====

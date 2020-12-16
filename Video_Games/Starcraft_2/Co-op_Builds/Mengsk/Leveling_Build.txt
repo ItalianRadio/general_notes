@@ -1,0 +1,24 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-29T20:38:52-06:00
+
+====== Leveling Build ======
+Created Thursday 29 October 2020
+
+==== RIFTS TO KORHAL BUILD W/ TOXIC TYRANT ====
+
+14 - 3 in defense bunker
+16 - 3 in gas
+18 - 1 in Ebay
+19 - 1 in rock bunker
+start call down on ebay finish
+25 - 8 into bunker for attack wave
+26 - call down bunker for attack wave
+34 - expansion
+35 - marines from bunkers destroy rocks
+38 - 3 in gas
+42 - 3 in expac gas
+drop 2 marines here
+{{.\pasted_image.png}}
+just start dropping marines here
+45 - build macro center
