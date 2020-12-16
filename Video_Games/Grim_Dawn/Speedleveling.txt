@@ -26,12 +26,12 @@ Get last lore note
 
 ==== Devotion Hop on Normal ====
 {{.\pasted_image.png}}
-{{.\pasted_image001.png}}
-{{.\pasted_image002.png}}
+{{.\pasted_image001.png?width=550}}
+{{.\pasted_image002.png?width=550}}
 {{.\pasted_image003.png}}
 {{.\pasted_image004.png}}
-{{.\pasted_image005.png}}
-{{.\pasted_image006.png}}
+{{.\pasted_image005.png?width=550}}
+{{.\pasted_image006.png?width=550}}
 
 ==== Level as normal in Elite ~ level 70 ====
 
