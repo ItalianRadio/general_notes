@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-01-15T09:08:46-07:00
+
+====== FFXIV ======
+Created Friday 15 January 2021
+
+[[https://old.reddit.com/r/ffxiv/comments/io9s26/endgame_gear_content_guide_for_fresh_80s_patch_53/|5.3 Guide to endgame Gear & Content @ 80]]

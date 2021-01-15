@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-01-15T09:09:00-07:00
+
+====== Beginner Notes ======
+Created Friday 15 January 2021
+
+* Turn down Battle Effects
+	* Character Config -> Character -> Battle Effects Settings -> Show Limited
+* Limsa Lominsa is probably the best, but go with your heart.
+	* Tree huggers
+	* Pirates
+	* Desert
+* [[https://www.youtube.com/user/MTQcapture|MTQcapture]]
+* Controller Support is great. You can end-game raid with a controller!
+* Do the MSQ above all else!
+* [[https://ffxiv.consolegameswiki.com/wiki/Content_Unlock|Content Unlock]] - Do the blue '+' quests!
+* Level 30 - Chocobo!
+* Speedy Leveling can be done in Deep Dungeons & Daily Duty Finder
+	* The Palace of the Dead from level 17 (floors 51-60)
+	* Heaven on High from level 61 (floors 21-30)
+* If you're not with a friend, utilize the Novice Network
+* Item Level > stats
+* Classes are crazy balanced in this game - Pick one that sings to you
+	* [[https://www.youtube.com/watch?v=k_vH-1WZQ3A|Larryzaur's Which Job to play video]]
+* [[https://i.redd.it/203h9nbmebw21.png|Terms & Tips]]
