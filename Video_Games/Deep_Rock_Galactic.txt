@@ -1,0 +1,54 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-13T13:16:43-07:00
+
+====== Deep Rock Galactic ======
+Created Saturday 13 March 2021
+
+==== Perk Guide ====
+1 - Friendly I
+1 - Field Medic I
+1 - Thorns I
+
+2 - Field Medic II
+2 - Thorns II
+2 - Veteran Depositor I
+
+3 - Field Medic III
+3 - Thorns III
+3 - Veteran Depositor II
+3 - Resupplier I
+
+4 - **New Passive Perk Slot**
+4 - Field Medic IV
+4 - Thorns IV
+4 - Veteran Depositor III
+4 - Sweet Tooth I
+
+5 - Veteran Depositor IV
+1 - Heightened Senses I
+2 - Heightened Senses II
+3 - Heightened Senses III
+5 - Sweet Tooth II
+
+6 - Sweet Tooth III
+6 - Vampire I
+5 - Unstoppable I
+5 - Strong Arm I
+4 - Elemental Insulation I
+
+7 - Deep Pockets I
+7 - Born Ready I
+1 - Second Wind I
+7 - Vampire
+4 - Resupplier II
+
+8 - It's a Bug Thing I
+6 - Beastmaster I
+6 - Dash I
+3 - Iron Will I
+7 - Shield Link I
+
+9 - **New Passive Perk Slot**
+
+Do what you want! If you want perks, get them!
