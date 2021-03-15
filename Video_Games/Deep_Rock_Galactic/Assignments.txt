@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-03-15T10:02:48-06:00
+
+====== Assignments ======
+Created Monday 15 March 2021
+
+=== Objective: Conquer Hoxxes IV ===
+This is a 10-mission long assignment that has to be played by every new player to unlock all available mission types and Planetary Regions.
+
+=== Company Benefits: Mineral Trading Network ===
+This is a short, 3 mission long assignment that will unlock the Mineral Trade Terminal It becomes available after Conquering Hoxxes IV assignment has been completed.
+
+=== Assignment: Breach The Core ===
+//Prereq - Promoted Character//
+Upon obtaining the first promotion, the end campaign assignment mission is unlocked. Completing this 9 mission long assignment will reward the player with 6 Infused Matrix Cores, as well as unlocks the Weekly Core Hunt assignment.
+
+=== New Hazard Level: Lethal ===
+//Prereq - Player Rank 10//
+This is a 3 mission-long assignment, upon completion the player is granted access to Hazard 5 - Lethal. The assignment's missions can have mutators and have to be completed at Hazard 4.
+
+=== Equipment Licenses ===
+Dwarves will unlock these assignments once reaching level 10 and 15, these assignments grant them licenses to various equipment.
+**Driller:** Cryo Cannon & Experimental Plasma Charger
+**Engineer: "**Stubby" Voltaic SMG & Breach Cutter
+**Gunner:** "Thunderhead" Heavy Autocannon & BRT7 Burst Fire Gun
+**Scout:** M1000 Classic & Zhukov NUK17
+
+=== Promotion ===
+When one of your dwarves reaches Character Level 25, they become eligible for a promotion. In order to promote, you have to complete a 4-mission long assignment, and pay a large amount of Credits and Crafting Materials.
+
+==== Weekly Assignments ====
+
+=== Weekly Priority Assignment ===
+//Prereq - Player Rank 8//
+This assignment changes every week to a random set of non-duplicate missions and crafting resources. Although they change every week, everyone shares the same set of missions and rewards, between 80 to 130 per Minerals and 8000 credits.
+
+=== Weekly Core Hunt ===
+After completing the Breach The Core assignment, the Weekly Core Hunt assignment is unlocked. It is a 3 missions long assignment that resets weekly. Completing the assignment will reward the player both a Weapon Overclock and a Cosmetic Overclock. If all Infused Matrix Cores have already been collected, Matrix Core Blank Matrix Cores are rewarded instead.
+
+==== Prestige Assignments ====
+When you reach a certain Rank Player Rank threshold, a 4-mission long Prestige Assignment becomes available, rewarding full Pickaxe customization sets, unique Armor Paintjob and Helmets. Each of these requires that the previous Prestige Assignment has been completed.
+
+=== Heavy Duty ===
+This assignment becomes available after Conquering Hoxxes IV assignment has been completed. It's focused on the big machinery Missions and will reward 50 of each crafting materials, credits and a special helmet.
+
+=== Pickaxe Hunts ===
+Pickaxe Hunts will become available at Player Rank 20, 30, & 75
+
+=== Armor Hunts ===
+Armor Hunts will become available at Player Rank 40, 60, & 100
+
