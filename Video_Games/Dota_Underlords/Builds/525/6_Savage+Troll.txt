@@ -5,7 +5,7 @@ Creation-Date: 2021-03-26T10:42:23-06:00
 ====== 6 Savage+Troll ======
 Created Friday 26 March 2021
 
-{{.\pasted_image001.png?width=500}}
+{{.\pasted_image001.png?width=400}}
 
 - Early Game:
 You should play with 2 Savage heroes. If you have 2 Bristleback, just use them.
@@ -22,3 +22,9 @@ You should be level 6/7 and use 4 Savage 2 Troll.
 You should have some increase attack speed item for Savage heroes.
 Try to up to level 10 fast and find Troll Warlord.
 And now you have 6 Savage and 4 Troll, then you can destroy enemies.
+
+Items:
+★★★ Bat - Malestrom
+Bristleback - Blademail
+Troll Warlord - Mask of Madness
+Lone Druid - Refresher
