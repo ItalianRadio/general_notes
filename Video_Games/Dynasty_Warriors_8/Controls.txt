@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-04-30T22:39:38-06:00
+
+====== Controls ======
+Created Friday 30 April 2021
+
+- [AWSD] Movement
+- [486] (Numpad) attacks/rage/muso
+- [Space] Jump
+- [L Shift] Block (remember to disable sticky keys).
