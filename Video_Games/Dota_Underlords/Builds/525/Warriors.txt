@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2021-03-30T23:29:11-06:00
 
-====== 6 Warrior ======
+====== Warriors ======
 Created Tuesday 30 March 2021
 
 {{.\pasted_image.png?width=500}}

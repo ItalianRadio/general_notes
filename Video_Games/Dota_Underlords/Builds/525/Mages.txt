@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-10-06T12:06:47-06:00
+
+====== Mages ======
+Created Tuesday 06 October 2020
+
+{{.\pasted_image.png?width=500}}
+Warrior Spirit Mage
+
+{{.\pasted_image001.png?width=500}}
+6 Human Mage
+
+=== Build Variations ===
+Use 6 Mage As Core, Build with 3 mage at the start and use our strong ★★★ units or ★★ Tier 4/5 units as the base of the Variations alliance added (E.g. with 3 star storm and earth spirit, go spirits, with 2 star dragon knight/Keeper go knights)
+
+=== Strength/Weakness ===
+* Great when there is no mage in the lobby, counters most melee builds, can roll for ★★★ or fast level up
+* RNG depended, can be countered by items like BKB, pipe, hood and scaled alliance. Little single target focus vs ★★★ carries.
+
+=== Key Unit/Items: ===
+* AOE Damage Hobgen!
+* Barricade, Mana Boots (if only plan for 2 humans)
