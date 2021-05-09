@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-05-08T19:20:20-06:00
+
+====== Boss Mode ======
+Created Saturday 08 May 2021
+
+Start w/ Adria or Urzael bounty, if you don't have one, reroll
+
+Act I - The Skeleton King, Queen Araneae, The Butcher
+Act II - Maghda, Zoltun Kulle, Belial
+Act III - Ghom, Siegebreaker, Cydea, Azmodan
+Act IV - Rakanoth, Izual, Diablo
+Act V - Urzael, Adria, Malthael
+
