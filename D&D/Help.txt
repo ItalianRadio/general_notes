@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-05-09T21:04:05-06:00
+
+====== Help ======
+Created Sunday 09 May 2021
+
+Character generator (Even helps w/ backgrounds and such!)
+https://tetra-cube.github.io/dnd/dnd-char-gen.html
+
+https://old.reddit.com/r/mattcolville/comments/n8qhg4/sf_unit_creator_v11/
+Unit creator from S&F
