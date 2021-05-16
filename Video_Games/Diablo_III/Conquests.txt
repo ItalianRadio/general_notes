@@ -2,9 +2,10 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2021-05-08T19:20:20-06:00
 
-====== Boss Mode ======
+====== Conquests ======
 Created Saturday 08 May 2021
 
+===== Boss Mode =====
 Start w/ Adria or Urzael bounty, if you don't have one, reroll
 
 Act I - The Skeleton King, Queen Araneae, The Butcher
@@ -13,3 +14,5 @@ Act III - Ghom, Siegebreaker, Cydea, Azmodan
 Act IV - Rakanoth, Izual, Diablo
 Act V - Urzael, Adria, Malthael
 
+===== Gold Speedrun =====
+Cheesy way is to get 31 TXVI Bounties lol
