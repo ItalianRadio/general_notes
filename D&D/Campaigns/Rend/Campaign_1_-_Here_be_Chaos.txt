@@ -6,7 +6,7 @@ Creation-Date: 2021-05-15T22:29:32-06:00
 Created Saturday 15 May 2021
 
 === Characters ===
-Rachael - Human Fighter (Rune Knight)
-Sam - Warforged Sorcerer (Clockwerk)
-Chance - Shadarkai Wizard (Bladesinger)
-Nik - Goblin Ranger (Tasha's Beastmaster)
+**Sonya** - //Rachael// - Human Fighter (Rune Knight)
+**K.O.T.A.** - //Sam// - Warforged Sorcerer (Clockwerk)
+**Goru'nova - **//Chance// - Shadarkai Wizard (Bladesinger)
+**Glix** - //Nik// - Goblin Ranger (Tasha's Beastmaster)
