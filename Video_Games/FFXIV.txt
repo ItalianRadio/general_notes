@@ -6,3 +6,6 @@ Creation-Date: 2021-01-15T09:08:46-07:00
 Created Friday 15 January 2021
 
 [[https://old.reddit.com/r/ffxiv/comments/io9s26/endgame_gear_content_guide_for_fresh_80s_patch_53/|5.3 Guide to endgame Gear & Content @ 80]]
+
+https://github.com/skotlex/ffxiv-material-ui
+https://github.com/TexTools/FFXIV_TexTools_UI/releases
