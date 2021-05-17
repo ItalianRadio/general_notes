@@ -9,3 +9,5 @@ Created Friday 15 January 2021
 
 https://github.com/skotlex/ffxiv-material-ui
 https://github.com/TexTools/FFXIV_TexTools_UI/releases
+
+https://www.gameskinny.com/hca94/ffxiv-how-to-transfer-character-settings-binds-and-hud
