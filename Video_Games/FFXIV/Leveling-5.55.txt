@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-05-26T11:35:11-06:00
+
+====== Leveling-5.55 ======
+Created Wednesday 26 May 2021
+
+https://www.youtube.com/watch?v=QHYClNUfMCs
+
+* Have a max level character for Armory Bonus
+* Equip the XP gain items
+	* Brand new Ring (<30)
+	* Friendship Circlet (<25)
+	* Pre-Order Earring [Only one that "costs money"]
+* Food buffs (XP from food buffs is a lot more than you think)
+* Levels 1-20 is split into do you have friends or not
+	* **Have Friends** - Go to a zone w/ level 60 mobs and do the blue mage leveling method
+	* **Don't Have Friends** :( - Job Quests + FATES + Hunting Log
+* Do EVERY SINGLE Duty Roulette, they are all more than worth it. The only one that is sus is the MSQ Roulette because it's boring. SquEnix has made it worth it thou xp-wise
+* Levels 20-50 is split into Tank/Heals or DPS
+	* Tank/Heals - you can queue for the normal leveling roulette. If you're the adventurer in need it's worth it even if you get a sprout group. If you're not then it may just be faster to do the dungeons with your squadron
+	* DPS - Just do squadron
+* POTD is NOT good if you're <30 because you won't have job actions and therefore you won't get all the spells you need to do it fast. It's also slow for leveling if you're not in a premade.
+* Levels 51-61 is just PotD 51-60 spamming. It's boring and it's the worst experience of speedrun leveling. It may be just worth it to daily roulettes and finding a different class. It's boring, so you can do the less effecient method of spamming roulette dungeons.
+* WONDROUS TAILS help cut down the grind in 50-61 immensly
+* Levels 61-71 is just HoH floors 21-30. Open all silver chests for floor skips. Once again, it's boring as fuck. If you're in long queues for HoH, then try and do some Hunts. Don't forget to do dailies. This is the first time that dungeons are a lot less efficient. This is because they're cooler, but also a lot longer.
+* Levels 71-80 is Bojzan Front. Spam it. It's also helpful because now you are doing legitimate endgame content while you level. This feels a lot better.
+
+In the end, the best thing for your mental health is to just run your dailies on your alt classes.
