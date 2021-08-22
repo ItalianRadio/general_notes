@@ -5,7 +5,10 @@ Creation-Date: 2021-08-15T16:53:37-04:00
 ====== Campaign 4 - Cinder's Soldiers ======
 Created Sunday 15 August 2021
 
-**Mike**	Ranger
-**Minard**	Samurai Fighter - //Tabaxi//
-**Stearns**	__Mister Fistum__ Squared Circle Pugilist - //Warforged//
-**Terra**	__Emberroot__ Divine Soul Sorcerer - //Half Elf//
+| Player  | Character Name     | Class                   | Race      |
+|:--------|:-------------------|:------------------------|:----------|
+| Mike    | Saélihn Greenthorn | Swarmkeeper Ranger      | Wood Elf  |
+| Minard  | Shi'kiko           | Scout Rogue/Monk        | Tabaxi    |
+| Stearns | Mister Fistum      | Squared Circle Pugilist | Warforged |
+| Terra   | Qiptew Bellringer  | Hexblade Warlock        | Half Elf  |
+
