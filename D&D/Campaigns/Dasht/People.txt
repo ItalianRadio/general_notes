@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-10-02T10:03:57-04:00
+
+====== People ======
+Created Saturday 02 October 2021
+
+__Party__
+~~Ulrogg - snarky halfling eloquence  bard~~
+**Tem Alayanor** - stabby-stabby bard //Half-elf//
+**Ashe** - //warforged //Life Cleric
+**Chauterac** - //Half-Elf// Fire drood
+**Fate** - //High Elf// rogue
+
+__Boss__
+**Thadius Greyhart**, Red hair'd //tiefling// leader and finacial backing of the group. He is impatient and expects everything to be done for him while boasting about his (lackluster) abilities.  
+**Brendel Fastwater**, a female //firbolg// ranger who has been providing the navigation and (according to Thadius, substandard) food in the form of game. She is shy, but kind.
+**Algar Nittle**, //Vedalken// arcane member of the party. He was hired to deal with any magical issues that might arise during the journey, and has used his wizard abilities compitently so far. He is quiet and sticks to himself. 
