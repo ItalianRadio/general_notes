@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-10-16T13:35:46-04:00
+
+====== Ekkie Wildshape Forms ======
+Created Saturday 16 October 2021
+
+CR3:
+Land (Huge): Dinosaur, Mbielu (tob 114)
+Land (Large): Scorpion, Stigian Fat-tailed (tob 340)
+Land (Tiny): Stigian Fat-tailed Scorpion (tob 340)
+
+Water: Killer Whale (mm 331)
+Climb: J’ba Fofi Spider (tob 362)

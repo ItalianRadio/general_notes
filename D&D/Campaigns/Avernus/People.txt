@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-10-17T09:51:08-04:00
+
+====== People ======
+Created Sunday 17 October 2021
+
+| Character     | Pronunciation  | Player | Race     | Class               |
+|:--------------|:---------------|:-------|:---------|:--------------------|
+| Dgeoph’hree   | Geoffrey       | James  | Harengon | Sporelock           |
+| Brobenoh      | Bro-ben-oh     | Joe    | Harengon | Glory Paladin       |
+| Kek           | Kek            | Max    | Kobold   | Soul Knife          |
+| Vizik Ghuzuth | Veezick G'zuth | Mike   | Bugbear  | Rune Knight         |
+| Sutir         | Sooteer        | Ryan   | Furbolg  | Moon Druid          |
+| Cael Turi     | Kale Tooree    | Wyatt  | Aasimar  | Oathbreaker Paladin |
+
+**Lulu** - guide in Avernus - https://www.dndbeyond.com/monsters/hollyphant
+
+**Thavius Krieg** (leader of elterelle) signed a deal w/ a devil to suck their city into Avernus for power. Got grabbed by devils after shifting into a devil
+
+**Ulder Ravenguard** - leader of the flaming fist, disappeared. Flaming fist has devolved into yakuza
+
+**Zariel - **fighting for elterelle w/ her helriders
