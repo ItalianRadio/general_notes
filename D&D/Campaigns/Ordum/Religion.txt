@@ -13,3 +13,18 @@ The Nine Gods preside over Ordum
 The vast majority of people in Ordum have never had a direct relationship with the gods. Instead they worship their most pious followers, their saints. To become a saint, it is not necessary to be a cleric or paladin to a God or saint, but instead to be true to a tenant that a god prefers in their followers.
 Gods have dozens of saints with some saints serving in a subservient capacity to other saints that govern the same traits. If a god payed enough attention to you when you were alive there is a good chance that you will become a saint upon death. The gods are fickle though and easily lose interest in those that live simple lives.
 Finally, saints are made after death and even the concept of a living saint is considered sacrilege. If someone were to go around declaring that they are a saint, they might find themselves accused of a major crime, framed in a way where the punishment is death.
+
+| God     | Title      | Domains                                          |
+|---------|------------|--------------------------------------------------|
+| Baldyr  | Dragonlord | Fire, Knowledge, Magic, Dragons                  |
+| Doar'tz | Sunken     | Corruption, Undead, Redemption, Forgiveness      |
+| Nyce    | Formless   | Balance, Protection, Luck, Chaos, Nature         |
+| Ord     | Worldmaker | Ambition, Crafting, Strength, Earth              |
+| Primus  | Lawbinder  | Obedience, Death, Order, Law                     |
+| Ralu    | Ethereal   | Planning, Flight, Wind, Freedom                  |
+| Razalak | Stultiff   | Repentence, Murder, War, Sin                     |
+| Tenshed | Masked     | Charity, Stealth, Creativity, Destiny, Curiosity |
+| Weiss   | Holy       | Ice, Light, Duplicity, Ocean, Health             |
+
+
+
