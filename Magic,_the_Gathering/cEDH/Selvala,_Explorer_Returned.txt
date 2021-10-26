@@ -1,0 +1,86 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-10-25T21:38:35-04:00
+
+====== Selvala, Explorer Returned ======
+Created Monday 25 October 2021
+
+https://www.moxfield.com/decks/7exKpZu9N024AtT3x4tzAA
+
+===== Proxy Lands =====
+Forest -> Gaea's Cradle
+Forest -> Bountiful Promenade (Multiplayer Land)
+Forest -> Dryad Arbor
+Forest -> Cavern of Souls
+Forest -> Horizon Canopy (Sac Draw Land)
+Forest -> Yavimay, Cradle of Growth
+Plains -> Mana Confluence
+Plains -> Savannah (OG Dual)
+Exotic Orchard -> City of Brass
+Forest -> Windswept Heath (WG Fetch)
+
+== Off-Color Fetches ==
+Forest -> Misty Rainforest (UG Fetch)
+Plains -> Arid Mesa (WR Fetch)
+Plains -> Flooded Strand (WU Fetch)
+Hickory Woodlot -> Marsh Flats (WB Fetch)
+Razorverge Thicket -> Wooded Foothills (RG Fetch)
+Remote Farm -> Verdant Catacombs (BG Fetch)
+
+===== Upgrade Ramp =====
+Selesnya Signet -> Mox Diamond
+Talisman of Unity -> Mana Crypt
+Arcane Signet -> Chrome Mox
+Arbor Elf -> Seeker of Skybreak
+
+===== Upgrade Combo =====
+Taj-Nar Swordsmith -> Stoneforge Mystic
+Temur Sabertooth -> Emiel the Blessed
+Nature's Chosen -> Benefactor's Draught
+Mandate of Peace -> Grand Abolisher
+Staff of Domination -> Cloudstone Curio
+Eternal Witness -> Green Sun's Zenith
+
+===== Should-Includes =====
+Allosaurus Shepherd
+Carpet of Flowers
+Concordant Crossroads
+Enlightened Tutor
+Esper Sentinel
+Finale of Devastation
+Jeweled Lotus
+Mobilize
+Ranger-Captain of Eos
+Smothering Tithe
+Worldly Tutor
+
+===== Take-Outs =====
+Angelic Ascension
+Once Upon a Time
+Heroic Intervention
+Instill Energy
+Kenrith's Transformation
+Maskwood Nexus
+Open the Armory
+Path to Exile
+
+===== Maybe Take-Outs? =====
+Flawless Maneuver
+Collector Ouphe
+Deafening Silence
+Leyline of Abundance
+Scryb Ranger
+Weird Harvest
+
+===== Maybelist =====
+Circle of Dreams Druid
+Conclave Tribunal
+Endurance
+Saryth, the Viper's Fang
+Sylvan Library
+Sylvan Tutor
+Tooth and Nail
+
+===== ??? =====
+Marwyn, the Nurturer
+Yasharn, Implacable Earth
