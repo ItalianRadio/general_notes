@@ -31,7 +31,7 @@ Remote Farm -> Verdant Catacombs (BG Fetch)
 Selesnya Signet -> Mox Diamond
 Talisman of Unity -> Mana Crypt
 Arcane Signet -> Chrome Mox
-Arbor Elf -> Seeker of Skybreak
+Seeker of Skybreak -> Arbor Elf
 
 ===== Upgrade Combo =====
 Taj-Nar Swordsmith -> Stoneforge Mystic
@@ -72,7 +72,7 @@ Leyline of Abundance
 Scryb Ranger
 Weird Harvest
 
-===== Maybelist =====
+===== Maybe-In-List =====
 Circle of Dreams Druid
 Conclave Tribunal
 Endurance
