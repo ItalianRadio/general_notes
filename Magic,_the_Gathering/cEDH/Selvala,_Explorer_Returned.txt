@@ -13,7 +13,7 @@ Forest -> Bountiful Promenade (Multiplayer Land)
 Forest -> Dryad Arbor
 Forest -> Cavern of Souls
 Forest -> Horizon Canopy (Sac Draw Land)
-Forest -> Yavimay, Cradle of Growth
+Forest -> Yavimaya, Cradle of Growth
 Plains -> Mana Confluence
 Plains -> Savannah (OG Dual)
 Exotic Orchard -> City of Brass
@@ -24,8 +24,8 @@ Forest -> Misty Rainforest (UG Fetch)
 Plains -> Arid Mesa (WR Fetch)
 Plains -> Flooded Strand (WU Fetch)
 Hickory Woodlot -> Marsh Flats (WB Fetch)
-Razorverge Thicket -> Wooded Foothills (RG Fetch)
 Remote Farm -> Verdant Catacombs (BG Fetch)
+Razorverge Thicket -> Wooded Foothills (RG Fetch)
 
 ===== Upgrade Ramp =====
 Selesnya Signet -> Mox Diamond
