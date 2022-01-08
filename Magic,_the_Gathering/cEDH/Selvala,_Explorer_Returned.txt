@@ -35,10 +35,10 @@ Seeker of Skybreak -> Arbor Elf
 
 ===== Upgrade Combo =====
 Taj-Nar Swordsmith -> Stoneforge Mystic
-Temur Sabertooth -> Emiel the Blessed
+Temur Sabertooth -> Cloudstone Curio
 Nature's Chosen -> Benefactor's Draught
 Mandate of Peace -> Grand Abolisher
-Staff of Domination -> Cloudstone Curio
+Staff of Domination -> Emiel the Blessed
 Eternal Witness -> Green Sun's Zenith
 
 ===== Should-Includes =====

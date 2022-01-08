@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2021-12-05T10:33:22-05:00
+
+====== Christmas Elves ======
+Created Sunday 05 December 2021
+
+| Player   | PC      | Class              |
+|----------|---------|--------------------|
+| Francis  | Niko    | Battle Smith       |
+| Terra    | Jolly   | Astral Monk        |
+| Novander | Ginger  | Life Cleric/Bard   |
+| Ryan     | Holly   | Beastmaster Ranger |
+| Mike     | Charlie | Samurai/Totem Barb |
+| Wyatt    | Pardner | Mercy Monk         |
+
