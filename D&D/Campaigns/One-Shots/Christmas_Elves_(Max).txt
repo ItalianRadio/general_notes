@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2021-12-05T10:33:22-05:00
 
-====== Christmas Elves ======
+====== Christmas Elves (Max) ======
 Created Sunday 05 December 2021
 
 | Player   | PC      | Class              |

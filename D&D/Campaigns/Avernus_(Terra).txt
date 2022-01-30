@@ -2,7 +2,7 @@ Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 Creation-Date: 2021-10-14T18:56:07-04:00
 
-====== Avernus ======
+====== Avernus (Terra) ======
 Created Thursday 14 October 2021
 
 [[+Notes]]
