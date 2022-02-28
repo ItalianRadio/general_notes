@@ -1,0 +1,17 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2022-02-27T15:46:41-05:00
+
+====== Season25 ======
+Created Sunday 27 February 2022
+
+===== Gems to Level: =====
+Legacy of Dreams
+Wreath of Lightning
+Gem of Efficacious Toxin
+
+===== Soul Shards: =====
+Fragment of Destruction w/ 10% HP Cull
+Stain of Sin w/ Rift Progress Orbs
+Sliver of Terror w/ Ring of Fire
+Essense of Anguish w/ 50% Poison damage increase
